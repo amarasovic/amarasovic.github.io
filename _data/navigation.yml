@@ -1,0 +1,16 @@
+# Site navigation links
+main:
+- title: Home
+  url: /
+
+- title: Blog
+  url: /blog/
+
+- title: Publications
+  url: /research/
+
+- title: Talks
+  url: /talks/
+  
+- title: CV
+  url: /CV/CV_Ana_Marasovic.pdf

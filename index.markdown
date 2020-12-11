@@ -1,0 +1,31 @@
+---
+layout: single
+classes: wide
+author_profile: true
+---
+
+My interests broadly lie in the fields of **natural language processing** and **explainable AI**. I'm currently working on developing and evaluating models with advanced **reasoning** abilities that provide **readable explanations** of their decision process. 
+
+
+I did my PhD in Computational Linguistics in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="text-decoration: none;">Heidelberg University NLP Group</a> where I worked on **learning with limited labeled data for discourse-oriented tasks**. My advisor was <a href="https://www.cl.uni-heidelberg.de/~frank/" style="text-decoration: none;">Anette Frank</a>. Prior to receiving my PhD in Janurary 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb. I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decoration: none;">Omiš, Croatia</a>. 
+
+
+---
+
+<style type="text/css">
+      table, tr, td {
+  			border: 0px;
+		}
+</style>
+
+<h3 align="center">News</h3>
+
+
+<table class='news-table'>
+    <col width="20%">
+    <col width="80%">
+    <tr>
+        <td valign="top"><strong>Dec 2020</strong></td>
+        <td>Updated my website, woo.</td>
+    </tr>
+</table>

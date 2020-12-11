@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-10T20:51:07-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ana Marasović</title><author><name> </name></author><entry><title type="html">BERT-base forward pass</title><link href="http://localhost:4000/bert-forward/" rel="alternate" type="text/html" title="BERT-base forward pass" /><published>2020-02-19T00:00:00-08:00</published><updated>2020-02-19T00:00:00-08:00</updated><id>http://localhost:4000/bert-forward</id><content type="html" xml:base="http://localhost:4000/bert-forward/">&lt;p&gt;You can downlaod a pdf version of the following text by &lt;a id=&quot;raw-url&quot; href=&quot;https://github.com/amarasovic/academic-kickstart/raw/master/content/post/BERT_base_Transformer.pdf&quot;&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;initialize&quot;&gt;Initialize&lt;/h2&gt;
+
+&lt;p&gt;$W_T \in \mathbb{R}^{\text{vocab size} \times d} = \mathbb{R}^{\text{vocab size} \times 768} … \text{token embeddings}$&lt;/p&gt;
+
+&lt;p&gt;$W_P \in \mathbb{R}^{\text{max input length} \times d} = \mathbb{R}^{512 \times 768} … \text{positional embeddings}$&lt;/p&gt;
+
+&lt;p&gt;$h \in \{1,…,n_{heads}\}, n_{heads}=12$&lt;/p&gt;
+
+&lt;p&gt;$l \in \{1,…,n_{layers}\}, n_{layers}=12$&lt;/p&gt;
+
+&lt;p&gt;$W_{h,l}^Q \in \mathbb{R}^{d \times d_q} = \mathbb{R}^{768 \times 64} …  \text{query weight matrices}$&lt;/p&gt;
+
+&lt;p&gt;$W_{h,l}^K \in \mathbb{R}^{d \times d_k} = \mathbb{R}^{768 \times 64} …  \text{key weight matrices}$&lt;/p&gt;
+
+&lt;p&gt;$W_{h,l}^V \in \mathbb{R}^{d \times d_q} = \mathbb{R}^{768 \times 64} …  \text{value weight matrices}$&lt;/p&gt;
+
+&lt;p&gt;$W_{l}^{ffnn} \in \mathbb{R}^{d \times d_{ffnn}} = \mathbb{R}^{768 \times 3072} … \text{feedforward layer’s weight matrix}$&lt;/p&gt;
+
+&lt;p&gt;$b_{l}^{ffnn} \in \mathbb{R}^{1 \times d_{ffnn}} = \mathbb{R}^{1 \times 3072} … \text{feedforward layer’s bias vector}$&lt;/p&gt;
+
+&lt;p&gt;$W_{l}^{out} \in \mathbb{R}^{d_{ffnn} \times d} = \mathbb{R}^{3072 \times 768} … \text{output layer’s weight matrix}$&lt;/p&gt;
+
+&lt;p&gt;$b_{l}^{out} \in \mathbb{R}^{1 \times d} = \mathbb{R}^{1 \times 768} … \text{output layer’s bias vector}$&lt;/p&gt;
+
+&lt;p&gt;$W^{final} \in \mathbb{R}^{d \times d} = \mathbb{R}^{768 \times 768} … \text{final layer’s weight matrix}
+$&lt;/p&gt;
+
+&lt;p&gt;$I=(i_{1},…,i_{512}) \in \mathbb{N}_{0}^{1 \times \text{max input length}} = \mathbb{N}_{0}^{1 \times 512} … \text{input vocab indices}$&lt;/p&gt;
+
+&lt;p&gt;$T=\texttt{lookup}(W_T,I) \in \mathbb{R}^{\text{max input length} \times d} = \mathbb{R}^{512 \times 768} … \text{input token embeddings}$&lt;/p&gt;
+
+&lt;p&gt;$X = T + W_P  \in \mathbb{R}^{\text{max input length} \times d} = \mathbb{R}^{512 \times 768} … \text{input embeddings}$&lt;/p&gt;
+
+&lt;p&gt;$Z_0=X$&lt;/p&gt;
+
+&lt;h2 id=&quot;forward-algorithm-one-step-not-batched&quot;&gt;Forward algorithm (one step, not batched)&lt;/h2&gt;
+
+&lt;p&gt;For $l \in \{1,…,n_{layers}\}, n_{layers}=12$:&lt;/p&gt;
+
+&lt;p&gt;        For $h \in \{1,…,n_{heads}\}, n_{heads}=12$:&lt;/p&gt;
+
+&lt;p&gt;                $Q_{h,l}=Z_{l-1} W_{h,l}^{Q} \in \mathbb{R}^{\text{max input len} \times d_q} = \mathbb{R}^{512 \times 64} … \text{query matrix}$&lt;/p&gt;
+
+&lt;p&gt;                $K_{h,l}=Z_{l-1} W_{h,l}^{K} \in \mathbb{R}^{\text{max input len} \times d_k} = \mathbb{R}^{512 \times 64} … \text{key matrix}$&lt;/p&gt;
+
+&lt;p&gt;                $V_{h,l}=Z_{l-1} W_{h,l}^{V} \in \mathbb{R}^{\text{max input len} \times d_v} = \mathbb{R}^{512 \times 64} … \text{value matrix}$&lt;/p&gt;
+
+&lt;p&gt;                $A_{h,l}=\texttt{Softmax}(\frac{Q_{h,l}K_{h,l}^T}{\sqrt{d_k}}) \in \mathbb{R}^{\text{max input len} \times \text{max input len}} = \mathbb{R}^{512 \times 512}$&lt;/p&gt;
+
+&lt;p&gt;                $Z_{h,l}=A_{h,l}V_{h,l} \in \mathbb{R}^{\text{max input len} \times d_v} = \mathbb{R}^{512 \times 64}$&lt;/p&gt;
+
+&lt;p&gt;        $\tilde{Z}_l = \texttt{concat}(Z_{1,l},…,Z_{n_{heads},l}) \in \mathbb{R}^{\text{max input len} \times (d_v \cdot n_{heads})} = \mathbb{R}^{512 \times (64 \cdot 12)} = \mathbb{R}^{512 \times 768}$&lt;/p&gt;
+
+&lt;p&gt;        $\bar{Z_l} = \texttt{LayerNorm}(Z_{l-1}+\tilde{Z_l}) \in \mathbb{R}^{512 \times 768}$&lt;/p&gt;
+
+&lt;p&gt;        $Z_l^{ffnn}=\max(0, \bar{Z_l}W_l^{ffnn}+b_l^{ffnn}) \in \mathbb{R}^{\text{max input len} \times d_{ffnn}} = \mathbb{R}^{512 \times 3072}$&lt;/p&gt;
+
+&lt;p&gt;        $Z_l^{out} = Z_l^{ffnn}W_l^{out} + b_l^{out} \in  \mathbb{R}^{\text{max input len} \times d} = \mathbb{R}^{512 \times 768}$&lt;/p&gt;
+
+&lt;p&gt;        $Z_l = \texttt{LayerNorm}(\bar{Z_l}+Z_l^{out}) \in \mathbb{R}^{512 \times 768}$&lt;/p&gt;
+
+&lt;p&gt;Pass $\text{tanh}(W^{final}Z_{n_{layers}}[0,:])$ to the final $\texttt{Softmax}$ that predicts the class, where $Z_{n_{layers}}[0,:]$ is the hidden state corresponding to the first token.&lt;/p&gt;
+
+&lt;h2 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h2&gt;
+
+&lt;p&gt;Thanks to Andriy Mulyar for pointing out a mistake in the layer normalization in the initial version of this post.&lt;/p&gt;</content><author><name> </name></author><summary type="html">You can downlaod a pdf version of the following text by clicking here.</summary></entry><entry><title type="html">NLP’s generalization problem, and how researchers are tackling it</title><link href="http://localhost:4000/the-gradient-generalization/" rel="alternate" type="text/html" title="NLP’s generalization problem, and how researchers are tackling it" /><published>2018-08-22T00:00:00-07:00</published><updated>2018-08-22T00:00:00-07:00</updated><id>http://localhost:4000/the-gradient-generalization</id><content type="html" xml:base="http://localhost:4000/the-gradient-generalization/">&lt;p&gt;I wrote for The Gradient about generalization in NLP. Check it &lt;a href=&quot;https://thegradient.pub/frontiers-of-generalization-in-natural-language-processing/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name> </name></author><summary type="html">I wrote for The Gradient about generalization in NLP. Check it here.</summary></entry></feed>
