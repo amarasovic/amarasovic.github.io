@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "/images/profile.png"
+  avatar           : "/images/profile.jpeg"
   bio              : "Postdoc &bull; Allen Institute for AI (AI2) &bull; AllenNLP &bull; University of Washington"
   location         : "Seattle, USA"
   email            :
