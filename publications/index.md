@@ -10,7 +10,7 @@ date:   2020-12-05 22:15:29 -0800
 
 * Alon Jacovi, **Ana Marasović**, Tim Miller, Yoav Goldberg    
 <span style="color:navy">Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI</span>.  
-*FAccT 2021*     
+*FAccT*     
 [Paper](#https://arxiv.org/abs/2010.07487){: .btn .btn--info .btn--small} 
 
 ### 2020
