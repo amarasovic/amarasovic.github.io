@@ -28,6 +28,10 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
     <tr>
         <td valign="top"><strong>Dec 2020</strong></td>
+        <td>I'm one of outstanding reviewers for EMNLP 2020.</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>Dec 2020</strong></td>
         <td>A <a href="https://arxiv.org/abs/2010.07487" style="text-decoration: none;">paper on formalization of human-AI trust</a> is accepted to FAccT 2021.</td>
     </tr>
     <tr>
@@ -35,3 +39,4 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
         <td>Updated my website, woo.</td>
     </tr>
 </table>
+
