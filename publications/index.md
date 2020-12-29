@@ -6,6 +6,19 @@ title: Publications
 date:   2020-12-05 22:15:29 -0800
 ---
 
+### Preprints
+
+* Alexis Ross, **Ana Marasović**, Matthew E. Peters   
+<span style="color:navy">Explaining NLP Models via Minimal Contrastive Editing (MiCE)</span>
+*arXiv preprint*    
+[Paper](#https://arxiv.org/abs/2012.13985){: .btn .btn--info .btn--small}  
+
+* Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
+<span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>
+*arXiv preprint*    
+[Paper](#https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}       
+
+
 ### 2021
 
 * Alon Jacovi, **Ana Marasović**, Tim Miller, Yoav Goldberg    
@@ -14,11 +27,6 @@ date:   2020-12-05 22:15:29 -0800
 [Paper](#https://arxiv.org/abs/2010.07487){: .btn .btn--info .btn--small} 
 
 ### 2020
-
-* Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
-<span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>    
-*arXiv preprint*    
-[Paper](#https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}       
 
 * **Ana Marasović**, Chandra Bhagavatula, Jae Sung Park, Ronan Le Bras, Noah A. Smith, Yejin Choi  
 <span style="color:navy">Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs</span>   
