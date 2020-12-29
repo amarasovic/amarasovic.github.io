@@ -31,7 +31,7 @@ date:   2020-12-05 22:15:29 -0800
 * **Ana Marasović**, Chandra Bhagavatula, Jae Sung Park, Ronan Le Bras, Noah A. Smith, Yejin Choi  
 <span style="color:navy">Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs</span>   
 *Findings of EMNLP*   
-[Paper](https://arxiv.org/abs/2010.07526){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/visual-reasoning-rationalization){: .btn .btn--danger .btn--small}
+[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.253/){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/visual-reasoning-rationalization){: .btn .btn--danger .btn--small}
 
 * Qiang Ning, Hao Wu, Pradeep Dasigi, Dheeru Dua, Matt Gardner, Robert L. Logan IV, **Ana Marasović**, Zhen Nie          
 <span style="color:navy">Easy, Reproducible and Quality-Controlled Data Collection with CrowdAQ</span>          
