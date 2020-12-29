@@ -28,6 +28,10 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
     <tr>
         <td valign="top"><strong>Dec 2020</strong></td>
+        <td>A new <a href="https://arxiv.org/abs/2012.13985" style="text-decoration: none;">preprint on generating contrastive explanations</a> is available on arXiv.</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>Dec 2020</strong></td>
         <td>I'm one of outstanding reviewers for EMNLP 2020.</td>
     </tr>
     <tr>
