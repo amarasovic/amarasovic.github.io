@@ -28,7 +28,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
     <tr>
         <td valign="top"><strong>Dec 2020</strong></td>
-        <td>A new <a href="https://arxiv.org/abs/2012.15793" style="text-decoration: none;">preprint om evaluating and promoting graph awareness in T5-based linearized models for graph-to-text generation</a> is available on arXiv.</td>
+        <td>A new <a href="https://arxiv.org/abs/2012.15793" style="text-decoration: none;">preprint on evaluating and promoting graph awareness in T5-based linearized models for graph-to-text generation</a> is available on arXiv.</td>
     </tr>
     <tr>
         <td valign="top"><strong>Dec 2020</strong></td>

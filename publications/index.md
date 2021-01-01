@@ -8,8 +8,8 @@ date:   2020-12-05 22:15:29 -0800
 
 ### Preprints
 
-* Alexander M. Hoyle, **Ana Marasović**, Noah A. Smith 
-<span style="color:navy">Promoting Graph Awareness in Linearized Graph-to-Text Generation</span>                   
+* Alexander M. Hoyle, **Ana Marasović**, Noah A. Smith         
+<span style="color:navy">Promoting Graph Awareness in Linearized Graph-to-Text Generation</span>                              
 *arXiv preprint*    
 [Paper](https://arxiv.org/abs/2012.15793){: .btn .btn--info .btn--small}  
 
