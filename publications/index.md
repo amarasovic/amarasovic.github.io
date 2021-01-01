@@ -8,6 +8,11 @@ date:   2020-12-05 22:15:29 -0800
 
 ### Preprints
 
+* Alexander M. Hoyle, **Ana Marasović**, Noah A. Smith 
+<span style="color:navy">Promoting Graph Awareness in Linearized Graph-to-Text Generation</span>                   
+*arXiv preprint*    
+[Paper](https://arxiv.org/abs/2012.15793){: .btn .btn--info .btn--small}  
+
 * Alexis Ross, **Ana Marasović**, Matthew E. Peters   
 <span style="color:navy">Explaining NLP Models via Minimal Contrastive Editing (MiCE)</span>       
 *arXiv preprint*    
@@ -22,7 +27,7 @@ date:   2020-12-05 22:15:29 -0800
 ### 2021
 
 * Alon Jacovi, **Ana Marasović**, Tim Miller, Yoav Goldberg    
-<span style="color:navy">Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI</span>.  
+<span style="color:navy">Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI</span>  
 *FAccT*     
 [Paper](https://arxiv.org/abs/2010.07487){: .btn .btn--info .btn--small} 
 
