@@ -27,7 +27,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="20%">
     <col width="100%">
         <tr>
-        <td valign="top"><strong>Dec 2020</strong></td>
+        <td valign="top"><strong>Feb 2021</strong></td>
         <td>We released <a href="https://arxiv.org/abs/2102.12060" style="text-decoration: none;">a review of datasets for explainable NLP</a> accompanied with a <a href="https://exnlpdatasets.github.io/" style="text-decoration: none;">website</a>.</td>
     </tr>
     <tr>
