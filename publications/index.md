@@ -6,11 +6,11 @@ title: Publications
 date:   2020-12-05 22:15:29 -0800
 ---
 
-### ArXiv Preprints
+## ArXiv Preprints
 
 * Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović**<sup>\*</sup>    
 <span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>         
-[Paper](https://arxiv.org/abs/2102.12060){: .btn .btn--info .btn--small}<span class="fs-3">[Website](https://exnlpdatasets.github.io/){: .btn .btn--warning}</span>         
+[Paper](https://arxiv.org/abs/2102.12060){: .btn .btn--info .btn--small} [Website](https://exnlpdatasets.github.io/){: .btn .btn--warning .btn--small}
 
 
 * Alexander M. Hoyle, **Ana Marasović**, Noah A. Smith         
@@ -24,6 +24,8 @@ date:   2020-12-05 22:15:29 -0800
 * Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
 <span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>           
 [Paper](https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}       
+
+## Peer-Reviewed Publications
 
 
 ### 2021
