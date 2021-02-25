@@ -6,27 +6,23 @@ title: Publications
 date:   2020-12-05 22:15:29 -0800
 ---
 
-### Preprints
+### ArXiv Preprints
 
 * Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović**<sup>\*</sup>    
 <span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>         
-*arXiv preprint*         
 [Paper](https://arxiv.org/abs/2102.12060){: .btn .btn--info .btn--small}<span class="fs-3">[Website](https://exnlpdatasets.github.io/){: .btn .btn-purple}</span>         
 
 
 * Alexander M. Hoyle, **Ana Marasović**, Noah A. Smith         
-<span style="color:navy">Promoting Graph Awareness in Linearized Graph-to-Text Generation</span>                              
-*arXiv preprint*    
+<span style="color:navy">Promoting Graph Awareness in Linearized Graph-to-Text Generation</span>       
 [Paper](https://arxiv.org/abs/2012.15793){: .btn .btn--info .btn--small}  
 
 * Alexis Ross, **Ana Marasović**, Matthew E. Peters   
 <span style="color:navy">Explaining NLP Models via Minimal Contrastive Editing (MiCE)</span>       
-*arXiv preprint*    
 [Paper](https://arxiv.org/abs/2012.13985){: .btn .btn--info .btn--small}  
 
 * Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
-<span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>            
-*arXiv preprint*    
+<span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>           
 [Paper](https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}       
 
 
@@ -34,7 +30,7 @@ date:   2020-12-05 22:15:29 -0800
 
 * Alon Jacovi, **Ana Marasović**, Tim Miller, Yoav Goldberg    
 <span style="color:navy">Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI</span>  
-*FAccT*     
+*ACM FAccT*     
 [Paper](https://arxiv.org/abs/2010.07487){: .btn .btn--info .btn--small} 
 
 ### 2020
