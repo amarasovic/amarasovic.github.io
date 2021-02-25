@@ -26,6 +26,10 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
 <table class='news-table'>
     <col width="20%">
     <col width="100%">
+        <tr>
+        <td valign="top"><strong>Dec 2020</strong></td>
+        <td>We released <a href="https://arxiv.org/abs/2102.12060" style="text-decoration: none;">a review of datasets for explainable NLP</a> accompanied with a <a href="https://exnlpdatasets.github.io/" style="text-decoration: none;">website</a>.</td>
+    </tr>
     <tr>
         <td valign="top"><strong>Dec 2020</strong></td>
         <td>A new <a href="https://arxiv.org/abs/2012.15793" style="text-decoration: none;">preprint on evaluating and promoting graph awareness in T5-based linearized models for graph-to-text generation</a> is available on arXiv.</td>
