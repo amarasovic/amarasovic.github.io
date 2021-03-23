@@ -22,11 +22,15 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
 
 <h3 align="center">News</h3>
 
-
+https://socalnlp.github.io/symp21/index.html
 <table class='news-table'>
     <col width="10%">
     <col width="100%">
-        <tr>
+    <tr>
+        <td valign="top"><strong>March 2021</strong></td>
+        <td>I'm a panelist at the <a href="https://arxiv.org/abs/2102.12060" style="text-decoration: none;"> SoCal ML/NLP Symposium</a>.</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>Feb 2021</strong></td>
         <td>We released <a href="https://arxiv.org/abs/2102.12060" style="text-decoration: none;">a review of datasets for explainable NLP</a> accompanied with a <a href="https://exnlpdatasets.github.io/" style="text-decoration: none;">website</a>.</td>
     </tr>

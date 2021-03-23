@@ -8,7 +8,7 @@ date:   2020-12-05 22:15:29 -0800
 
 ## ArXiv Preprints
 
-* Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović**<sup>\*</sup>    
+* Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović**<sup>\*</sup> (\* equal contributions)       
 <span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>         
 [Paper](https://arxiv.org/abs/2102.12060){: .btn .btn--info .btn--small} [Website](https://exnlpdatasets.github.io/){: .btn .btn--warning .btn--small}
 
