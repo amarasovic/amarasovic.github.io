@@ -28,7 +28,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
     <tr>
         <td valign="top"><strong>March 2021</strong></td>
-        <td>I'm a panelist at the <a href="https://arxiv.org/abs/2102.12060" style="text-decoration: none;"> SoCal ML/NLP Symposium</a>.</td>
+        <td>I'm a panelist at the <a href="https://socalnlp.github.io/symp21/index.html" style="text-decoration: none;"> SoCal ML/NLP Symposium</a>.</td>
     </tr>
     <tr>
         <td valign="top"><strong>Feb 2021</strong></td>
