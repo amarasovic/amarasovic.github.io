@@ -22,7 +22,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
 
 <h3 align="center">News</h3>
 
-https://socalnlp.github.io/symp21/index.html
+
 <table class='news-table'>
     <col width="10%">
     <col width="100%">
