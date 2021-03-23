@@ -24,7 +24,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
 
 
 <table class='news-table'>
-    <col width="15%">
+    <col width="12%">
     <col width="100%">
     <tr>
         <td valign="top"><strong>March 2021</strong></td>
