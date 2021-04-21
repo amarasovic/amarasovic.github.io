@@ -28,7 +28,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
       <tr>
         <td valign="top"><strong>April 2021</strong></td>
-        <td>We released <a href="http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf" style="text-decoration: none;">the C4 documenation</a> accompanied with <a href="https://c4-search.apps.allenai.org/" style="text-decoration: none;">an interactive demo</a> and <a href="https://github.com/allenai/c4-documentation" style="text-decoration: none;">a github repository</a>.</td>
+        <td>We released <a href="http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf" style="text-decoration: none;">a documentation of C4</a> accompanied with <a href="https://c4-search.apps.allenai.org/" style="text-decoration: none;">an interactive demo</a> and <a href="https://github.com/allenai/c4-documentation" style="text-decoration: none;">a github repository</a>.</td>
     </tr>
     <tr>
         <td valign="top"><strong>March 2021</strong></td>
