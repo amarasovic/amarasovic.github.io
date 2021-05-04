@@ -28,7 +28,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
        <tr>
         <td valign="top"><strong>May 2021</strong></td>
-        <td>I joined <a href="https://soundcloud.com/nlp-highlights" style="text-decoration: none;">NLP Highlights Podcast</a> as a co-host! My first episode is with Danna Gurari who joined <a href="https://pdasigi.github.io/" style="text-decoration: none;">Pradeep</a> and me to talk about VQA that supports real users. Listen to this episode <a href="https://soundcloud.com/nlp-highlights/125-vqa-for-real-users-with-danna-gurari" style="text-decoration: none;">here</a>.</td>
+        <td>I joined <a href="https://soundcloud.com/nlp-highlights" style="text-decoration: none;">NLP Highlights Podcast</a> as a co-host! My first episode is with <a href="https://www.ischool.utexas.edu/~dannag/AboutMe.html" style="text-decoration: none;">Danna Gurari</a> who joined <a href="https://pdasigi.github.io/" style="text-decoration: none;">Pradeep</a> and me to talk about VQA that supports real users. Listen to this episode <a href="https://soundcloud.com/nlp-highlights/125-vqa-for-real-users-with-danna-gurari" style="text-decoration: none;">here</a>.</td>
       </tr>
       <tr>
         <td valign="top"><strong>April 2021</strong></td>
