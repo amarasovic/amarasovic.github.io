@@ -26,6 +26,10 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+       <tr>
+        <td valign="top"><strong>May 2021</strong></td>
+        <td>I joined <a href="https://soundcloud.com/nlp-highlights" style="text-decoration: none;">NLP Highlights Podcast</a> as a co-host! My first episode is with Danna Gurari who joined <a href="https://pdasigi.github.io/" style="text-decoration: none;">Pradeep</a> and me to talk about VQA that supports real users. Listen to this episode <a href="https://soundcloud.com/nlp-highlights/125-vqa-for-real-users-with-danna-gurari" style="text-decoration: none;">here</a>.</td>
+      </tr>
       <tr>
         <td valign="top"><strong>April 2021</strong></td>
         <td>We released <a href="http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf" style="text-decoration: none;">a documentation of C4</a> accompanied with <a href="https://c4-search.apps.allenai.org/" style="text-decoration: none;">an interactive demo</a> and <a href="https://github.com/allenai/c4-documentation" style="text-decoration: none;">a github repository</a>.</td>
