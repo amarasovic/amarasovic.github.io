@@ -24,7 +24,7 @@ date:   2020-12-05 22:15:29 -0800
 
 ### 2021
 
-* Kaiser Sun and **Ana Marasović** 
+* Kaiser Sun and **Ana Marasović**               
 <span style="color:navy">Effective Attention Sheds Light On Interpretability</span>        
 *Findings of ACL*                
 [Paper](https://arxiv.org/abs/){: .btn .btn--info .btn--small}        

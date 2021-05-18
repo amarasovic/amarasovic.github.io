@@ -28,7 +28,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
        <tr>
         <td valign="top"><strong>May 2021</strong></td>
-        <td>Three papers accepted to Findings of ACL, about <a href="..." style="text-decoration: none;">effective attention</a>, <a href="https://arxiv.org/abs/2012.15793" style="text-decoration: none;">linearized graph-to-text generation</a>, and <a href="https://arxiv.org/abs/2012.13985" style="text-decoration: none;">contrastive explanations</a>. Kudos to Kaiser, Alexander, and Alexis! :raised_hands:</td>
+        <td>Three papers accepted to Findings of ACL, about <a href="..." style="text-decoration: none;">effective attention</a>, <a href="https://arxiv.org/abs/2012.15793" style="text-decoration: none;">linearized graph-to-text generation</a>, and <a href="https://arxiv.org/abs/2012.13985" style="text-decoration: none;">contrastive explanations</a>. Kudos to Kaiser, Alexander, and Alexis! :raised_hands: </td>
       </tr>
        <tr>
         <td valign="top"><strong>May 2021</strong></td>
