@@ -16,23 +16,28 @@ date:   2020-12-05 22:15:29 -0800
 <span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>         
 [Paper](https://arxiv.org/abs/2102.12060){: .btn .btn--info .btn--small} [Website](https://exnlpdatasets.github.io/){: .btn .btn--warning .btn--small}
 
-
-* Alexander M. Hoyle, **Ana Marasović**, Noah A. Smith         
-<span style="color:navy">Promoting Graph Awareness in Linearized Graph-to-Text Generation</span>       
-[Paper](https://arxiv.org/abs/2012.15793){: .btn .btn--info .btn--small}  
-
-* Alexis Ross, **Ana Marasović**, Matthew E. Peters   
-<span style="color:navy">Explaining NLP Models via Minimal Contrastive Editing (MiCE)</span>       
-[Paper](https://arxiv.org/abs/2012.13985){: .btn .btn--info .btn--small}  
-
 * Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
 <span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>           
 [Paper](https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}       
 
-## Peer-Reviewed Publications
-
+## Peer-Reviewed Publications         
 
 ### 2021
+
+* Kaiser Sun and **Ana Marasović** 
+<span style="color:navy">Effective Attention Sheds Light On Interpretability</span>        
+*Findings of ACL*                
+[Paper](https://arxiv.org/abs/){: .btn .btn--info .btn--small}        
+
+* Alexis Ross, **Ana Marasović**, Matthew E. Peters   
+<span style="color:navy">Explaining NLP Models via Minimal Contrastive Editing (MiCE)</span>        
+*Findings of ACL*                
+[Paper](https://arxiv.org/abs/2012.13985){: .btn .btn--info .btn--small} 
+
+* Alexander M. Hoyle, **Ana Marasović**, Noah A. Smith         
+<span style="color:navy">Promoting Graph Awareness in Linearized Graph-to-Text Generation</span>  
+*Findings of ACL*                
+[Paper](https://arxiv.org/abs/2012.15793){: .btn .btn--info .btn--small}                 
 
 * Alon Jacovi, **Ana Marasović**, Tim Miller, Yoav Goldberg    
 <span style="color:navy">Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI</span>  

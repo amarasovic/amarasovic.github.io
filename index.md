@@ -28,6 +28,10 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
        <tr>
         <td valign="top"><strong>May 2021</strong></td>
+        <td>Three papers accepted to Findings of ACL, about <a href="..." style="text-decoration: none;">effective attention</a>, <a href="https://arxiv.org/abs/2012.15793" style="text-decoration: none;">linearized graph-to-text generation</a>, and <a href="https://arxiv.org/abs/2012.13985" style="text-decoration: none;">contrastive explanations</a>.  </td>
+      </tr>
+       <tr>
+        <td valign="top"><strong>May 2021</strong></td>
         <td>I joined <a href="https://soundcloud.com/nlp-highlights" style="text-decoration: none;">NLP Highlights Podcast</a> as a co-host! My first episode is with <a href="https://www.ischool.utexas.edu/~dannag/AboutMe.html" style="text-decoration: none;">Danna Gurari</a> who joined <a href="https://pdasigi.github.io/" style="text-decoration: none;">Pradeep</a> and me to talk about VQA that supports real users. Listen to this episode <a href="https://soundcloud.com/nlp-highlights/125-vqa-for-real-users-with-danna-gurari" style="text-decoration: none;">here</a>.</td>
       </tr>
       <tr>
