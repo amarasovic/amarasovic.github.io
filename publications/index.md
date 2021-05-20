@@ -26,8 +26,8 @@ date:   2020-12-05 22:15:29 -0800
 
 * Kaiser Sun and **Ana Marasović**                                                    
 <span style="color:navy">Effective Attention Sheds Light On Interpretability</span>                                       
-*Findings of ACL*                
-[Paper](http://arxiv.org/abs/2105.08855){: .btn .btn--info .btn--small}        
+*Findings of ACL*                 
+[Paper](http://arxiv.org/abs/2105.08855){: .btn .btn--info .btn--small} [Code](https://github.com/KaiserWhoLearns/Effective-Attention-Interpretability){: .btn .btn--danger .btn--small}               
 
 * Alexis Ross, **Ana Marasović**, Matthew E. Peters   
 <span style="color:navy">Explaining NLP Models via Minimal Contrastive Editing (MiCE)</span>        
