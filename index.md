@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-My interests broadly lie in the fields of **natural language processing** and **explainable AI**. I'm currently working on developing and evaluating models with advanced **reasoning** abilities that provide **readable explanations** of their decision process. 
+My interests broadly lie in the fields of **natural language processing** and **explainable AI**. I'm currently focused on developing and evaluating models that provide **readable explanations** of their decision process for tasks requiring **advanced reasoning abilities**. 
 
 
 I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="text-decoration: none;">Heidelberg University NLP Group</a> where I worked on **learning with limited labeled data for discourse-oriented tasks**. My advisor was <a href="https://www.cl.uni-heidelberg.de/~frank/" style="text-decoration: none;">Anette Frank</a>. Prior to receiving my PhD in Janurary 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb.
