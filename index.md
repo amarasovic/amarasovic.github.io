@@ -28,6 +28,10 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
        <tr>
         <td valign="top"><strong>May 2021</strong></td>
+        <td>A new episode of NLP Highlights Podcast with <a href="https://xiangli1999.github.io/" style="text-decoration: none;">Lisa Li</a> about her work on <a href="https://api.semanticscholar.org/CorpusID:230433941" style="text-decoration: none;">prefix-tuning</a>, an efficient alternative to finetuning, is <a href="https://soundcloud.com/nlp-highlights/126-optimizing-continuous-prompts-for-generation-with-lisa-li" style="text-decoration: none;">live</a>.</td>
+      </tr>
+       <tr>
+        <td valign="top"><strong>May 2021</strong></td>
         <td>Three papers accepted to Findings of ACL, about <a href="http://arxiv.org/abs/2105.08855" style="text-decoration: none;">effective attention</a>, <a href="https://arxiv.org/abs/2012.15793" style="text-decoration: none;">linearized graph-to-text generation</a>, and <a href="https://arxiv.org/abs/2012.13985" style="text-decoration: none;">contrastive explanations</a>. Kudos to Kaiser, Alexander, and Alexis! 🙌 </td>
       </tr>
        <tr>
