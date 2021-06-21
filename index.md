@@ -28,7 +28,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="100%">
        <tr>
         <td valign="top"><strong>June 2021</strong></td>
-        <td><a href="https://soundcloud.com/nlp-highlights/127-masakhane-and-participatory-research-for-african-languages-with-tosin-adewumi-and-perez-ogayo" style="text-decoration: none;">NLP Highlights Podcast</a>: I talked with Tosin Adewumi and Perez Ogayo "lowresourcedness" and how <a href="https://www.masakhane.io/" style="text-decoration: none;">Masakhane</a> is using participatory research to spur NLP in African languages.</td>
+        <td><a href="https://soundcloud.com/nlp-highlights/127-masakhane-and-participatory-research-for-african-languages-with-tosin-adewumi-and-perez-ogayo" style="text-decoration: none;">NLP Highlights Podcast</a>: I talked with Tosin Adewumi and Perez Ogayo about "lowresourcedness" and how <a href="https://www.masakhane.io/" style="text-decoration: none;">Masakhane</a> is using participatory research to spur NLP in African languages.</td>
         <td valign="top"><strong>May 2021</strong></td>
         </tr>
         <tr>
