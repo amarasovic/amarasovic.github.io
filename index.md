@@ -27,9 +27,11 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="14%">
     <col width="100%">
        <tr>
-        <td valign="top"><strong>May 2021</strong></td>
+        <td valign="top"><strong>June 2021</strong></td>
         <td><a href="https://soundcloud.com/nlp-highlights/127-masakhane-and-participatory-research-for-african-languages-with-tosin-adewumi-and-perez-ogayo" style="text-decoration: none;">NLP Highlights Podcast</a>: I talked with Tosin Adewumi and Perez Ogayo "lowresourcedness" and how <a href="https://www.masakhane.io/" style="text-decoration: none;">Masakhane</a> is using participatory research to spur NLP in African languages.</td>
         <td valign="top"><strong>May 2021</strong></td>
+        </tr>
+        <tr>
         <td>A new episode of NLP Highlights Podcast with <a href="https://xiangli1999.github.io/" style="text-decoration: none;">Lisa Li</a> about her work on <a href="https://api.semanticscholar.org/CorpusID:230433941" style="text-decoration: none;">prefix-tuning</a> is <a href="https://soundcloud.com/nlp-highlights/126-optimizing-continuous-prompts-for-generation-with-lisa-li" style="text-decoration: none;">live</a>.</td>
       </tr>
        <tr>
