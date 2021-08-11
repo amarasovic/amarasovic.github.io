@@ -27,6 +27,10 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
     <col width="14%">
     <col width="100%">
        <tr>
+        <td valign="top"><strong>Aug 2021</strong></td>
+        <td>Our <a href="https://openreview.net/pdf?id=ogNcxJn32BZ" style="text-decoration: none;">review of datasets for explainable NLP</a> is accepted to NeurIPS.</td>
+       </tr>
+       <tr>
         <td valign="top"><strong>June 2021</strong></td>
         <td><a href="https://soundcloud.com/nlp-highlights/127-masakhane-and-participatory-research-for-african-languages-with-tosin-adewumi-and-perez-ogayo" style="text-decoration: none;">NLP Highlights Podcast</a>: I talked with Tosin Adewumi and Perez Ogayo about "lowresourcedness" and how <a href="https://www.masakhane.io/" style="text-decoration: none;">Masakhane</a> is using participatory research to spur NLP in African languages.</td>
        </tr>
