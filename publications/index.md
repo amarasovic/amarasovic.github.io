@@ -4,21 +4,23 @@ layout: single
 author_profile: true
 title: Publications
 date:   2020-12-05 22:15:29 -0800
----
-
-## ArXiv Preprints
-
-* Jesse Dodge, Maarten Sap, **Ana Marasović**, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Matt Gardner                  
-<span style="color:navy">Documenting the English Colossal Clean Crawled Corpus</span>          
-[Paper](http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Repo](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}    
-
-* Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
-<span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>           
-[Paper](https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}       
+---   
 
 ## Peer-Reviewed Publications         
 
 ### 2021
+
+* Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
+<span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>                        
+**EMNLP 2021**                                                         
+[Paper](https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}  
+
+
+* Jesse Dodge, Maarten Sap, **Ana Marasović**, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Matt Gardner                  
+<span style="color:navy">Documenting the English Colossal Clean Crawled Corpus</span>              
+**EMNLP 2021**                                       
+[Paper](http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Repo](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}          
+
 
 * Sarah Wiegreffe and **Ana Marasović** (equal contributions)       
 <span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>        
