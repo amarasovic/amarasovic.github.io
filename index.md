@@ -32,7 +32,7 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
        </tr>
          <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
-        <td>Our <a href="https://soundcloud.com/nlp-highlights/131-opportunities-and-barriers-between-hci-and-nlp-with-nanna-inie-and-leon-derczynski" style="text-decoration: none;">NLP Highlights Podcast</a> : Talked with <a href="https://pure.itu.dk/portal/en/persons/nanna-inie(e23e8096-59cb-4ef6-af48-ce9d806fd1eb).html" style="text-decoration: none;">Nanna Inie</a> and <a href="http://www.derczynski.com/itu/" style="text-decoration: none;">Leon Derczynski</a> about opportunities and barriers between HCI and NLP.</td>
+        <td>Our <a href="https://soundcloud.com/nlp-highlights/131-opportunities-and-barriers-between-hci-and-nlp-with-nanna-inie-and-leon-derczynski" style="text-decoration: none;">NLP Highlights Podcast</a>: I talked with <a href="https://pure.itu.dk/portal/en/persons/nanna-inie(e23e8096-59cb-4ef6-af48-ce9d806fd1eb).html" style="text-decoration: none;">Nanna Inie</a> and <a href="http://www.derczynski.com/itu/" style="text-decoration: none;">Leon Derczynski</a> about opportunities and barriers between HCI and NLP.</td>
        </tr>
        <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
