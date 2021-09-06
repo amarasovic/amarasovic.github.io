@@ -26,6 +26,14 @@ I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decorat
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+        <tr>
+        <td valign="top"><strong>Aug 2021</strong></td>
+        <td>Two papers accepted to EMNLP 2021, about evaluating <a href="https://arxiv.org/abs/2010.12762" style="text-decoration: none;">free-text explanations</a> and <a href="https://arxiv.org/abs/2104.08758" style="text-decoration: none;">documenting enormous webtext corpora</a>.</td>
+       </tr>
+         <tr>
+        <td valign="top"><strong>Aug 2021</strong></td>
+        <td>Our <a href="https://soundcloud.com/nlp-highlights/131-opportunities-and-barriers-between-hci-and-nlp-with-nanna-inie-and-leon-derczynski" style="text-decoration: none;">NLP Highlights Podcast</a> : Talked with <a href="https://pure.itu.dk/portal/en/persons/nanna-inie(e23e8096-59cb-4ef6-af48-ce9d806fd1eb).html" style="text-decoration: none;">Nanna Inie</a> and <a href="http://www.derczynski.com/itu/" style="text-decoration: none;">Leon Derczynski</a> about opportunities and barriers between HCI and NLP.</td>
+       </tr>
        <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
         <td>Our <a href="https://openreview.net/pdf?id=ogNcxJn32BZ" style="text-decoration: none;">review of datasets for explainable NLP</a> is accepted to NeurIPS.</td>
