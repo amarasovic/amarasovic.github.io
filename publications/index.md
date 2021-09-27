@@ -8,6 +8,8 @@ date:   2020-12-05 22:15:29 -0800
 
 ## Peer-Reviewed Publications         
 
+A pdf document with a list of my publications can be found <a href="/publications/Publications_Ana_Marasovic.pdf">here</a>.
+
 ### 2021
 
 * Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
