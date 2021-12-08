@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-My primary research interests are at the confluence of <span style="color:black">**natural language processing**</span>, <span style="color:black">**multimodality**</span>, and <span style="color:black">**explainable artificial intelligence**</span>, with a focus on building <span style="color:black">**trustworthy**</span> and <span style="color:black">**intuitive language technology**</span>. To this end, I made various contributions to addressing the following questions:           
+My primary research interests are at the confluence of <span style="color:black">**natural language processing**</span>, <span style="color:black">**multimodality**</span>, and <span style="color:black">**explainable artificial intelligence**</span>, with a focus on building <span style="color:black">**trustworthy**</span> and <span style="color:black">**intuitive language technology**</span>. In past, I made various contributions to addressing the following questions:           
 * Why is this input assigned this answer?                       
 * How to change the answer?                   
 * What if the system's input changes?                                              
