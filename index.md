@@ -13,7 +13,7 @@ My long-term research goal is to better understand how to improve interaction an
 
 I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="text-decoration: none;">Heidelberg University NLP Group</a> where I worked on learning with limited labeled data for discourse-oriented tasks. My advisor was <a href="https://www.cl.uni-heidelberg.de/~frank/" style="text-decoration: none;">Anette Frank</a>. Prior to receiving my PhD in Janurary 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb. I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decoration: none;">Omiš, Croatia</a>. 
 
-**I am on the academic job market**! Please reach out if you think I'd be a good fit for your department.
+<span style="color:green">**I am on the academic job market**!</span> Please reach out if you think I'd be a good fit for your department.
 
 ---
 
