@@ -8,7 +8,7 @@ date:   2020-12-05 22:15:29 -0800
 
 ## Preprints 
 
-**Ana Marasović<sup>\*</sup>**, Iz Beltagy<sup>\*</sup>, Doug Downey, Matthew E. Peters                               
+* **Ana Marasović<sup>\*</sup>**, Iz Beltagy<sup>\*</sup>, Doug Downey, Matthew E. Peters                               
 <span style="color:navy">Few-Shot Self-Rationalization with Natural Language Prompts</span>              
 [Paper](https://arxiv.org/abs/2111.08284){: .btn .btn--info .btn--small}  
 
@@ -18,7 +18,7 @@ A pdf document with a list of my publications can be found <a href="/publication
 
 ### 2021
 
-* Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović<sup>\*</sup>** (equal contributions)       
+* Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović<sup>\*</sup>**       
 <span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>        
 **NeurIPS 2021**                    
 [Paper](https://openreview.net/pdf?id=ogNcxJn32BZ){: .btn .btn--info .btn--small} [Website](https://exnlpdatasets.github.io/){: .btn .btn--warning .btn--small}                 
