@@ -6,11 +6,23 @@ title: Publications
 date:   2020-12-05 22:15:29 -0800
 ---   
 
+## Preprints 
+
+**Ana Marasović<sup>\*</sup>**, Iz Beltagy<sup>\*</sup>, Doug Downey, Matthew E. Peters                               
+<span style="color:navy">Few-Shot Self-Rationalization with Natural Language Prompts</span>              
+[Paper](https://arxiv.org/abs/2111.08284){: .btn .btn--info .btn--small}  
+
 ## Peer-Reviewed Publications         
 
 A pdf document with a list of my publications can be found <a href="/publications/Publications_Ana_Marasovic.pdf">here</a>.
 
 ### 2021
+
+* Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović<sup>\*</sup>** (equal contributions)       
+<span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>        
+**NeurIPS 2021**                    
+[Paper](https://openreview.net/pdf?id=ogNcxJn32BZ){: .btn .btn--info .btn--small} [Website](https://exnlpdatasets.github.io/){: .btn .btn--warning .btn--small}                 
+
 
 * Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
 <span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>                        
@@ -21,15 +33,8 @@ A pdf document with a list of my publications can be found <a href="/publication
 * Jesse Dodge, Maarten Sap, **Ana Marasović**, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Matt Gardner                  
 <span style="color:navy">Documenting the English Colossal Clean Crawled Corpus</span>              
 **EMNLP 2021**                                       
-[Paper](http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Repo](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}          
-
-
-* Sarah Wiegreffe and **Ana Marasović** (equal contributions)       
-<span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>        
-**NeurIPS 2021**                    
-[Paper](https://openreview.net/pdf?id=ogNcxJn32BZ){: .btn .btn--info .btn--small} [Website](https://exnlpdatasets.github.io/){: .btn .btn--warning .btn--small}          
-
-
+[Paper](http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Repo](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}                           
+         
 * Kaiser Sun and **Ana Marasović**                                                    
 <span style="color:navy">Effective Attention Sheds Light On Interpretability</span>                                       
 *Findings of ACL*                 
