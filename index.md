@@ -36,7 +36,6 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
         <td valign="top"><strong>Dec 2021</strong></td>
         <td>Invited talk at the USC Machine Learning Symposium: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
        </tr>
-       </tr>
         <tr>
         <td valign="top"><strong>Dec 2021</strong></td>
         <td>Invited talk at UCL NLP Meetup: <a href="/slides/invited_talk_few_shot.pdf" style="text-decoration: none;">Self-Explainability for Intuitive and Controllable Interaction: <b>On Reducing Human-Authored Free-Text Explanations for Training</b> (Slides)</a>.</td>
@@ -50,12 +49,16 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
         <td>Keynote at BlackboxNLP co-located with EMNLP: <a href="/slides/invited_talk_contrastive.pdf" style="text-decoration: none;">Contrastive Explanations of NLP Models (Slides)</a>.</td>
        </tr>
         <tr>
-        <td valign="top"><strong>X 2021</strong></td>
+        <td valign="top"><strong>Nov 2021</strong></td>
         <td>Invited talk at the Georgia Tech NLP Seminar: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Nov 2021</strong></td>
         <td>Invited talk at the University of Sheffield Seminar: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Sep 2021</strong></td>
+        <td>You can find me at <a href="https://allennlp-hackathon.apps.allenai.org/" style="text-decoration: none;"><b>AllenNLP Hacks</a>!</td>
        </tr>
         <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
