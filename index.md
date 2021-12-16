@@ -58,7 +58,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
        </tr>
         <tr>
         <td valign="top"><strong>Sep 2021</strong></td>
-        <td>You can find me at <a href="https://allennlp-hackathon.apps.allenai.org/" style="text-decoration: none;"><b>AllenNLP Hacks</a>!</td>
+        <td>You can find me at <a href="https://allennlp-hackathon.apps.allenai.org/" style="text-decoration: none;"><b>AllenNLP Hacks</b></a>!</td>
        </tr>
         <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
