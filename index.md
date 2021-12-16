@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-My primary research interests are at the confluence of <span style="color:black">**natural language processing (NLP)**</span>, <span style="color:black">**multimodality**</span>, and <span style="color:black">**explainable artificial intelligence**</span>, with a focus on building <span style="color:black">**trustworthy**</span> and <span style="color:black">**intuitive language technology**</span>. 
+My primary research interests are at the confluence of <span style="color:black">**natural language processing (NLP)**</span>, <span style="color:black">**multimodality**</span>, and <span style="color:black">**explainable artificial intelligence (XAI)**</span>, with a focus on building <span style="color:black">**trustworthy**</span> and <span style="color:black">**intuitive language technology**</span>. 
 
 
 Although neural models have obtained a great success across various NLP tasks in recent years, they are poorly understood. Consequently, people (including NLP experts) have little perception of how to control NLP systems they interact with and are typically left wondering:               
@@ -34,7 +34,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
     <col width="100%">
         <tr>
         <td valign="top"><strong>Dec 2021</strong></td>
-        <td>Invited talk at the USC Machine Learning Symposium: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
+        <td>Invited talk at the <span style="color:black">*USC Machine Learning Symposium*</span>: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Dec 2021</strong></td>
