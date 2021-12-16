@@ -33,10 +33,35 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
     <col width="14%">
     <col width="100%">
         <tr>
-        <td valign="top"><strong>Aug 2021</strong></td>
-        <td>Two papers accepted to EMNLP 2021, about <a href="https://arxiv.org/abs/2010.12762" style="text-decoration: none;">evaluating free-text explanations</a> and <a href="https://arxiv.org/abs/2104.08758" style="text-decoration: none;">documenting enormous webtext corpora</a>.</td>
+        <td valign="top"><strong>Dec 2021</strong></td>
+        <td>Invited talk at the USC Machine Learning Symposium: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
        </tr>
-         <tr>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Dec 2021</strong></td>
+        <td>Invited talk at UCL NLP Meetup: <a href="/slides/invited_talk_few_shot.pdf" style="text-decoration: none;">Self-Explainability for Intuitive and Controllable Interaction: <b>On Reducing Human-Authored Free-Text Explanations for Training</b> (Slides)</a>.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Nov 2021</strong></td>
+        <td>A new preprint: <a href="https://arxiv.org/abs/2111.08284" style="text-decoration: none;">Few-Shot Self-Rationalization with Natural Language Prompts</a>.</td>
+       </tr>       
+        <tr>
+        <td valign="top"><strong>Nov 2021</strong></td>
+        <td>Keynote at BlackboxNLP co-located with EMNLP: <a href="/slides/invited_talk_contrastive.pdf" style="text-decoration: none;">Contrastive Explanations of NLP Models (Slides)</a>.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>X 2021</strong></td>
+        <td>Invited talk at the Georgia Tech NLP Seminar: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Nov 2021</strong></td>
+        <td>Invited talk at the University of Sheffield Seminar: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Aug 2021</strong></td>
+        <td>Two papers accepted to EMNLP'21: about <a href="https://arxiv.org/abs/2010.12762" style="text-decoration: none;">evaluating free-text explanations</a> & <a href="https://arxiv.org/abs/2104.08758" style="text-decoration: none;">documenting enormous webtext corpora</a>.</td>
+       </tr>
+        <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
         <td><a href="https://soundcloud.com/nlp-highlights/131-opportunities-and-barriers-between-hci-and-nlp-with-nanna-inie-and-leon-derczynski" style="text-decoration: none;">NLP Highlights Podcast</a>: I talked with <a href="https://pure.itu.dk/portal/en/persons/nanna-inie(e23e8096-59cb-4ef6-af48-ce9d806fd1eb).html" style="text-decoration: none;">Nanna Inie</a> and <a href="http://www.derczynski.com/itu/" style="text-decoration: none;">Leon Derczynski</a> about opportunities and barriers between HCI and NLP.</td>
        </tr>
