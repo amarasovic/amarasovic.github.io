@@ -38,27 +38,27 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
        </tr>
         <tr>
         <td valign="top"><strong>Dec 2021</strong></td>
-        <td>Invited talk at UCL NLP Meetup: <a href="/slides/invited_talk_few_shot.pdf" style="text-decoration: none;">Self-Explainability for Intuitive and Controllable Interaction: <b>On Reducing Human-Authored Free-Text Explanations for Training</b> (Slides)</a>.</td>
+        <td>Invited talk at <span style="color:black"><b>UCL NLP Meetup</b></span>: <a href="/slides/invited_talk_few_shot.pdf" style="text-decoration: none;">Self-Explainability for Intuitive and Controllable Interaction: <b>On Reducing Human-Authored Free-Text Explanations for Training</b> (Slides)</a>.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Nov 2021</strong></td>
-        <td>A new preprint: <a href="https://arxiv.org/abs/2111.08284" style="text-decoration: none;">Few-Shot Self-Rationalization with Natural Language Prompts</a>.</td>
+        <td><span style="color:black"><b>New preprint</b></span>: <a href="https://arxiv.org/abs/2111.08284" style="text-decoration: none;">Few-Shot Self-Rationalization with Natural Language Prompts</a>.</td>
        </tr>       
         <tr>
         <td valign="top"><strong>Nov 2021</strong></td>
-        <td>Keynote at BlackboxNLP co-located with EMNLP: <a href="/slides/invited_talk_contrastive.pdf" style="text-decoration: none;">Contrastive Explanations of NLP Models (Slides)</a>.</td>
+        <td><span style="color:black"><b>Keynote at BlackboxNLP</b></span> @ EMNLP'21: <a href="/slides/invited_talk_contrastive.pdf" style="text-decoration: none;">Contrastive Explanations of NLP Models (Slides)</a>.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Nov 2021</strong></td>
-        <td>Invited talk at the Georgia Tech NLP Seminar: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
+        <td>Invited talk at the <span style="color:black"><b>Georgia Tech NLP Seminar</b></span>: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Nov 2021</strong></td>
-        <td>Invited talk at the University of Sheffield Seminar: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
+        <td>Invited talk at the <span style="color:black"><b>University of Sheffield Seminar</b></span>: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Sep 2021</strong></td>
-        <td>You can find me at <a href="https://allennlp-hackathon.apps.allenai.org/" style="text-decoration: none;"><b>AllenNLP Hacks</b></a>!</td>
+        <td>You can find me at <a href="https://allennlp-hackathon.apps.allenai.org/" style="text-decoration: none;"><span style="color:black"><b>AllenNLP Hacks</b></span></a>!</td>
        </tr>
         <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
