@@ -78,7 +78,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
        </tr>
         <tr>
         <td valign="top"><strong>May 2021</strong></td>
-        <td>A new episode of NLP Highlights Podcast with <a href="https://xiangli1999.github.io/" style="text-decoration: none;">Lisa Li</a> about her work on <a href="https://api.semanticscholar.org/CorpusID:230433941" style="text-decoration: none;">prefix-tuning</a> is <a href="https://soundcloud.com/nlp-highlights/126-optimizing-continuous-prompts-for-generation-with-lisa-li" style="text-decoration: none;">live</a>.</td>
+        <td><a href="https://soundcloud.com/nlp-highlights/126-optimizing-continuous-prompts-for-generation-with-lisa-li" style="text-decoration: none;">NLP Highlights Podcast</a>: A new episode with <a href="https://xiangli1999.github.io/" style="text-decoration: none;">Lisa Li</a> about her work on <a href="https://api.semanticscholar.org/CorpusID:230433941" style="text-decoration: none;">prefix-tuning</a>.</td>
       </tr>
        <tr>
         <td valign="top"><strong>May 2021</strong></td>
