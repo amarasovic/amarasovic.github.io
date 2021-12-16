@@ -10,10 +10,10 @@ date:   2020-12-05 22:15:29 -0800
 * <a href="/slides/invited_talk_few_shot.pdf" style="text-decoration: none;">Slides</a> 
 
 <span style="color:navy">Contrastive Explanations of NLP Models</span>
-* BlackboxNLP co-located with EMNLP, Keynote, November 2021                
+* Keynote at BlackboxNLP co-located with EMNLP, November 2021                
 * <a href="/slides/invited_talk_contrastive.pdf" style="text-decoration: none;">Slides</a> 
 
-<span style="color:navy">Explanation Selection Through The Lens of Free-Text and Contrastive Explanations</span>
+<span style="color:navy"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b></span>
 * USC Machine Learning Symposium, December 2021        
 * Georgia Tech NLP Seminar, November 2021                   
 * University of Sheffield Seminar, November 2021            
