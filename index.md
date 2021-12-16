@@ -34,7 +34,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
     <col width="100%">
         <tr>
         <td valign="top"><strong>Dec 2021</strong></td>
-        <td>Invited talk at the <span style="color:black">**USC Machine Learning Symposium**</span>: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
+        <td>Invited talk at the <span style="color:black"><b>USC Machine Learning Symposium</b></span>: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Dec 2021</strong></td>
