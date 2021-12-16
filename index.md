@@ -73,7 +73,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
         <td>Our <a href="https://openreview.net/pdf?id=ogNcxJn32BZ" style="text-decoration: none;">review of datasets for explainable NLP</a> is <span style="color:black"><b>accepted to NeurIPS</b></span>:.</td>
        </tr>
        <tr>
-        <td valign="top"><strong>June 2021</strong></td>
+        <td valign="top"><strong>Jun 2021</strong></td>
         <td><a href="https://soundcloud.com/nlp-highlights/127-masakhane-and-participatory-research-for-african-languages-with-tosin-adewumi-and-perez-ogayo" style="text-decoration: none;">NLP Highlights Podcast</a>: I talked with Tosin Adewumi and Perez Ogayo about "lowresourcedness" and how <a href="https://www.masakhane.io/" style="text-decoration: none;">Masakhane</a> is using participatory research to spur NLP in African languages.</td>
        </tr>
         <tr>
@@ -93,7 +93,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
         <td>We released <a href="http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf" style="text-decoration: none;">a documentation of C4</a> accompanied with <a href="https://c4-search.apps.allenai.org/" style="text-decoration: none;">an interactive demo</a> and <a href="https://github.com/allenai/c4-documentation" style="text-decoration: none;">a github repository</a>.</td>
     </tr>
     <tr>
-        <td valign="top"><strong>March 2021</strong></td>
+        <td valign="top"><strong>Mar 2021</strong></td>
         <td>I'm a panelist at the <a href="https://socalnlp.github.io/symp21/index.html" style="text-decoration: none;"> SoCal ML/NLP Symposium</a>.</td>
     </tr>
     <tr>
