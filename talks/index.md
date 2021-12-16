@@ -5,6 +5,21 @@ author_profile: true
 date:   2020-12-05 22:15:29 -0800
 ---
 
+<span style="color:navy">Self-Explainability for Intuitive and Controllable Interaction: <b>On Reducing Human-Authored Free-Text Explanations for Training</b></span>
+* University College London (UCL), NLP Meetup, December 2021                
+* <a href="/slides/invited_talk_few_shot.pdf" style="text-decoration: none;">Slides</a> 
+
+<span style="color:navy">Contrastive Explanations of NLP Models</span>
+* BlackboxNLP co-located with EMNLP, Keynote, November 2021                
+* <a href="/slides/invited_talk_contrastive.pdf" style="text-decoration: none;">Slides</a> 
+
+<span style="color:navy">Explanation Selection Through The Lens of Free-Text and Contrastive Explanations</span>
+* USC Machine Learning Symposium, December 2021        
+* Georgia Tech NLP Seminar, November 2021                   
+* University of Sheffield Seminar, November 2021            
+* <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;">Slides</a> 
+
+
 <span style="color:navy">Methods for Analyzing (Current) NLP Models</span>
 * University of Washington, Guest Lecture in CSE 517, March 2020  
 * <a href="/slides/guest_lecture_uw_cse517_march_2020.pdf" style="text-decoration: none;">Slides</a> 
@@ -21,7 +36,10 @@ date:   2020-12-05 22:15:29 -0800
 
 <span style="color:navy">Resolving Abstract Anaphors in Discourse: Uphill Battles with Neural Ranking Models and Automatic Data Extraction</span>
 * Allen Institute for AI, October 2018. 
-* NAACL Workshop on Computational Models of Reference, Anaphora, and Coreference, June 2018.
-* Potsdam University, Applied Computational Linguistics, June 2018. 
-* Bochum University, Sprachwissenschaftliches Institut, May 2018. 
+* NAACL Workshop on Computational Models of Reference, Anaphora, and Coreference, June 2018
+* Potsdam University, Applied Computational Linguistics, June 2018
+* Bochum University, Sprachwissenschaftliches Institut, May 2018
 * <a href="https://youtu.be/K9v-3UJ_syg" style="text-decoration: none;">Video</a> 
+
+
+
