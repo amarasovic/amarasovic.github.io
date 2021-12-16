@@ -62,7 +62,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
        </tr>
         <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
-        <td>Two papers accepted to EMNLP'21: about <a href="https://arxiv.org/abs/2010.12762" style="text-decoration: none;">evaluating free-text explanations</a> & <a href="https://arxiv.org/abs/2104.08758" style="text-decoration: none;">documenting enormous webtext corpora</a>.</td>
+        <td><span style="color:black"><b>Two papers accepted to EMNLP'21</b></span>: about <a href="https://arxiv.org/abs/2010.12762" style="text-decoration: none;">evaluating free-text explanations</a> & <a href="https://arxiv.org/abs/2104.08758" style="text-decoration: none;">documenting enormous webtext corpora</a>.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
@@ -70,7 +70,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
        </tr>
        <tr>
         <td valign="top"><strong>Aug 2021</strong></td>
-        <td>Our <a href="https://openreview.net/pdf?id=ogNcxJn32BZ" style="text-decoration: none;">review of datasets for explainable NLP</a> is accepted to NeurIPS.</td>
+        <td>Our <a href="https://openreview.net/pdf?id=ogNcxJn32BZ" style="text-decoration: none;">review of datasets for explainable NLP</a> is <span style="color:black"><b>accepted to NeurIPS</b></span>:.</td>
        </tr>
        <tr>
         <td valign="top"><strong>June 2021</strong></td>
@@ -82,7 +82,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
       </tr>
        <tr>
         <td valign="top"><strong>May 2021</strong></td>
-        <td>Three papers accepted to Findings of ACL, about <a href="http://arxiv.org/abs/2105.08855" style="text-decoration: none;">effective attention</a>, <a href="https://arxiv.org/abs/2012.15793" style="text-decoration: none;">linearized graph-to-text generation</a>, and <a href="https://arxiv.org/abs/2012.13985" style="text-decoration: none;">contrastive explanations</a>. Kudos to Kaiser, Alexander, and Alexis! 🙌 </td>
+        <td><span style="color:black"><b>Three papers accepted to Findings of ACL</b></span>, about <a href="http://arxiv.org/abs/2105.08855" style="text-decoration: none;">effective attention</a>, <a href="https://arxiv.org/abs/2012.15793" style="text-decoration: none;">linearized graph-to-text generation</a>, and <a href="https://arxiv.org/abs/2012.13985" style="text-decoration: none;">contrastive explanations</a>. Kudos to Kaiser, Alexander, and Alexis! 🙌 </td>
       </tr>
        <tr>
         <td valign="top"><strong>May 2021</strong></td>
