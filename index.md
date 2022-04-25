@@ -13,7 +13,7 @@ People (including NLP experts) have little perception of how to control NLP syst
 * How to change the answer?                   
 * What if the system's input changes?                                              
 
-I made various contributions to addressing such questions, and my long-term research goal continues to be to better understand how to improve interaction and control of NLP systems to help people have appropriate confidence in AI's development and it's applications. 
+I made various contributions to addressing such questions, and my long-term research goal continues to be to better understand how to improve interaction and control of NLP systems to help people have appropriate confidence in their development and applications. 
 
 I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="text-decoration: none;">Heidelberg University NLP Group</a> where I worked on learning with limited labeled data for discourse-oriented tasks. My advisor was <a href="https://www.cl.uni-heidelberg.de/~frank/" style="text-decoration: none;">Anette Frank</a>. Prior to receiving my PhD in Janurary 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb. I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decoration: none;">Omiš, Croatia</a>. 
 
@@ -33,6 +33,60 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+        <tr>
+        <td valign="top"><strong>April 2022</strong></td>
+        <td>Talk at NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES).</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>April 2022</strong></td>
+        <td>Talk at CMU.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>April 2022</strong></td>
+        <td>Talk at NEC Labs Europe.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>April 2022</strong></td>
+        <td>Talk at the University of Lisabon / Unbabel Seminar.</td>
+       </tr>
+       <tr>
+        <td valign="top"><strong>March 2022</strong></td>
+        <td>Guest lecture at UW.</td>
+       </tr>
+        <tr>
+       <tr>
+        <td valign="top"><strong>March 2022</strong></td>
+        <td>Guest Lecture at the University of British Columbia.</td>
+       </tr>
+        <tr>
+        <tr>
+        <td valign="top"><strong>March 2022</strong></td>
+        <td>Talk at UC Irvine.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Feb 2022</strong></td>
+        <td>Talk at John Hopkins University.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Feb 2022</strong></td>
+        <td>Talk at Brown University.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Feb 2022</strong></td>
+        <td>Talk at the University of Chicago.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Feb 2022</strong></td>
+        <td>Talk at Ohio State University.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Feb 2022</strong></td>
+        <td>Talk at Purdue University.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Feb 2022</strong></td>
+        <td>Talk at the University of Utah.</td>
+       </tr>
         <tr>
         <td valign="top"><strong>Dec 2021</strong></td>
         <td>Invited talk at the <span style="color:black"><b>USC Machine Learning Symposium</b></span>: <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;"><b>Explanation Selection</b> Through The Lens of <b>Free-Text</b> and <b>Contrastive Explanations</b> (Slides)</a>.</td>
