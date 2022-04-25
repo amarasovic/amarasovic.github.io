@@ -56,12 +56,10 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
         <td valign="top"><strong>March 2022</strong></td>
         <td>Guest lecture at UW.</td>
        </tr>
-        <tr>
        <tr>
         <td valign="top"><strong>March 2022</strong></td>
         <td>Guest Lecture at the University of British Columbia.</td>
        </tr>
-        <tr>
         <tr>
         <td valign="top"><strong>March 2022</strong></td>
         <td>Talk at UC Irvine.</td>
