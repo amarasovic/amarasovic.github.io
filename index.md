@@ -20,11 +20,6 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
 
 ---
 
-<style type="text/css">
-      table, tr, td {
-  			border: 0px;
-		}
-</style>
 
 <h3 align="center">News</h3>
 
