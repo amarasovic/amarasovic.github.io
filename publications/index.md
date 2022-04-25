@@ -13,27 +13,27 @@ date:   2020-12-05 22:15:29 -0800
 
 * **Ana Marasović<sup>\*</sup>**, Iz Beltagy<sup>\*</sup>, Doug Downey, Matthew E. Peters                               
 <span style="color:navy">Few-Shot Self-Rationalization with Natural Language Prompts</span>         
-**NAACL Findings 2022**           
+*Findings of NAACL 2022*                          
 [Paper](https://arxiv.org/abs/2111.08284){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/feb){: .btn .btn--danger .btn--small}                          
 
 ### 2021
 
 * Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović<sup>\*</sup>**       
 <span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>        
-**NeurIPS 2021**                    
+*NeurIPS 2021*                                              
 [Paper](https://openreview.net/pdf?id=ogNcxJn32BZ){: .btn .btn--info .btn--small} [Website](https://exnlpdatasets.github.io/){: .btn .btn--warning .btn--small}                 
 
 
 * Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
 <span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>                        
-**EMNLP 2021**                                                         
+*EMNLP 2021*                                                                          
 [Paper](https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}  
 
 
 * Jesse Dodge, Maarten Sap, **Ana Marasović**, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Matt Gardner                  
-<span style="color:navy">Documenting the English Colossal Clean Crawled Corpus</span>              
+<span style="color:navy">Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus</span>              
 **EMNLP 2021**                                       
-[Paper](http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Repo](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}                           
+[Paper](https://arxiv.org/abs/2104.08758){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Repo](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}                           
          
 * Kaiser Sun and **Ana Marasović**                                                    
 <span style="color:navy">Effective Attention Sheds Light On Interpretability</span>                                       
