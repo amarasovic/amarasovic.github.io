@@ -4,16 +4,15 @@ classes: wide
 author_profile: true
 ---
 
-My primary research interests are at the confluence of <span style="color:black">**natural language processing (NLP)**</span>, <span style="color:black">**multimodality**</span>, and <span style="color:black">**explainable artificial intelligence (XAI)**</span>, with a focus on building <span style="color:black">**trustworthy**</span> and <span style="color:black">**intuitive language technology**</span>. 
+My primary research interests are at the confluence of <span style="color:black">**natural language processing (NLP)**</span>, <span style="color:black">**multimodality**</span>, and <span style="color:black">**explainable artificial intelligence (XAI)**</span>, with a focus on building <span style="color:black">**trustworthy**</span> and <span style="color:black">**intuitive language technology**</span>.                                             
 
-
-People (including NLP experts) have little perception of how to control NLP systems they interact with and are typically left wondering:               
+I made various contributions to addressing questions such as: 
 
 * Why is this input assigned this answer?                       
 * How to change the answer?                   
-* What if the system's input changes?                                              
+* What if the system's input changes?  
 
-I made various contributions to addressing such questions, and my long-term research goal continues to be to better understand how to improve interaction and control of NLP systems to help people have appropriate confidence in their development and applications. 
+and my long-term research goal continues to be to better understand how to improve interaction and control of NLP systems to help people have appropriate confidence in their development and applications. 
 
 I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="text-decoration: none;">Heidelberg University NLP Group</a> where I worked on learning with limited labeled data for discourse-oriented tasks. My advisor was <a href="https://www.cl.uni-heidelberg.de/~frank/" style="text-decoration: none;">Anette Frank</a>. Prior to receiving my PhD in Janurary 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb. I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decoration: none;">Omiš, Croatia</a>. 
 
