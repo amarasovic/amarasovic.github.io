@@ -32,7 +32,7 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
-        <tr>
+       <tr>
         <td valign="top"><strong>May 2022</strong></td>
         <td>Excited to give a talk at NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES).</td>
        </tr>
