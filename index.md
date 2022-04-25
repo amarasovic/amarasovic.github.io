@@ -34,8 +34,12 @@ I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="
     <col width="14%">
     <col width="100%">
         <tr>
+        <td valign="top"><strong>May 2022</strong></td>
+        <td>Excited to give a talk at NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES).</td>
+       </tr>
+        <tr>
         <td valign="top"><strong>April 2022</strong></td>
-        <td>Talk at NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES).</td>
+        <td>Our work on <a href="https://arxiv.org/abs/2111.08284" style="text-decoration: none;">few-shot self-rationalization</a> is accepted to Findings of NAACL 2022.</td>
        </tr>
         <tr>
         <td valign="top"><strong>April 2022</strong></td>

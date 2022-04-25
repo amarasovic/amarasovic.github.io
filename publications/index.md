@@ -6,16 +6,15 @@ title: Publications
 date:   2020-12-05 22:15:29 -0800
 ---
 
-A pdf document with a list of my publications can be found <a href="/publications/Publications_Ana_Marasovic.pdf">here</a>.
+## Peer-Reviewed Publications
 
 
-## Preprints 
+### 2022
 
 * **Ana Marasović<sup>\*</sup>**, Iz Beltagy<sup>\*</sup>, Doug Downey, Matthew E. Peters                               
-<span style="color:navy">Few-Shot Self-Rationalization with Natural Language Prompts</span>              
-[Paper](https://arxiv.org/abs/2111.08284){: .btn .btn--info .btn--small}  
-
-## Peer-Reviewed Publications         
+<span style="color:navy">Few-Shot Self-Rationalization with Natural Language Prompts</span>         
+**NAACL Findings 2022**           
+[Paper](https://arxiv.org/abs/2111.08284){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/feb){: .btn .btn--danger .btn--small}                          
 
 ### 2021
 
