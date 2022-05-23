@@ -6,6 +6,14 @@ title: Publications
 date:   2020-12-05 22:15:29 -0800
 ---
 
+## Preprints
+
+* Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**           
+<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization</span>       
+[Paper](analysis_text_gen_from_images.pdf){: .btn .btn--info .btn--small}                          
+
+
+
 ## Peer-Reviewed Publications
 
 
