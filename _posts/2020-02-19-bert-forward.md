@@ -5,7 +5,7 @@ title:  "BERT-base forward pass"
 comments: true
 ---
 
-You can downlaod a pdf version of the following text [here](blog/BERT_base_Transformers.pdf).
+You can downlaod a pdf version of the following text [here](https://drive.google.com/file/d/1lihp6cFqy6UhwAWPZ1f15jPiIIyaUX2I/view?usp=sharing).
 
 
 ## Initialize
