@@ -5,8 +5,7 @@ title:  "BERT-base forward pass"
 comments: true
 ---
 
-You can downlaod a pdf version of the following text by <a id="raw-url" href="https://github.com/amarasovic/academic-kickstart/raw/master/content/post/BERT_base_Transformer.pdf">clicking here</a>.
-
+You can downlaod a pdf version of the following text [here](BERT_base_Transformers.pdf).
 
 
 ## Initialize
