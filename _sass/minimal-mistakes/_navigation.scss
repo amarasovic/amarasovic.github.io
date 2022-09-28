@@ -200,8 +200,8 @@
       margin-left: 0;
     }
   }
-  
-  img{
+
+  img {
     -webkit-transition: none;
     transition: none;
   }
@@ -431,7 +431,7 @@
       }
 
       &:hover {
-        text-decoration: none;
+        text-decoration: underline;
       }
     }
   }
