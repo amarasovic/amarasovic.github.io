@@ -89,6 +89,13 @@
       position: sticky;
       top: 2em;
       float: right;
+
+      .toc {
+        .toc__menu {
+          overflow-y: auto;
+          max-height: calc(100vh - 7em);
+        }
+      }
     }
   }
 
@@ -127,12 +134,12 @@
   }
 
   img {
-    max-width: 250px;
-    border-radius: 0%;
+    max-width: 110px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 25px;
-      border: 0px solid $border-color;
+      padding: 5px;
+      border: 1px solid $border-color;
     }
   }
 }
@@ -172,8 +179,6 @@
 
 .author__bio {
   margin: 0;
-  font-size: 1em;
-  font-style: italic;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -314,7 +319,7 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: none;
+      text-decoration: underline;
     }
   }
 }
