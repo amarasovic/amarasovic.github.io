@@ -6,7 +6,7 @@ author_profile: true
 
 [test link](https://www.anamarasovic.com/) get rid of underline
 
-I am an Assistant Professor at the [School of Computing](https://www.cs.utah.edu/), University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that improve **trustworthiness** and **interaction** with AI technologies.                  
+I am an Assistant Professor at the [School of Computing](https://www.cs.utah.edu/), University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that improve **trustworthiness** of AI technologies and human **interaction** with them.                  
 
 Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) work with [Noah A. Smith](https://nasmith.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/). During that time I also had a  courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). I did my PhD in the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/, where I was advised by [Anette Frank](https://www.cl.uni-heidelberg.de/~frank/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb. I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). 
 
