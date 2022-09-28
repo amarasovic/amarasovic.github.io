@@ -6,6 +6,9 @@ author_profile: true
 
 [test link](https://www.anamarasovic.com/) new
 
+I am an Assistant Professor at the School of Computing, University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **multimodality**, and **explainable artificial intelligence (XAI)**, with a focus on building **trustworthy** and **intuitive language technology**.                  
+
+
 I am an Assistant Professor at the School of Computing, University of Utah. My primary research interests are at the confluence of <span style="color:black">**natural language processing (NLP)**</span>, <span style="color:black">**multimodality**</span>, and <span style="color:black">**explainable artificial intelligence (XAI)**</span>, with a focus on building <span style="color:black">**trustworthy**</span> and <span style="color:black">**intuitive language technology**</span>.                  
 
 I was a postdoc at the <a href="https://allenai.org/" style="text-decoration: none;">Allen Institute for AI</a> and <a href="https://www.cs.washington.edu/" style="text-decoration: none;">UW</a> working with <a href="https://nasmith.github.io/" style="text-decoration: none;">Noah A. Smith</a> and <a href="https://homes.cs.washington.edu/~yejin/" style="text-decoration: none;">Yejin Choi</a>. I did my PhD in the <a href="https://www.cl.uni-heidelberg.de/nlpgroup/" style="text-decoration: none;">Heidelberg University NLP Group</a>, where I was advised by <a href="https://www.cl.uni-heidelberg.de/~frank/" style="text-decoration: none;">Anette Frank</a>. Prior to receiving my PhD in Janurary 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb. I grew up in <a href="https://goo.gl/maps/Q8N6rZmWygHuiAzc9" style="text-decoration: none;">Omiš, Croatia</a>. 
