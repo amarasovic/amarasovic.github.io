@@ -95,7 +95,7 @@ analytics:
 author:
   name             : " "
   avatar           : "/images/profile.jpg"
-  bio              : "Assistant Professor &bull; University of Utah &bull; School of Computing"
+  #bio              : "Assistant Professor &bull; University of Utah &bull; School of Computing"
   location         : "Salt Lake City, USA"
   email            :
   links:
