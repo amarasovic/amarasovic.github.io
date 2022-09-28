@@ -30,11 +30,11 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="100%">
        <tr>
         <td valign="top"><strong>Sept 2022</strong></td>
-        <td>Excited to serve as a panelist after the movie [After Yang](https://www.imdb.com/title/tt8633464) that is screened as a part of the STEM Education Film Series organized by Park City Film.</td>
+        <td>Excited to serve as a panelist after the movie <a href="https://www.imdb.com/title/tt8633464">After Yang</a> that is screened as a part of the STEM Education Film Series organized by Park City Film.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Aug 2022</strong></td>
-        <td>I designed a [course on local explainability](https://utah-explainability-fall22.github.io/) that I'm thrilled to teach this semester.</td>
+        <td>I designed a <a href="https://utah-explainability-fall22.github.io/">course on local explainability</a> that I'm thrilled to teach this semester.</td>
        </tr>
 </table>
 
