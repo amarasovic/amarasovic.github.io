@@ -4,11 +4,9 @@ classes: wide
 author_profile: true
 ---
 
-[test link](https://www.anamarasovic.com/) get rid of underline
+I am an Assistant Professor at the [School of Computing](https://www.cs.utah.edu/), University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that **rigorously validate** AI technologies and those that make huma **interaction** with them **more intuitive**. As an example of the former you can see our work on carefully designing benchmarks to                  
 
-I am an Assistant Professor at the [School of Computing](https://www.cs.utah.edu/), University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that improve **trustworthiness** of AI technologies and human **interaction** with them.                  
-
-Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) work with [Noah A. Smith](https://nasmith.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/). During that time I also had a  courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). I did my PhD in the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/, where I was advised by [Anette Frank](https://www.cl.uni-heidelberg.de/~frank/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb. I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). 
+Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) work with [Noah A. Smith](https://nasmith.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/). During that time I also had a courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). I did my PhD in the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/, where I was advised by [Anette Frank](https://www.cl.uni-heidelberg.de/~frank/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb. I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). 
 
 
 ---
@@ -26,6 +24,10 @@ Previously, I was a Young Investigator at the [Allen Institute for AI](https://a
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+       <tr>
+        <td valign="top"><strong>Sept 2022</strong></td>
+        <td>Excited to serve as a panelist .</td>
+       </tr>
        <tr>
         <td valign="top"><strong>May 2022</strong></td>
         <td>Excited to give a talk at NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES).</td>
