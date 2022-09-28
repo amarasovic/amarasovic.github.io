@@ -18,10 +18,6 @@ author_profile: true
     <col width="14%">
     <col width="100%">
        <tr>
-        <td valign="top"><strong>Sept 2022</strong></td>
-        <td>Excited to serve as a panelist after the movie "After Yang" that is screened as a part of the STEM Education Film Series organized by Park City Film.</td>
-       </tr>
-       <tr>
         <td valign="top"><strong>May 2022</strong></td>
         <td>Excited to give a talk at NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES).</td>
        </tr>

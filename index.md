@@ -4,7 +4,9 @@ classes: wide
 author_profile: true
 ---
 
-I am an Assistant Professor in the [School of Computing](https://www.cs.utah.edu/) at the University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that **rigorously validate** AI technologies and projects that make human **interaction** with AI **more intuitive**. For an example of robust validation check out our work on carefully designing benchmarks to validate robustness of question answering models in the presence of common linguistic phenomena such as [coreference](https://aclanthology.org/D19-1606/). To help people create a mental model about how to interact with AI, I contributed to building models that self-explain their predictions in a way that is easily understandable to people. For example by saying why did the model give this answer instead of another one ([contrastive explanations](https://arxiv.org/abs/2012.13985)) or by telling in plain language the gist of its reasoning ([free-text explanations](https://arxiv.org/abs/2111.08284)).                    
+I am an Assistant Professor in the [School of Computing](https://www.cs.utah.edu/) at the University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that **rigorously validate** AI technologies and projects that make human **interaction** with AI **more intuitive**. 
+
+For an example of robust validation check out our work on carefully designing benchmarks to validate robustness of question answering models in the presence of common linguistic phenomena such as [coreference](https://aclanthology.org/D19-1606/). To help people create a mental model about how to interact with AI, I contributed to building models that self-explain their predictions in a way that is easily understandable to people. For example by saying why did the model give this answer instead of another one ([contrastive explanations](https://arxiv.org/abs/2012.13985)) or by telling in plain language the gist of its reasoning ([free-text explanations](https://arxiv.org/abs/2111.08284)).                    
 
 Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) where I worked  with [Noah A. Smith](https://nasmith.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/). During that time I also had a courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). I did my PhD in the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/), where I was advised by [Anette Frank](https://www.cl.uni-heidelberg.de/~frank/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in **Mathematics** at the University of Zagreb. I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). 
 
@@ -27,6 +29,10 @@ Previously, I was a Young Investigator at the [Allen Institute for AI](https://a
        <tr>
         <td valign="top"><strong>Sept 2022</strong></td>
         <td>Excited to serve as a panelist after the movie [After Yang](https://www.imdb.com/title/tt8633464/) that is screened as a part of the STEM Education Film Series organized by Park City Film.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Aug 2022</strong></td>
+        <td>I designed a [course on local explainability](https://utah-explainability-fall22.github.io/) that I'm thrilled to teach this semester.</td>
        </tr>
 </table>
 
