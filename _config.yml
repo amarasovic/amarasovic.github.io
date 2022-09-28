@@ -155,6 +155,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - node_modules
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
