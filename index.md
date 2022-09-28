@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-[test link](https://www.anamarasovic.com/) link should be purple and note underlined now
+[test link](https://www.anamarasovic.com/) font should be smaller now maybe
 
 I am an Assistant Professor at the School of Computing, University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **multimodality**, and **explainable artificial intelligence (XAI)**, with a focus on building **trustworthy** and **intuitive language technology**.                  
 
