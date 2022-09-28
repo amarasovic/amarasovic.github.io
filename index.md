@@ -26,7 +26,7 @@ Previously, I was a Young Investigator at the [Allen Institute for AI](https://a
     <col width="100%">
        <tr>
         <td valign="top"><strong>Sept 2022</strong></td>
-        <td>Excited to serve as a panelist after the movie "After Yang" that is screened as a part of the STEM Education Film Series organized by Park City Film.</td>
+        <td>Excited to serve as a panelist after the movie [After Yang](https://www.imdb.com/title/tt8633464/) that is screened as a part of the STEM Education Film Series organized by Park City Film.</td>
        </tr>
 </table>
 
