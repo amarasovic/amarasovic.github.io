@@ -29,3 +29,9 @@ If you want to reach out for a collaboration/mentoring, pleaase send me an e-mai
 
 ## You are not a student at the University of Utah, but you hope to be 
 
+### Why I didn't answer to your email? 
+
+First of all, if you're interested in doing a PhD in the School of Computing, please apply. We will carefully consider every application. More information can be found [here](https://www.cs.utah.edu/graduate/admissions/).
+
+I fully agree with everyone that Yonatan Bisk wrote under "Information about Emailing Professors/Why is your email being ignored" available [here](https://yonatanbisk.com/emailing_professors.html). 
+
