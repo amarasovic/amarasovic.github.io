@@ -8,9 +8,14 @@ date:   2020-12-05 22:15:29 -0800
 
 ## Preprints
 
+* Jack Hessel, **Ana Marasović**, Jena D Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi                       
+<span style="color:navy">Do Androids Laugh at Electric Sheep? Humor" Understanding" Benchmarks from The New Yorker Caption Contest<span style="color:navy">                          
+[Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small}                          
+
+
 * Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**           
-<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization</span>       
-[Paper](analysis_text_gen_from_images.pdf){: .btn .btn--info .btn--small}                          
+<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">    
+[Paper](https://arxiv.org/abs/2205.11686){: .btn .btn--info .btn--small}                          
 
 
 
