@@ -2,6 +2,7 @@
 classes: wide
 layout: single
 author_profile: true
+title: ""
 date:   2022-08-19 09:28:29 -0800
 ---
 
