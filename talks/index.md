@@ -19,16 +19,9 @@ date:   2020-12-05 22:15:29 -0800
 * University of Sheffield Seminar, November 2021            
 * <a href="/slides/invited_talk_explanation_selection.pdf" style="text-decoration: none;">Slides</a> 
 
-
-<span style="color:navy">Methods for Analyzing (Current) NLP Models</span>
-* University of Washington, Guest Lecture in CSE 517, March 2020  
-* <a href="/slides/guest_lecture_uw_cse517_march_2020.pdf" style="text-decoration: none;">Slides</a> 
-
-
 <span style="color:navy">Reflecting on Interpretability Desiderata with Visual Commonsense Reasoning</span>
 * University of Washington, Department of Linguistics, November 2019 
 * <a href="/slides/invited_talk_uw_compling_vcr_desiderata.pdf" style="text-decoration: none;">Slides</a> 
-
 
 <span style="color:navy">Teaching Machines Language Understanding</span>
 * Allen School Women's Research Day, University of Washington, April 2019   
