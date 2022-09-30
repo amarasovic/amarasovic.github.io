@@ -17,8 +17,6 @@ date:   2020-12-05 22:15:29 -0800
 <span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">    
 [Paper](https://arxiv.org/abs/2205.11686){: .btn .btn--info .btn--small}                          
 
-
-
 ## Peer-Reviewed Publications
 
 
