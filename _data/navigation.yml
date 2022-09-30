@@ -3,6 +3,9 @@ main:
 - title: About
   url: /
 
+- title: Contact / FAQ
+  url: /contact/
+
 - title: Teaching
   url: /teaching/
 
