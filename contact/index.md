@@ -56,7 +56,6 @@ Through the years I noticed that many students believe they should focus on maxi
 I fully agree with everything Yonatan Bisk wrote under "Information about Emailing Professors/Why is your email being ignored" available [here](https://yonatanbisk.com/emailing_professors.html). 
 
 </details> 
-<br/>
 </details>                  
 <br/>
 
