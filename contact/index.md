@@ -41,7 +41,9 @@ If you're interested in doing a PhD in the School of Computing, *please apply*. 
 Through the years I noticed that it's a common assumption among students that maximizing the number of published paper is the most important thing in their PhD application. 
 While demonstrating _research_ experience and skills is indeed _very_ important, this comes in different flavors. 
 Publishing is one. 
-
+Others include good scientific writing, developed research taste, knowledge of currently most prominent approaches in the area of interest and the gaps that need to be filled in to make long-term progess, etc. 
+Just as publishing these are acquired skills that we do _not_ expect that you had already _fully mastered_ when applying for PhD. 
+I like some resources for how to improve these skills here. 
 
 **Why didn't I answer your email?** 
 
