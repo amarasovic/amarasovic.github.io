@@ -12,7 +12,6 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 ### Resources 
 
-<br/>
 
 {::options parse_block_html="true" /}
 
