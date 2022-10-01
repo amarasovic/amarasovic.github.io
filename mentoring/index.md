@@ -28,7 +28,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 [Coming up with research ideas by Marco Tulio Ribeiro](https://medium.com/@marcotcr/coming-up-with-research-ideas-3032682e5852)
 
 </details>                      
-
+<br/>
 
 <details><summary markdown="span"><b>Doing the work</b> [Click to expand!]</summary>              
 
@@ -38,7 +38,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 [Foundations: How to design experiments in NLU by Sam Bowman](https://drive.google.com/file/d/1kUarnxZNa-ojz0KvZFmHeAEFwTkEH7lg/edit)
 
 </details>                      
-
+<br/>
 
 <details><summary markdown="span"><b>Working with your advisor</b> [Click to expand!]</summary>              
 
@@ -52,7 +52,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 [How to work with your advisor(s)? by Jia-Bin Huan](https://twitter.com/jbhuang0604/status/1546361365778022400)           
 
 </details>                   
-
+<br/>
 
 <details><summary markdown="span"><b>Work-life balance</b> [Click to expand!]</summary>              
 
@@ -67,7 +67,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 [Stress in Research. Part V: If you really are an Impostor, then it's not a Syndrome by Charles Sutton](http://www.theexclusive.org/2018/09/impostor.html)          
 
 </details>                               
-
+<br/>
 
 <details><summary markdown="span"><b>Collections</b> [Click to expand!]</summary>              
 
@@ -77,7 +77,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 [Awesome Tips](https://github.com/jbhuang0604/awesome-tips) is an extensive list of advices by Jia-Bin Huang.        
 
 </details>                               
-
+<br/>
 
 <details><summary markdown="span"><b>Statements of Purposes</b> [Click to expand!]</summary>              
 
@@ -92,7 +92,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
 
 </details>  
-
+<br/>
 
 
 {::options parse_block_html="false" /}              
