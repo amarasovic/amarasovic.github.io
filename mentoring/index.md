@@ -93,6 +93,10 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 [Example 5: Aaron Dharna](https://docs.google.com/document/d/1d3bhFQ1e5oOmSZ1H5Cgvf5sd7L9M00zkYhdPl4UPvfg/edit)
 
+[Example 6: Abubakar Abid](https://docs.google.com/document/d/1YOpynMzEhkNkn63YdP83I5uQQAjnTc28U1VSRU8xO_A/edit)
+
+[Example 7: Saujas Vaduguru](https://saujasv.github.io/phd-applications)
+
 [More examples in this amazing repo](https://github.com/shaily99/advice#examples)
 
 [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
