@@ -12,9 +12,9 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 ### Resources 
 
-<details>
-<summary><b>Finding a good research problem to work on</b> [Click to expand!]</summary>              
+{::options parse_block_html="true" /}
 
+<details><summary markdown="span"><b>Finding a good research problem to work on</b> [Click to expand!]</summary>              
 
 [Every PhD is different by Maxwell Forbes](https://maxwellforbes.com/posts/every-phd-is-different/)
 
@@ -30,8 +30,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 </details>                      
 
 
-<details>
-<summary><b>Doing the work</b> [Click to expand!]</summary>              
+<details><summary markdown="span"><b>Doing the work</b> [Click to expand!]</summary>              
 
 
 [Organizing and evaluating research ideas by Marco Tulio Ribeiro](https://medium.com/@marcotcr/e137637b599e)
@@ -41,8 +40,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 </details>                      
 
 
-<details>
-<summary><b>Working with your advisor</b> [Click to expand!]</summary>              
+<details><summary markdown="span"><b>Working with your advisor</b> [Click to expand!]</summary>              
 
 
 [Should You Take My Advice? by Jimmy Lin](https://github.com/lintool/guide/blob/master/ignoring-advice.md)
@@ -56,8 +54,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 </details>                   
 
 
-<details>
-<summary><b>Work-life balance</b> [Click to expand!]</summary>              
+<details><summary markdown="span"><b>Work-life balance</b> [Click to expand!]</summary>              
 
 [Stress in Research. Part I: The Tournament and the Axe by Charles Sutton](http://www.theexclusive.org/2018/03/tournament-axe.html)
 
@@ -72,8 +69,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 </details>                               
 
 
-<details>
-<summary><b>Collections</b> [Click to expand!]</summary>              
+<details><summary markdown="span"><b>Collections</b> [Click to expand!]</summary>              
 
 
 [Good Citizen of CVPR](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/) has so many good talks covering a wide range of topics. 
@@ -83,18 +79,20 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 </details>                               
 
 
-<details>
-<summary><b>Examples of Statements of Purposes</b> [Click to expand!]</summary>              
+<details><summary markdown="span"><b>Statements of Purposes</b> [Click to expand!]</summary>              
 
-[Suchin Gururangan](https://suchin.io/personal-statement-advice/)
+[Example 1: Suchin Gururangan](https://suchin.io/personal-statement-advice/)
 
-[Nelson Liu](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
+[Example 2: Nelson Liu](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
 
-[Rishi Bommasani](https://drive.google.com/file/d/1t1yLgC0QMQ-8KyntZvZ7n8dgrF0U9T_v/view)
+[Example 3: Rishi Bommasani](https://drive.google.com/file/d/1t1yLgC0QMQ-8KyntZvZ7n8dgrF0U9T_v/view)
 
-[Jason Wei](https://jasonwei20.github.io/files/2021_Stanford_SoP.pdf)
+[Example 4: Jason Wei](https://jasonwei20.github.io/files/2021_Stanford_SoP.pdf)
+
+[Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
 
 </details>  
 
 
 
+{::options parse_block_html="false" /}              
