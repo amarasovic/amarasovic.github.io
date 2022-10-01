@@ -13,7 +13,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 ### Resources 
 
 <details>
-<summary><b>Finding a good research problem to work on</b></summary>              
+<summary><b>Finding a good research problem to work on</b> [Click to expand!] </summary>              
 
 
 [Every PhD is different by Maxwell Forbes](https://maxwellforbes.com/posts/every-phd-is-different/)
