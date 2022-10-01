@@ -46,7 +46,7 @@ While demonstrating _research_ experience and skills is indeed _very_ important,
 Publishing is one. 
 Others include good scientific writing, developed research taste, knowledge of currently most prominent approaches in the area of interest and the gaps that need to be filled in to make long-term progess, etc. 
 Just as publishing, these are acquired skills that we do _not_ expect that you had already _fully mastered_ when applying for PhD. 
-I hope you can infer now how even research projects that did not result in a publication can be useful in your statement. 
+I hope you can infer now how even research projects and activities that did not result in a publication can be useful in your statement. 
 I linked some resources for how to improve these skills [here](https://www.anamarasovic.com/contact/). There you can also find examples of great statements.
 
 **Why didn't I answer your email?** 
