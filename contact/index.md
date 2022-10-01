@@ -28,7 +28,7 @@ Pleaase send me an e-mail with the following information:
 * CS 6140 – Data Mining                       
 
 
-** You are not a student at the University of Utah, but you hope to be **
+** You are not a student at the University of Utah, but you hope to be / Why I didn't answer to your email **
 
 First of all, if you're interested in doing a PhD in the School of Computing, please apply. We will carefully consider every application. More information can be found [here](https://www.cs.utah.edu/graduate/admissions/).
 
