@@ -13,7 +13,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 ### Resources 
 
 <details>
-<summary><b>Finding a good research problem to work on</b> [Click to expand!] </summary>              
+<summary><b>Finding a good research problem to work on</b> [Click to expand!]</summary>              
 
 
 [Every PhD is different by Maxwell Forbes](https://maxwellforbes.com/posts/every-phd-is-different/)
@@ -30,11 +30,17 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 </details>                      
 
 
-**Doing the work**
+<details>
+<summary><b>Doing the work</b> [Click to expand!]</summary>              
+
 
 [Organizing and evaluating research ideas by Marco Tulio Ribeiro](https://medium.com/@marcotcr/e137637b599e)
 
 [Foundations: How to design experiments in NLU by Sam Bowman](https://drive.google.com/file/d/1kUarnxZNa-ojz0KvZFmHeAEFwTkEH7lg/edit)
+
+</details>                      
+
+
 
 **Working with your advisor**
 
