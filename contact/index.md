@@ -32,6 +32,8 @@ Please send me an email first with the following information:
     * CS 6320 – Computer Vision                       
     * CS 6140 – Data Mining                       
 
+---
+
 ### You are *not* a student at the University of Utah, but you hope to be
 
 If you're interested in doing a PhD in the School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
@@ -49,6 +51,8 @@ I linked some resources for how to improve these skills [here](https://www.anama
 **Why didn't I answer your email?** 
 
 I fully agree with everything Yonatan Bisk wrote under "Information about Emailing Professors/Why is your email being ignored" available [here](https://yonatanbisk.com/emailing_professors.html). 
+
+---
 
 ### You're looking for postdoc positions
 
