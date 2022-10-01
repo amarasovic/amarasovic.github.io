@@ -10,8 +10,8 @@ date:   2022-09-30 22:15:29 -0800
 
 Pleaase send me an e-mail with the following information: 
 
-1. What's your educational status? [undergrad, masters, PhD, other]
-2. Which topics interests you,  
+1. What's your educational status? [undergrad, masters, PhD, other],
+2. Which research questions or problems interests you,  
 3. What do you hope to get out of this collaboration, 
 4. Mention are you proficient in python,  
 5. Mention are you familiar with pytorch [and if yes, links to your github repos are appreciated], 
