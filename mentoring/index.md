@@ -97,6 +97,8 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 [Example 7: Saujas Vaduguru](https://saujasv.github.io/phd-applications)
 
+[Example 8: Hany Hamed](https://hany606.notion.site/Statement-of-Purpose-SoP-research-statement-41f0923aa14c417bafc9ecc779891fa0)
+
 [More examples in this amazing repo](https://github.com/shaily99/advice#examples)
 
 [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
