@@ -8,7 +8,8 @@ date:   2022-09-30 22:15:29 -0800
 
 {::options parse_block_html="true" /}
 
-<details><summary><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>                         
+<details><summary markdown="span"><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>
+
 Please send me an email first with the following information: 
 
 1. What's your educational status? [undergrad, masters, PhD, other],
