@@ -64,3 +64,5 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 
 [Nelson Liu](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
+
+[Rishi Bommasani](https://drive.google.com/file/d/1t1yLgC0QMQ-8KyntZvZ7n8dgrF0U9T_v/view)
