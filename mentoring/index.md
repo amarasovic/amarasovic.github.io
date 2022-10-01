@@ -12,6 +12,8 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 ### Resources 
 
+<br/>
+
 {::options parse_block_html="true" /}
 
 <details><summary markdown="span"><b>Finding a good research problem to work on</b> [Click to expand!]</summary>              
