@@ -75,7 +75,9 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 [Good Citizen of CVPR](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/) has so many good talks covering a wide range of topics. 
 
-[Awesome Tips](https://github.com/jbhuang0604/awesome-tips) is an extensive list of advices by Jia-Bin Huang.        
+[Awesome Tips](https://github.com/jbhuang0604/awesome-tips) is an extensive list of advices by Jia-Bin Huang.  
+
+["A repository of links with advice related to grad school applications, research, phd etc" by Shaily Bhatt](https://github.com/shaily99/advice#examples)
 
 </details>                               
 <br/>
