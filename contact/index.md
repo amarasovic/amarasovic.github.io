@@ -12,7 +12,7 @@ Please send me an email first with the following information:
 
 1. What's your educational status? [undergrad, masters, PhD, other],
 2. Which research questions or problems interests you,  
-3. What do you hope to get out of this collaboration, 
+3. What do you hope to get out of this collaboration,  
 4. Mention are you proficient in python,  
 5. Mention are you familiar with pytorch [and if yes, links to your github repos are appreciated], 
 6. If you TA'ed, for which courses/professor, 
@@ -27,14 +27,15 @@ Please send me an email first with the following information:
     * CS 6320 – Computer Vision                       
     * CS 6140 – Data Mining                       
 
-
-
 ### You are *not* a student at the University of Utah, but you hope to be
 
 If you're interested in doing a PhD in the School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
+
 
 **Why didn't I answer your email?** 
 
 I fully agree with everyone that Yonatan Bisk wrote under "Information about Emailing Professors/Why is your email being ignored" available [here](https://yonatanbisk.com/emailing_professors.html). 
 
+### You're looking for postdoc positions
 
+I'm not hiring postdocs yet. 
