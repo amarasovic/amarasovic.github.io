@@ -6,9 +6,9 @@ title: "Contact/FAQ"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-**You're a student at the University of Utah interested in a collaboration/mentoring**
+**You are a student at the University of Utah interested in a collaboration/mentoring**
 
-Pleaase send me an e-mail with the following information: 
+Please send me an email first with the following information: 
 
 1. What's your educational status? [undergrad, masters, PhD, other],
 2. Which research questions or problems interests you,  
@@ -19,18 +19,19 @@ Pleaase send me an e-mail with the following information:
 7. If you worked with a SoC faculty, please mention them, 
 8. Which courses from the following list are you taking at the moment or have already completed: 
 
-* CS 5966/6966 – Local Explanations for Deep Learning Models                       
-* CS 6350 – Machine Learning                        
-* CS 6353 – Deep Learning                       
-* CS 6340 – Natural Language Processing                       
-* CS 6540 – Human-Computer Interaction                       
-* CS 6320 – Computer Vision                       
-* CS 6140 – Data Mining                       
+    * CS 5966/6966 – Local Explanations for Deep Learning Models                       
+    * CS 6350 – Machine Learning                        
+    * CS 6353 – Deep Learning                       
+    * CS 6340 – Natural Language Processing                       
+    * CS 6540 – Human-Computer Interaction                       
+    * CS 6320 – Computer Vision                       
+    * CS 6140 – Data Mining                       
 
 
-**You are not a student at the University of Utah, but you hope to be / Why I didn't answer to your email**
 
-If you're interested in doing a PhD in the School of Computing, *please apply*. We will carefully consider every application. More information can be found [here](https://www.cs.utah.edu/graduate/admissions/).
+**You are *not* a student at the University of Utah, but you hope to be; Why didn't I answer your email?**
+
+If you're interested in doing a PhD in the School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
 
 I fully agree with everyone that Yonatan Bisk wrote under "Information about Emailing Professors/Why is your email being ignored" available [here](https://yonatanbisk.com/emailing_professors.html). 
 
