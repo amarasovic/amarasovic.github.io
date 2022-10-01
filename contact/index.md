@@ -8,7 +8,7 @@ date:   2022-09-30 22:15:29 -0800
 
 
 <details>
-<summary><span style="color:navy"><b>You are a student at the University of Utah interested in a collaboration/mentoring</b><span> [Click to expand!]</summary>              
+<summary><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>              
 
 
 Please send me an email first with the following information: 
@@ -35,13 +35,13 @@ Please send me an email first with the following information:
 
 
 <details>
-<summary><span style="color:navy"><b>You are *not* a student at the University of Utah, but you want to be</b></span> [Click to expand!]</summary>              
+<summary><b>You are *not* a student at the University of Utah, but you want to be</b> [Click to expand!]</summary>              
 
 
 If you're interested in doing a PhD in the School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
 
 <details>
-<summary><span style="color:orange"><b>Suggestions for the Statement of Purpose</b></span> [Click to expand!]</summary>              
+<summary><b>Suggestions for the Statement of Purpose</b> [Click to expand!]</summary>              
 
 
 Through the years I noticed that many students believe they should focus on maximizing the number of publications to improve their PhD application. While demonstrating _research_ experience and skills is indeed _very_ important, this comes in different flavors. Publishing is one. Others include good scientific writing, developed research taste, knowledge of currently most prominent approaches in the area of interest and the gaps that need to be filled in to make short- and long-term progress, ideas of how to address these gaps, etc. Just as publishing, these are acquired skills that we do _not_ expect that you already _fully mastered_ when applying for PhD. That's what a PhD is for. 🙂 Your statement is your chance to demonstrate to a potential advisor, who doesn't know you yet, that you are capable and excited to further develop these skills. I hope you can infer now how even research projects and activities that did not result in a publication can be useful in your statement. I linked some resources for how to improve these skills [here](https://www.anamarasovic.com/contact/). There you can also find examples of great statements.
@@ -50,7 +50,7 @@ Through the years I noticed that many students believe they should focus on maxi
 
 
 <details>
-<summary><span style="color:orange"><b>Why didn't I answer your email?</b></span> [Click to expand!]</summary>              
+<summary><b>Why didn't I answer your email?</b> [Click to expand!]</summary>              
 
 
 I fully agree with everything Yonatan Bisk wrote under "Information about Emailing Professors/Why is your email being ignored" available [here](https://yonatanbisk.com/emailing_professors.html). 
@@ -62,7 +62,7 @@ I fully agree with everything Yonatan Bisk wrote under "Information about Emaili
 
 
 <details>
-<summary><span style="color:navy"><b>You're looking for postdoc positions</b></span> [Click to expand!]</summary>              
+<summary><b>You're looking for postdoc positions</b> [Click to expand!]</summary>              
 
 
 I'm not hiring postdocs yet. 
