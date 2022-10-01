@@ -6,9 +6,9 @@ title: "Contact/FAQ"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-## If you are already a student at the University of Utah 
+** You're a student at the University of Utah interested in a collaboration/mentoring **
 
-If you want to reach out for a collaboration/mentoring, pleaase send me an e-mail with the following information: 
+Pleaase send me an e-mail with the following information: 
 
 1. What's your educational status? [undergrad, masters, PhD, other]
 2. Which topics interests you,  
@@ -28,9 +28,7 @@ If you want to reach out for a collaboration/mentoring, pleaase send me an e-mai
 * CS 6140 – Data Mining                       
 
 
-## You are not a student at the University of Utah, but you hope to be 
-
-### Why I didn't answer to your email? 
+** You are not a student at the University of Utah, but you hope to be **
 
 First of all, if you're interested in doing a PhD in the School of Computing, please apply. We will carefully consider every application. More information can be found [here](https://www.cs.utah.edu/graduate/admissions/).
 
