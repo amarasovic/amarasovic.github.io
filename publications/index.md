@@ -6,6 +6,8 @@ title: Publications
 date:   2020-12-05 22:15:29 -0800
 ---
 
+Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
+
 ## Preprints
 
 * Jack Hessel, **Ana Marasović**, Jena D Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi                       
@@ -131,3 +133,8 @@ date:   2020-12-05 22:15:29 -0800
 <span style="color:navy">Modal Sense Classification at Large: Paraphrase-Driven Sense Projection, Semantically Enriched Classification Models and Cross-Genre Evaluations</span>  
 [Paper](https://www.aclweb.org/anthology/2016.lilt-14.3/){: .btn .btn--info .btn--small}
 
+## Blogs
+
+* I wrote for The Gradient about generalization in NLP. You can find the article  [here](https://thegradient.pub/frontiers-of-generalization-in-natural-language-processing/).
+
+* [BERT-base forward steps.](2020-02-19-bert-forward.md)
