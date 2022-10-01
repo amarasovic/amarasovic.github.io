@@ -8,18 +8,6 @@ date:   2022-09-30 22:15:29 -0800
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Let's see some code!</summary>
-```python
-print('Hello World!')
-```
-Of course, it has to be Hello World, right?
-</details>
-<br/>
-
-{::options parse_block_html="false" /}              
-
-
-
 <details>
 <summary><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>              
 
@@ -83,3 +71,4 @@ I'm not hiring postdocs yet.
 
 </details> 
 
+{::options parse_block_html="false" /}              
