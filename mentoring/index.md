@@ -41,8 +41,9 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 </details>                      
 
 
+<details>
+<summary><b>Working with your advisor</b> [Click to expand!]</summary>              
 
-**Working with your advisor**
 
 [Should You Take My Advice? by Jimmy Lin](https://github.com/lintool/guide/blob/master/ignoring-advice.md)
 
@@ -50,9 +51,13 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 [How to do research with my mentors effectively? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1418407079077842944)
 
-[How to work with your advisor(s)? by Jia-Bin Huan](https://twitter.com/jbhuang0604/status/1546361365778022400)
+[How to work with your advisor(s)? by Jia-Bin Huan](https://twitter.com/jbhuang0604/status/1546361365778022400)           
 
-**Work-life balance**
+</details>                   
+
+
+<details>
+<summary><b>Work-life balance</b> [Click to expand!]</summary>              
 
 [Stress in Research. Part I: The Tournament and the Axe by Charles Sutton](http://www.theexclusive.org/2018/03/tournament-axe.html)
 
@@ -62,17 +67,28 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 [Stress in Research. Part IV: A Tsunami of Logistics by Charles Sutton](http://www.theexclusive.org/2018/07/logistic-tsunami.html)
 
-[Stress in Research. Part V: If you really are an Impostor, then it's not a Syndrome by Charles Sutton](http://www.theexclusive.org/2018/09/impostor.html)
+[Stress in Research. Part V: If you really are an Impostor, then it's not a Syndrome by Charles Sutton](http://www.theexclusive.org/2018/09/impostor.html)          
 
-**Collections**
+</details>                               
+
+
+<details>
+<summary><b>Collections</b> [Click to expand!]</summary>              
+
 
 [Good Citizen of CVPR](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/) has so many good talks covering a wide range of topics. 
 
-[Awesome Tips](https://github.com/jbhuang0604/awesome-tips) is an extensive list of advices by Jia-Bin Huang.
+[Awesome Tips](https://github.com/jbhuang0604/awesome-tips) is an extensive list of advices by Jia-Bin Huang.        
 
-**Statements of Purposes** 
+</details>                               
 
+
+<details>
+<summary><b>Statements of Purposes</b> [Click to expand!]</summary>              
 
 [Nelson Liu](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
 
 [Rishi Bommasani](https://drive.google.com/file/d/1t1yLgC0QMQ-8KyntZvZ7n8dgrF0U9T_v/view)
+
+</details>                  
+
