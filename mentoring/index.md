@@ -84,7 +84,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 
 <details>
-<summary><b>Statements of Purposes</b> [Click to expand!]</summary>              
+<summary><b>Examples of Statements of Purposes</b> [Click to expand!]</summary>              
 
 [Suchin Gururangan](https://suchin.io/personal-statement-advice/)
 
@@ -92,5 +92,9 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 [Rishi Bommasani](https://drive.google.com/file/d/1t1yLgC0QMQ-8KyntZvZ7n8dgrF0U9T_v/view)
 
-</details>                  
+[Jason Wei](https://jasonwei20.github.io/files/2021_Stanford_SoP.pdf)
+
+</details>  
+
+
 
