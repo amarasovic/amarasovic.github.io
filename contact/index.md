@@ -10,6 +10,7 @@ date:   2022-09-30 22:15:29 -0800
 * [You are *not* a student at the University of Utah, but you hope to be](https://www.anamarasovic.com/contact/#you-are-a-student-at-the-university-of-utah-interested-in-a-collaborationmentoring)                    
 * [You're looking for postdoc positions](https://www.anamarasovic.com/contact/#youre-looking-for-postdoc-positions)
 
+---
 
 ### You are a student at the University of Utah interested in a collaboration/mentoring
 
