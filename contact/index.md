@@ -6,7 +6,7 @@ title: "Contact/FAQ"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-**You are a student at the University of Utah interested in a collaboration/mentoring**
+### You are a student at the University of Utah interested in a collaboration/mentoring
 
 Please send me an email first with the following information: 
 
@@ -29,9 +29,12 @@ Please send me an email first with the following information:
 
 
 
-**You are *not* a student at the University of Utah, but you hope to be; Why didn't I answer your email?**
+### You are *not* a student at the University of Utah, but you hope to be
 
 If you're interested in doing a PhD in the School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
 
+**Why didn't I answer your email?** 
+
 I fully agree with everyone that Yonatan Bisk wrote under "Information about Emailing Professors/Why is your email being ignored" available [here](https://yonatanbisk.com/emailing_professors.html). 
+
 
