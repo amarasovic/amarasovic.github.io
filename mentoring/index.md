@@ -84,25 +84,31 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 <details><summary markdown="span"><b>Statements of Purposes</b> [Click to expand!]</summary>              
 
-[Example 1: Suchin Gururangan](https://suchin.io/personal-statement-advice/)
+* [Will Merrill](https://docs.google.com/document/d/1oQn9_jBVUNutMItuH-Bc3Od8CfwMCBAHnCjdTzBB8K8/edit)
 
-[Example 2: Nelson Liu](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
+* [Suchin Gururangan](https://suchin.io/personal-statement-advice/)
 
-[Example 3: Rishi Bommasani](https://drive.google.com/file/d/1t1yLgC0QMQ-8KyntZvZ7n8dgrF0U9T_v/view)
+* [Nelson Liu](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
 
-[Example 4: Jason Wei](https://jasonwei20.github.io/files/2021_Stanford_SoP.pdf)
+* [Rishi Bommasani](https://drive.google.com/file/d/1t1yLgC0QMQ-8KyntZvZ7n8dgrF0U9T_v/view)
 
-[Example 5: Aaron Dharna](https://docs.google.com/document/d/1d3bhFQ1e5oOmSZ1H5Cgvf5sd7L9M00zkYhdPl4UPvfg/edit)
+* [Jason Wei](https://jasonwei20.github.io/files/2021_Stanford_SoP.pdf)
 
-[Example 6: Abubakar Abid](https://docs.google.com/document/d/1YOpynMzEhkNkn63YdP83I5uQQAjnTc28U1VSRU8xO_A/edit)
+* [Vijay Viswanathan](https://docs.google.com/document/d/10nkNL1NcVYsz9-YLGxR6I1qgckNVGR3wAujrVME-fNs/edit)
 
-[Example 7: Saujas Vaduguru](https://saujasv.github.io/phd-applications)
+* [Yash Bhalgat](https://yashbhalgat.github.io/data/SOP_Oxford.pdf)
 
-[Example 8: Hany Hamed](https://hany606.notion.site/Statement-of-Purpose-SoP-research-statement-41f0923aa14c417bafc9ecc779891fa0)
+* [Aaron Dharna](https://docs.google.com/document/d/1d3bhFQ1e5oOmSZ1H5Cgvf5sd7L9M00zkYhdPl4UPvfg/edit)
 
-[Example 9: Sai Siddartha Maram](https://github.com/siddu1998/Graduate-Admissions)
+* [Abubakar Abid](https://docs.google.com/document/d/1YOpynMzEhkNkn63YdP83I5uQQAjnTc28U1VSRU8xO_A/edit)
 
-[Example 10: Sarah Cormiea](https://www.dropbox.com/s/qdsnzflsx9fa7nm/CORMIEA_StatementOfPurpose_Hopkins_FINAL.pdf?dl=0)
+* [Saujas Vaduguru](https://saujasv.github.io/phd-applications)
+
+* [Hany Hamed](https://hany606.notion.site/Statement-of-Purpose-SoP-research-statement-41f0923aa14c417bafc9ecc779891fa0)
+
+* [Sai Siddartha Maram](https://github.com/siddu1998/Graduate-Admissions)
+
+* [Sarah Cormiea](https://www.dropbox.com/s/qdsnzflsx9fa7nm/CORMIEA_StatementOfPurpose_Hopkins_FINAL.pdf?dl=0)
 
 [More examples in this amazing repo](https://github.com/shaily99/advice#examples)
 
