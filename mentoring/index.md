@@ -12,7 +12,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 ## AI2/UW Mentees 
 
-I had a pleasure to work with many great undergraduate and PhD students during my time in AI2/UW. If you're considering me as a potential advisor, I encourage you to reach out to them to hear about their experience working with me. 
+I had a pleasure to work with great undergraduate and PhD students during my time in AI2/UW. If you're considering me as a potential advisor, I encourage you to reach out to them to hear about their experience working with me. 
 
 **AI2 Predoctoral Researchers**
 
