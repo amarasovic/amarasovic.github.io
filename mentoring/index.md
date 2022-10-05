@@ -8,8 +8,6 @@ date:   2022-09-30 22:15:29 -0800
 
 From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruiting students – Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page before reaching out.
 
---- 
-
 ## AI2/UW Mentees 
 
 I had a pleasure to work with great undergraduate and PhD students during my time in AI2/UW. If you're considering me as a potential advisor, I encourage you to reach out to them to hear about their experience working with me. 
@@ -33,7 +31,6 @@ I had a pleasure to work with great undergraduate and PhD students during my tim
 * [Sarah Wiegreffe](https://sarahwie.github.io/) (Georgia Tech)
 * [Zhanming Allan Jie](https://allanj.github.io/) (SUTD)
 
---- 
 
 ## Resources 
 
