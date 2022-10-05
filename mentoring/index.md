@@ -10,6 +10,32 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 --- 
 
+### AI2/UW Mentees 
+
+I had a pleasure to work with many great undergraduate and PhD students during my time in AI2/UW. If you're considering me as a potential advisor, I encourage you to reach out to them to hear about their experience working with me. 
+
+
+**AI2 Predoctoral Researchers**
+
+* [Alexis Ross](https://alexisjihyeross.github.io/) (&rarr; MIT PhD)
+
+
+**UW Underaguate Researchers**
+
+* [Kaiser Sun](https://kaiserwholearns.github.io/) (&rarr; FAIR Residency &rarr; JHU PhD)
+* [Millicent Li](https://millicentli.github.io/) (&rarr; FAIR Residency &rarr;  Northeastern PhD)
+
+**AI2 PhD Interns**
+
+* [Abhilasha Ravichander](https://www.cs.cmu.edu/~aravicha/) (CMU)
+* [Shruti Palaskar](https://shrutijpalaskar.github.io/) (CMU)
+* [Mimansa Jaiswal](https://mimansajaiswal.github.io/) (UMich)
+* [Alexander M. Hoyle](https://alexanderhoyle.com/) (UMD)
+* [Sarah Wiegreffe](https://sarahwie.github.io/) (Georgia Tech)
+* [Zhanming Allan Jie](https://allanj.github.io/) (SUTD)
+
+--- 
+
 ### Resources 
 
 
