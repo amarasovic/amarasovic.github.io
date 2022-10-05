@@ -10,10 +10,10 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 --- 
 
-### AI2/UW Mentees 
-
+## AI2/UW Mentees 
+</br>
 I had a pleasure to work with many great undergraduate and PhD students during my time in AI2/UW. If you're considering me as a potential advisor, I encourage you to reach out to them to hear about their experience working with me. 
-
+</br>
 
 **AI2 Predoctoral Researchers**
 
@@ -36,11 +36,9 @@ I had a pleasure to work with many great undergraduate and PhD students during m
 
 --- 
 
-### Resources 
-
-
+## Resources 
+</br>
 {::options parse_block_html="true" /}
-
 <details><summary markdown="span"><b>Finding a good research problem to work on</b> [Click to expand!]</summary>              
 
 [Every PhD is different by Maxwell Forbes](https://maxwellforbes.com/posts/every-phd-is-different/)
