@@ -28,6 +28,10 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+        <tr>
+        <td valign="top"><strong>Oct 2022</strong></td>
+        <td>Three papers accepted to EMNLP!</td>
+       </tr>
        <tr>
         <td valign="top"><strong>Sept 2022</strong></td>
         <td>Excited to serve as a panelist after the movie <a href="https://www.imdb.com/title/tt8633464">After Yang</a> that is screened as a part of the STEM Education Film Series organized by Park City Film.</td>
