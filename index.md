@@ -40,6 +40,10 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
         <td valign="top"><strong>Aug 2022</strong></td>
         <td>I designed a <a href="https://utah-explainability-fall22.github.io/">course on local explainability</a> that I'm thrilled to teach this semester.</td>
        </tr>
+        <tr>
+        <td valign="top"><strong>July 2022</strong></td>
+        <td>I am a Senior Area Chair for the EMNLP'22 interpretability track.</td>
+       </tr>
 </table>
 
 
