@@ -26,7 +26,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 *EMNLP 2022*                                    
 
 
-* Alexis Ross, Matthew Peters, **Ana Marasović** 
+* Alexis Ross, Matthew E. Peters, **Ana Marasović** 
 <span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?span style="color:navy">  
 *EMNLP 2022*              
 
