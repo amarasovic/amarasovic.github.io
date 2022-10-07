@@ -15,14 +15,27 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 [Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small}                          
 
 
-* Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**           
-<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">    
-[Paper](https://arxiv.org/abs/2205.11686){: .btn .btn--info .btn--small}                          
 
 ## Peer-Reviewed Publications
 
 
 ### 2022
+
+* Abhilasha Ravichander, Matt Gardner, **Ana Marasović**                       
+<span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation<span style="color:navy">                               
+*EMNLP 2022*                                    
+
+
+* Alexis Ross, Matthew Peters, **Ana Marasović** 
+<span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?span style="color:navy">  
+*EMNLP 2022*              
+
+
+* Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**           
+<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">   
+*Findings of EMNLP 2022*                          
+[Paper](https://arxiv.org/abs/2205.11686){: .btn .btn--info .btn--small}                          
+
 
 * **Ana Marasović<sup>\*</sup>**, Iz Beltagy<sup>\*</sup>, Doug Downey, Matthew E. Peters                               
 <span style="color:navy">Few-Shot Self-Rationalization with Natural Language Prompts</span>         
