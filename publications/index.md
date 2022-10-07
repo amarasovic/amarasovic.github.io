@@ -22,23 +22,25 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 ### 2022
 
 * Abhilasha Ravichander, Matt Gardner, **Ana Marasović**                       
-<span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation<span style="color:navy">                               
-*EMNLP*                                    
+<span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation<span style="color:navy">                                                                           
+*EMNLP*                        
+
 
 
 * Alexis Ross, Matthew E. Peters, **Ana Marasović**                        
-<span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?<span style="color:navy">                             
-*EMNLP*              
+<span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?<span style="color:navy">                                                                   
+*EMNLP*                                           
+
 
 * Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**                        
-<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">                    
+<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">                                                         
 *Findings of EMNLP*                          
 [Paper](https://arxiv.org/abs/2205.11686){: .btn .btn--info .btn--small}                          
 
 
 * **Ana Marasović<sup>\*</sup>**, Iz Beltagy<sup>\*</sup>, Doug Downey, Matthew E. Peters                               
-<span style="color:navy">Few-Shot Self-Rationalization with Natural Language Prompts</span>         
-*Findings of NAACL*                          
+<span style="color:navy">Few-Shot Self-Rationalization with Natural Language Prompts</span>                            
+*Findings of NAACL*                                                            
 [Paper](https://arxiv.org/abs/2111.08284){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/feb){: .btn .btn--danger .btn--small}                          
 
 ### 2021
