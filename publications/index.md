@@ -57,7 +57,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 * Jesse Dodge, Maarten Sap, **Ana Marasović**, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Matt Gardner                  
 <span style="color:navy">Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus</span>              
-**EMNLP**                                       
+*EMNLP*                                                
 [Paper](https://arxiv.org/abs/2104.08758){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Repo](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}                           
          
 * Kaiser Sun and **Ana Marasović**                                                    
