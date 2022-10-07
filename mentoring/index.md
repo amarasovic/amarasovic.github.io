@@ -98,7 +98,11 @@ I had a pleasure to work with great undergraduate and PhD students during my tim
 
 [Awesome Tips](https://github.com/jbhuang0604/awesome-tips) is an extensive list of advices by Jia-Bin Huang.  
 
-["A repository of links with advice related to grad school applications, research, phd etc" by Shaily Bhatt](https://github.com/shaily99/advice#examples)
+["A repository of links with advice related to grad school applications, research, phd etc"](https://github.com/shaily99/advice#examples) by Shaily Bhatt.
+
+[Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/#%28part._.What_is_the___300_000_model__%29) by Shriram Krishnamurthi. 
+
+
 
 </details>                               
 <br/>
@@ -134,6 +138,8 @@ I had a pleasure to work with great undergraduate and PhD students during my tim
 [More examples in this amazing repo](https://github.com/shaily99/advice#examples)
 
 [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
+
+
 
 
 </details>  
