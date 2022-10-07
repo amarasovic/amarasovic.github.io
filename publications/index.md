@@ -11,7 +11,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 ## Preprints
 
 * Jack Hessel, **Ana Marasović**, Jena D Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi                       
-<span style="color:navy">Do Androids Laugh at Electric Sheep? Humor" Understanding" Benchmarks from The New Yorker Caption Contest<span style="color:navy">                          
+<span style="color:navy">Do Androids Laugh at Electric Sheep? Humor" Understanding" Benchmarks from The New Yorker Caption Contest</span>                         
 [Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small}                          
 
 
@@ -22,18 +22,17 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 ### 2022
 
 * Abhilasha Ravichander, Matt Gardner, **Ana Marasović**                       
-<span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation<span style="color:navy">                                                                           
+<span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation</span>                                                                                                                 
 *EMNLP*                        
 
 
-
 * Alexis Ross, Matthew E. Peters, **Ana Marasović**                        
-<span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?<span style="color:navy">                                                                   
+<span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?</span>                                                                                                         
 *EMNLP*                                           
 
 
 * Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**                        
-<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">                                                         
+<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization</span>                                                                                 
 *Findings of EMNLP*                          
 [Paper](https://arxiv.org/abs/2205.11686){: .btn .btn--info .btn--small}                          
 
