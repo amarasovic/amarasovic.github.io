@@ -26,12 +26,12 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 *EMNLP 2022*                                    
 
 
-* Alexis Ross, Matthew E. Peters, **Ana Marasović** 
-<span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?span style="color:navy">  
+* Alexis Ross, Matthew E. Peters, **Ana Marasović**                        
+<span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?<span style="color:navy">                             
 *EMNLP 2022*              
 
-* Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**           
-<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">   
+* Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**                        
+<span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">                    
 *Findings of EMNLP*                          
 [Paper](https://arxiv.org/abs/2205.11686){: .btn .btn--info .btn--small}                          
 
