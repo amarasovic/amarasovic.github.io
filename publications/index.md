@@ -23,12 +23,12 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 * Abhilasha Ravichander, Matt Gardner, **Ana Marasović**                       
 <span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation<span style="color:navy">                               
-*EMNLP 2022*                                    
+*EMNLP*                                    
 
 
 * Alexis Ross, Matthew E. Peters, **Ana Marasović**                        
 <span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?<span style="color:navy">                             
-*EMNLP 2022*              
+*EMNLP*              
 
 * Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**                        
 <span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">                    
