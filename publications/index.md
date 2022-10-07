@@ -30,35 +30,34 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 <span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?span style="color:navy">  
 *EMNLP 2022*              
 
-
 * Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**           
 <span style="color:navy">On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization<span style="color:navy">   
-*Findings of EMNLP 2022*                          
+*Findings of EMNLP*                          
 [Paper](https://arxiv.org/abs/2205.11686){: .btn .btn--info .btn--small}                          
 
 
 * **Ana Marasović<sup>\*</sup>**, Iz Beltagy<sup>\*</sup>, Doug Downey, Matthew E. Peters                               
 <span style="color:navy">Few-Shot Self-Rationalization with Natural Language Prompts</span>         
-*Findings of NAACL 2022*                          
+*Findings of NAACL*                          
 [Paper](https://arxiv.org/abs/2111.08284){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/feb){: .btn .btn--danger .btn--small}                          
 
 ### 2021
 
 * Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović<sup>\*</sup>**       
 <span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>        
-*NeurIPS 2021*                                              
+*NeurIPS*                                              
 [Paper](https://openreview.net/pdf?id=ogNcxJn32BZ){: .btn .btn--info .btn--small} [Website](https://exnlpdatasets.github.io/){: .btn .btn--warning .btn--small}                 
 
 
 * Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
 <span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>                        
-*EMNLP 2021*                                                                          
+*EMNLP*                                                                          
 [Paper](https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}  
 
 
 * Jesse Dodge, Maarten Sap, **Ana Marasović**, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Matt Gardner                  
 <span style="color:navy">Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus</span>              
-**EMNLP 2021**                                       
+**EMNLP**                                       
 [Paper](https://arxiv.org/abs/2104.08758){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Repo](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}                           
          
 * Kaiser Sun and **Ana Marasović**                                                    
