@@ -30,7 +30,7 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="100%">
         <tr>
         <td valign="top"><strong>Oct 2022</strong></td>
-        <td>Three papers accepted to EMNLP!</td>
+        <td>Three papers accepted to EMNLP. Kudos to Abhilasha, Alexis, and Shruti!  🙌 </td>
        </tr>
        <tr>
         <td valign="top"><strong>Sept 2022</strong></td>
