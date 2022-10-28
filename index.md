@@ -4,6 +4,8 @@ classes: wide
 author_profile: true
 ---
 
+<span style="color:#CFF636;">***I plan to hire 2 PhD students to work with me starting Fall 2023. Please check [Contact/FAQ](https://www.anamarasovic.com/contact/) before you reach out.***</span>  (I'm not hiring postdocs at the moment.) 
+
 I am an Assistant Professor in the [School of Computing](https://www.cs.utah.edu/) at the University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that (1) **rigorously validate** AI technologies, and (2) make human **interaction** with AI **more intuitive**. 
 
 For one example of robust validation check out our work on carefully designing benchmarks to validate robustness of QA models in the presence of common linguistic phenomena such as [coreference](https://aclanthology.org/D19-1606/). On the other hand, to help people create a mental model about how to interact with AI, I have contributed to building models that self-explain their predictions in a way that is easily understandable to people. For example by saying why did the model give this answer instead of another one ([contrastive explanations](https://arxiv.org/abs/2012.13985)) or by telling in plain language the gist of its reasoning ([free-text explanations](https://arxiv.org/abs/2111.08284)). Moving forward, I am excited to evaluate and improve such models with application-grounded, human-subject evaluations.                     
@@ -13,7 +15,7 @@ Previously, I was a Young Investigator at the [Allen Institute for AI](https://a
 
 I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I was always appreciative of mountains living in a place like that, but it took moving to Seattle to realize that free time is best spent outdoors. You can see some of my outings [here](https://www.anamarasovic.com/blog/).
 
-**I plan to hire 2 PhD students to work with me starting Fall 2023. Please check [Contact/FAQ](https://www.anamarasovic.com/contact/) before you reach out.**  I'm not hiring postdocs at the moment. 
+
 
 ---
 
