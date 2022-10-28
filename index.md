@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-<span style="color:#CFF636;">***I plan to hire 2 PhD students to work with me starting Fall 2023. Please check [Contact/FAQ](https://www.anamarasovic.com/contact/) before you reach out.***</span>  (I'm not hiring postdocs at the moment.) 
+ 📣 <span style="color:#CFF636;">***I plan to hire 2 PhD students to work with me starting Fall 2023. Please check [Contact/FAQ](https://www.anamarasovic.com/contact/) before you reach out.***</span>  (I'm not hiring postdocs at the moment.) 
 
 I am an Assistant Professor in the [School of Computing](https://www.cs.utah.edu/) at the University of Utah. My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that (1) **rigorously validate** AI technologies, and (2) make human **interaction** with AI **more intuitive**. 
 
