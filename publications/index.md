@@ -28,7 +28,8 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 * Alexis Ross, Matthew E. Peters, **Ana Marasović**                        
 <span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?</span>                                                                                                         
-*EMNLP*                                           
+*EMNLP*                                                                          
+[Paper](https://arxiv.org/abs/2210.13575){: .btn .btn--info .btn--small}                           
 
 
 * Shruti Palaskar, Akshita Bhagia, Yonatan Bisk, Florian Metze, Alan W Black, **Ana Marasović**                        

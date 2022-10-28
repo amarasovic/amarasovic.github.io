@@ -60,8 +60,7 @@ Through the years I noticed that many students believe they should focus on maxi
 <details>
 <summary markdown="span" style="color:orange"><b>Why didn't I answer your email?</b> [Click to expand!]</summary>              
 
-
-I fully agree with everything Yonatan Bisk wrote under "Information about Emailing Professors/Why is your email being ignored" available [here](https://yonatanbisk.com/emailing_professors.html). 
+While I'm flattered to be considered as anyone's advisor, as most professors I don't have bandwidth to answer generic emails that inform me about your achivements and that you are interested in working with me. In very rare cases, when those emails are specific and truly relevant for my ongoing research and interests, I respond. If I haven't responded to you, sending more emails won't help. 
 
 </details> 
 </details>                  
