@@ -102,3 +102,7 @@ gallery:
     image_path: /images/gc_25.jpg
     alt: "Stats"
     title: "Stats"
+
+---
+
+{% include gallery %}
