@@ -6,7 +6,7 @@ title: "Contact/FAQ"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-Please address me as Professor, Professor Marasović, Dr Marasović, or Ana (if we are on a first-name basis). My pronouns are she/her. 
+Please address me as Professor, Professor Marasović, Dr Marasović, or Ana if we are on a first-name basis (please feel free to ask if unsure). My pronouns are she/her. 
 
 My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson".
 
