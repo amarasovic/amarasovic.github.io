@@ -27,7 +27,7 @@ gallery:
     alt: "Layers"
     title: "Layers"
   - url: /images/gc_6.jpg
-    image_path: /images/gc_5.jpg
+    image_path: /images/gc_6.jpg
     alt: "Roof"
     title: "Roof"
   - url: /images/gc_7.jpg
@@ -90,14 +90,6 @@ gallery:
     image_path: /images/gc_21.jpg
     alt: "Made it!!!"
     title: "Made it!!!"
-  - url: /images/gc_21.jpg
-    image_path: /images/gc_21.jpg
-    alt: "Made it!!!"
-    title: "Made it!!!"
-  - url: /images/gc_22.jpg
-    image_path: /images/gc_22.jpg
-    alt: "Another one from the South Rim"
-    title: "Another one from the South Rim"
   - url: /images/gc_25.jpg
     image_path: /images/gc_25.jpg
     alt: "Stats"
