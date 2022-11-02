@@ -22,7 +22,6 @@ I had a pleasure to work with great undergraduate and PhD students during my tim
 
 * [Alexis Ross](https://alexisjihyeross.github.io/) (&rarr; MIT PhD)
 
-
 **UW Underaguate Researchers**
 
 * [Kaiser Sun](https://kaiserwholearns.github.io/) (&rarr; META/FAIR Residency &rarr; JHU PhD)

@@ -18,7 +18,6 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Peer-Reviewed Publications
 
-https://arxiv.org/abs/2211.00295
 
 ### 2022
 
