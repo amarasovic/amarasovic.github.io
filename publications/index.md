@@ -18,16 +18,18 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Peer-Reviewed Publications
 
+https://arxiv.org/abs/2211.00295
 
 ### 2022
 
 * Abhilasha Ravichander, Matt Gardner, **Ana Marasović**                       
 <span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation</span>                                                                                                                 
-*EMNLP*                        
+*EMNLP*                                  
+[Paper](https://arxiv.org/abs/2211.00295){: .btn .btn--info .btn--small}                           
 
 
 * Alexis Ross, Matthew E. Peters, **Ana Marasović**                        
-<span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations?</span>                                                                                                         
+<span style="color:navy">Does Self-Rationalization Improve Robustness to Spurious Correlations</span>                                                                                                         
 *EMNLP*                                                                          
 [Paper](https://arxiv.org/abs/2210.13575){: .btn .btn--info .btn--small}                           
 
