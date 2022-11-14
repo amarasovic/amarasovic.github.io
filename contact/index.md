@@ -12,11 +12,6 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span"><b>Talk bio</b> [Click to expand!]</summary>
-Ana Marasović is an Assistant Professor in the School of Computing at the University of Utah. Her primary research interests are at the confluence of NLP, explainable AI, and multimodality. She aims to rigorously validate AI technologies and make human interaction with AI more intuitive. She was a Young Investigator at the Allen Institute for AI from 2019–2022. During that time, she also had a courtesy appointment in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She obtained her PhD in 2019 from Heidelberg University.  
-</details>
-<br/>
-
 <details><summary markdown="span"><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>
 
 Please send me an email first with the following information: 
@@ -85,4 +80,10 @@ I'm not hiring postdocs yet.
 
 </details> 
 <br/>
+
+<details><summary markdown="span"><b>Talk bio</b> [Click to expand!]</summary>
+Ana Marasović is an Assistant Professor in the School of Computing at the University of Utah. Her primary research interests are at the confluence of NLP, explainable AI, and multimodality. She aims to rigorously validate AI technologies and make human interaction with AI more intuitive. She was a Young Investigator at the Allen Institute for AI from 2019–2022. During that time, she also had a courtesy appointment in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She obtained her PhD in 2019 from Heidelberg University.  
+</details>
+<br/>
+
 {::options parse_block_html="false" /}              
