@@ -40,7 +40,7 @@ Please send me an email first with the following information:
     * CS 6320 – Computer Vision                       
     * CS 6140 – Data Mining 
 
-    Please let me know if you are you taking some of them at the moment. Feel free to also note some other courses that you think are relevant, including courses taught outside the College of Engineering (e.g., in math, linguistics, philosophy, psychology).
+    Please let me know if you are you taking some of them at the moment. Feel free to also note other courses that you find relevant, including courses taught outside the College of Engineering (e.g., in math, linguistics, philosophy, psychology).
 
 <details>
 <summary markdown="span" style="color:orange"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
