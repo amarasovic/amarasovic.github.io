@@ -60,7 +60,7 @@ Through the years I noticed that many students believe they should focus on maxi
 <details>
 <summary markdown="span" style="color:orange"><b>Why didn't I answer your email?</b> [Click to expand!]</summary>              
 
-While I'm honored to be considered as anyone's advisor, as most professors I don't have bandwidth to answer every email that inform me about achivements and interest to work with me. In _very rare cases_, when those emails are specific and genuinely relevant for my ongoing research and interests, I respond. If I haven't responded to you, sending more emails won't help. 
+While I'm honored to be considered as anyone's advisor, as most professors I don't have bandwidth to answer every email that inform me about achivements and interest to work with me. In _very rare cases_, when an email is specific and demonstrates that the writer genuinely engaged with my work, I might respond. If I haven't responded to you, not only that sending more emails won't help, it actually overwhelms me, and I'd really appreciate if you don't do that. 
 
 </details> 
 </details>                  
