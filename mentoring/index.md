@@ -16,7 +16,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 **Student Collaborators**          
 
 * [Ashim Gupta](https://ashim95.github.io/);  evaluating robustness of the state-of-the-art NLP models      
-* 
+* [Akansha Kalra]
 
 
 ## AI2/UW Mentees 
