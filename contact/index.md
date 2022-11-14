@@ -21,22 +21,26 @@ Ana Marasović is an Assistant Professor in the School of Computing at the Unive
 
 Please send me an email first with the following information: 
 
-1. What's your educational status? [undergrad, masters, PhD, other],
+1. What's your educational status? [undergrad, masters, PhD, other + which year],
 2. Which research questions or problems interests you,  
 3. What do you hope to get out of this collaboration,  
 4. Mention are you proficient in python,  
 5. Mention are you familiar with pytorch [and if yes, links to your github repos are appreciated], 
-6. If you TA'ed, for which courses/professor, 
-7. If you worked with a SoC faculty, please mention them, 
-8. Which courses from the following list are you taking at the moment or have already completed: 
+6. If you TA'ed, for which courses/professor, and if you didn't please make a note of that, 
+7. If you worked with a SoC faculty, please mention them, and if you didn't please make a note of that,  
+8. Which courses from the following list have already completed and which grade: 
 
     * CS 5966/6966 – Local Explanations for Deep Learning Models                       
     * CS 6350 – Machine Learning                        
     * CS 6353 – Deep Learning                       
-    * CS 6340 – Natural Language Processing                       
+    * CS 6340 – Natural Language Processing
+    * CS 6390 – Information Extraction from Text
+    * CS 6355 – Structured Prediction                       
     * CS 6540 – Human-Computer Interaction                       
     * CS 6320 – Computer Vision                       
     * CS 6140 – Data Mining 
+
+    Please let me know if you are you taking some of them at the moment. Feel free to also note some other courses that you think are relevant, and courses taught outside the College of Engineering (e.g., in math, linguistics, philosophy, psychology)
 
 </details>                           
 <br/>
