@@ -24,7 +24,7 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 5. Mention are you familiar with pytorch [and if yes, links to your github repos are appreciated], 
 6. If you TA'ed, for which courses/professor, and if you didn't please make a note of that, 
 7. If you worked with a SoC faculty, please mention them, and if you didn't please make a note of that,  
-8. Which courses from the following list have already completed and **with which grade**: 
+8. Which courses from the following list have you completed and **with which grade**: 
 
     * CS 5966/6966 – Local Explanations for Deep Learning Models                       
     * CS 6350 – Machine Learning                        
