@@ -9,9 +9,14 @@ date:   2022-09-30 22:15:29 -0800
 From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruiting students – Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page before reaching out.
 
 
-## Undergraduate Researchers 
+**Undergraduate Researchers**         
 
-* [Jacob Johnson](https://nnnnnnnn.info/)
+* [Jacob Johnson](https://nnnnnnnn.info/); contrastive learning for better consistency in CondaQA
+
+**Student Collaborators**          
+
+* [Ashim Gupta](https://ashim95.github.io/);  evaluating robustness of the state-of-the-art NLP models      
+* 
 
 
 ## AI2/UW Mentees 

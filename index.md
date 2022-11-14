@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
- 📣 <span style="color:#A4C61E;">***I plan to hire 2 PhD students to work with me starting Fall 2023. Please check [Contact/FAQ](https://www.anamarasovic.com/contact/) before you reach out.***</span> If I didn't answer your e-mail about graduate admission applications, please don't send me more. (I'm not hiring postdocs at the moment.) 
+ 📣 <span style="color:#A4C61E;">***I plan to hire 2 PhD students to work with me starting Fall 2023. Please check [Contact/FAQ](https://www.anamarasovic.com/contact/) before you reach out.***</span> _If I didn't answer your e-mail about graduate admission applications, please don't send me more._ 
 
 ---
 
