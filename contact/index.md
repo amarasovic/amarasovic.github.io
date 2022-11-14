@@ -15,7 +15,7 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 <details><summary markdown="span"><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>
 
 <details>
-<summary markdown="span" style="color:orange"><b>Please send me an email first with the following information:</b> [Click to expand!]</summary>
+<summary markdown="span" style="color:orange"><b>Please send me an email with the following information:</b> [Click to expand!]</summary>
 
 1. What's your educational status? [undergrad, masters, PhD, other + which semester/year] **Note that I’m not taking MS students in the first semester of their masters.**
 2. Which research questions or problems interests you,  
