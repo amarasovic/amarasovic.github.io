@@ -28,7 +28,7 @@ Please send me an email first with the following information:
 5. Mention are you familiar with pytorch [and if yes, links to your github repos are appreciated], 
 6. If you TA'ed, for which courses/professor, and if you didn't please make a note of that, 
 7. If you worked with a SoC faculty, please mention them, and if you didn't please make a note of that,  
-8. Which courses from the following list have already completed and which grade: 
+8. Which courses from the following list have already completed and **with which grade**: 
 
     * CS 5966/6966 – Local Explanations for Deep Learning Models                       
     * CS 6350 – Machine Learning                        
@@ -45,7 +45,7 @@ Please send me an email first with the following information:
 <details>
 <summary markdown="span" style="color:orange"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
 
-The first semester working together would be an unpaid/independent study. If things are going well and there is continued mutual interest in working together, I’m open to helping you with the UROP proposal if you’re a BS student or taking you as an RA if you’re a MS student. **This is not guaranteed!** Only after working together we can have a conversation about it, especially for RA-ships that are subject to my current funding abilities.  
+The first semester working together would be an unpaid/independent study. If things are going well and there is continued mutual interest in working together, I’m open to helping you with the [UROP proposal](https://our.utah.edu/research-scholarship-opportunities/urop/) if you’re a BS student or taking you as an RA if you’re a MS student. **This is not guaranteed!** Only after working together we can have a conversation about it, especially for RA-ships that are subject to my current funding abilities.  
 
 </details> 
 <br/>
