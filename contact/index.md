@@ -14,7 +14,8 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 
 <details><summary markdown="span"><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>
 
-Please send me an email first with the following information: 
+<details>
+<summary markdown="span" style="color:orange"><b>Please send me an email first with the following information:</b> [Click to expand!]</summary>
 
 1. What's your educational status? [undergrad, masters, PhD, other + which semester/year] **Note that I’m not taking MS students in the first semester of their masters.**
 2. Which research questions or problems interests you,  
@@ -36,6 +37,8 @@ Please send me an email first with the following information:
     * CS 6140 – Data Mining 
 
     Please let me know if you are you taking some of them at the moment. Feel free to also note other courses that you find relevant, including courses taught outside the College of Engineering (e.g., in math, linguistics, philosophy, psychology).
+</details> 
+<br/>
 
 <details>
 <summary markdown="span" style="color:orange"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
