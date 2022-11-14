@@ -40,12 +40,12 @@ Please send me an email first with the following information:
     * CS 6320 – Computer Vision                       
     * CS 6140 – Data Mining 
 
-    Please let me know if you are you taking some of them at the moment. Feel free to also note some other courses that you think are relevant, and courses taught outside the College of Engineering (e.g., in math, linguistics, philosophy, psychology).
+    Please let me know if you are you taking some of them at the moment. Feel free to also note some other courses that you think are relevant, including courses taught outside the College of Engineering (e.g., in math, linguistics, philosophy, psychology).
 
 <details>
 <summary markdown="span" style="color:orange"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
 
-The first semester working together would be an unpaid/independent study. If things are going well and there is continued mutual interest in working together, I’m open to helping you with the UROP proposal if you’re a BS student or taking you as an RA if you’re a MS student. **This is not guaranteed!** Only after working a while together we can have a conversation about it, especially for RA-ships that are subject to my current funding opportunities.  
+The first semester working together would be an unpaid/independent study. If things are going well and there is continued mutual interest in working together, I’m open to helping you with the UROP proposal if you’re a BS student or taking you as an RA if you’re a MS student. **This is not guaranteed!** Only after working a while together we can have a conversation about it, especially for RA-ships that are subject to my current funding abilities.  
 
 </details> 
 <br/>
