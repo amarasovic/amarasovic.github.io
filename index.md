@@ -35,7 +35,7 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="100%">
         <tr>
         <td valign="top"><strong>Nov 2022</strong></td>
-        <td><a href=https://arxiv.org/abs/2211.00295">CondaQA</a> was presented at the <a href="https://socalnlp.github.io/symp22/index.html">SoCal NLP Symposium</a> where it won a <b>Best Paper Award</b>.</td>
+        <td><a href="https://arxiv.org/abs/2211.00295">CondaQA</a> was presented at the <a href="https://socalnlp.github.io/symp22/index.html">SoCal NLP Symposium</a> where it won a <b>Best Paper Award</b>.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Oct 2022</strong></td>
