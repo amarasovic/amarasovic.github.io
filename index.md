@@ -38,7 +38,7 @@ AppFolio
     <col width="14%">
     <col width="100%">
         <tr>
-        <td valign="top"><strong>Oct 2022</strong></td>
+        <td valign="top"><strong>Nov 2022</strong></td>
         <td>[CondaQA](https://arxiv.org/abs/2211.00295) was presented at the [SoCal NLP Symposium](https://socalnlp.github.io/symp22/index.html) where it won a Best Paper Award.</td>
        </tr>
         <tr>
