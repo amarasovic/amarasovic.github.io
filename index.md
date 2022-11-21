@@ -31,9 +31,16 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
 <h3 align="center">News</h3>
 
 
+AppFolio
+ Best Paper Award
+
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+        <tr>
+        <td valign="top"><strong>Oct 2022</strong></td>
+        <td>[CondaQA](https://arxiv.org/abs/2211.00295) was presented at the [SoCal NLP Symposium](https://socalnlp.github.io/symp22/index.html) where it won a Best Paper Award.</td>
+       </tr>
         <tr>
         <td valign="top"><strong>Oct 2022</strong></td>
         <td>Three papers accepted to EMNLP. Kudos to Abhilasha, Alexis, and Shruti!  🙌 </td>
