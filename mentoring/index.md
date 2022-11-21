@@ -6,7 +6,13 @@ title: "Mentoring"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruiting students – Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page before reaching out.
+From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page before reaching out. 
+
+* [Current](https://www.anamarasovic.com/mentoring/#current)
+* [Alumni](https://www.anamarasovic.com/mentoring/#alumni)
+* [Resources](https://www.anamarasovic.com/mentoring/#resources)
+
+## Current 
 
 **Undergraduate Researchers**         
 
