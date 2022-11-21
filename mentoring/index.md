@@ -13,6 +13,10 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). I'm recruitin
 
 * [Jacob Johnson](https://nnnnnnnn.info/)
 
+**MS Researchers** 
+
+* Rishanth Rajendhran
+
 **Student Collaborators**          
 
 * [Ashim Gupta](https://ashim95.github.io/)  
