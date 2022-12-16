@@ -23,8 +23,8 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 * Abhilasha Ravichander, Matt Gardner, **Ana Marasović**                       
 <span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation</span>                                                                                                                 
-*EMNLP* <span style="color:red">(SoCal NLP Symposium best paper award)</span>                  
-
+*EMNLP*                      
+<span style="color:red"> (SoCal NLP Symposium best paper award)</span>                  
 [Paper](https://arxiv.org/abs/2211.00295){: .btn .btn--info .btn--small}   [Dataset](https://github.com/AbhilashaRavichander/CondaQA){: .btn .btn--warning .btn--small}                        
 
 
