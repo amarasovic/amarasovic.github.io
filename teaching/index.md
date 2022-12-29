@@ -6,6 +6,10 @@ title: ""
 date:   2022-08-19 09:28:29 -0800
 ---
 
+**Spring 2023**
+
+* [CS 6140/5140/4140 - Data Mining](https://utah-data-mining-spring23.github.io/)
+
 **Fall 2022**
 
-* [CS 5966/6966 - Local Explanations for Deep Learning Models](https://utah-explainability-fall22.github.io/)
+* [CS 6966/5966 - Local Explanations for Deep Learning Models](https://utah-explainability-fall22.github.io/)
