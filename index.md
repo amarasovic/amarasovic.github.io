@@ -35,6 +35,10 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="100%">
         <tr>
         <td valign="top"><strong>Dec 2022</strong></td>
+        <td>I am teaching [Data Mining][https://utah-data-mining-spring23.github.io/] this spring.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Dec 2022</strong></td>
         <td>I am a Senior Area Chair for the ACL'23 interpretability track.</td>
        </tr>
         <tr>
@@ -46,6 +50,7 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
         <td>Three papers accepted to EMNLP. Kudos to Abhilasha, Alexis, and Shruti!  🙌 </td>
        </tr>
 </table>
+
 
 
 [Older news.](old_news.md)
