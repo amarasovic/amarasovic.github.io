@@ -35,7 +35,7 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="100%">
         <tr>
         <td valign="top"><strong>Dec 2022</strong></td>
-        <td>I am teaching [Data Mining][https://utah-data-mining-spring23.github.io/] this spring.</td>
+        <td>I am teaching <a href="https://utah-data-mining-spring23.github.io/">Data Mining</a> this spring.</td>
        </tr>
         <tr>
         <td valign="top"><strong>Dec 2022</strong></td>
