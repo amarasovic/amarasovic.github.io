@@ -21,6 +21,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). Please check 
 **MS Researchers** 
 
 * [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)
+* Mugdha Abhyankar
 
 **Student Collaborators**          
 
