@@ -21,12 +21,12 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). Please check 
 **MS Researchers** 
 
 * [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)
-* Mugdha Abhyankar
+* [Mugdha Abhyankar](https://mugdhaab.github.io/) 
 
 **Student Collaborators**          
 
+* [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)      
 * [Ashim Gupta](https://ashim95.github.io/)  
-* [Akansha Kalra](https://akansha-kalra.github.io/)
 * [Kaiser Sun](https://kaiserwholearns.github.io/) 
 
 
