@@ -32,6 +32,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). Please check 
 
 * [Ashim Gupta](https://ashim95.github.io/)  
 * [Kaiser Sun](https://kaiserwholearns.github.io/) 
+* [Alexis Ross](https://alexisjihyeross.github.io/)
 * [Akansha Kalra](https://akansha-kalra.github.io/)      
 
 ## Alumni
