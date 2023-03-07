@@ -14,6 +14,11 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). Please check 
 
 ## Current 
 
+
+** PhD Reasearchers**           
+
+* [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)   
+
 **Undergraduate Researchers**         
 
 * [Jacob Johnson](https://nnnnnnnn.info/)
@@ -25,10 +30,9 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). Please check 
 
 **Student Collaborators**          
 
-* [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)      
 * [Ashim Gupta](https://ashim95.github.io/)  
 * [Kaiser Sun](https://kaiserwholearns.github.io/) 
-
+* [Akansha Kalra](https://akansha-kalra.github.io/)      
 
 ## Alumni
 
