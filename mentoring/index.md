@@ -14,8 +14,7 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). Please check 
 
 ## Current 
 
-
-** PhD Reasearchers**           
+**PhD Reasearchers**           
 
 * [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)   
 
