@@ -30,11 +30,14 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
     * CS 6350 – Machine Learning                        
     * CS 6353 – Deep Learning                       
     * CS 6340 – Natural Language Processing
+    * CS 6140 – Data Mining 
     * CS 6390 – Information Extraction from Text
     * CS 6355 – Structured Prediction                       
-    * CS 6540 – Human-Computer Interaction                       
-    * CS 6320 – Computer Vision                       
-    * CS 6140 – Data Mining 
+    * CS 6540 – Human-Computer Interaction  
+    * CS 6958 - Visual Recognition                                  
+    * CS 6320 – Computer Vision     
+    * CS 6960 – Human-AI Alignment           
+
 
     Please let me know if you are you taking some of them at the moment. Feel free to also note other courses that you find relevant, including courses taught outside the College of Engineering (e.g., in math, linguistics, philosophy, psychology).
 </details> 
@@ -79,6 +82,16 @@ Through the years I noticed that many students believe they should focus on maxi
 
 
 I'm not hiring postdocs yet. 
+
+
+</details> 
+<br/>
+
+<details>
+<summary markdown="span"><b>You're looking for internship positions</b> [Click to expand!]</summary>              
+
+
+I don't have any internship opportunities to offer.
 
 
 </details> 
