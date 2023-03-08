@@ -133,35 +133,9 @@ I had a pleasure to work with great undergraduate and PhD students during my tim
 
 <details><summary markdown="span"><b>Statements of Purposes</b> [Click to expand!]</summary>              
 
-* [Will Merrill](https://docs.google.com/document/d/1oQn9_jBVUNutMItuH-Bc3Od8CfwMCBAHnCjdTzBB8K8/edit)
+* [Many examples in this amazing repo](https://github.com/shaily99/advice#examples)
 
-* [Suchin Gururangan](https://suchin.io/personal-statement-advice/)
-
-* [Nelson Liu](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
-
-* [Rishi Bommasani](https://drive.google.com/file/d/1t1yLgC0QMQ-8KyntZvZ7n8dgrF0U9T_v/view)
-
-* [Jason Wei](https://jasonwei20.github.io/files/2021_Stanford_SoP.pdf)
-
-* [Vijay Viswanathan](https://docs.google.com/document/d/10nkNL1NcVYsz9-YLGxR6I1qgckNVGR3wAujrVME-fNs/edit)
-
-* [Yash Bhalgat](https://yashbhalgat.github.io/data/SOP_Oxford.pdf)
-
-* [Aaron Dharna](https://docs.google.com/document/d/1d3bhFQ1e5oOmSZ1H5Cgvf5sd7L9M00zkYhdPl4UPvfg/edit)
-
-* [Abubakar Abid](https://docs.google.com/document/d/1YOpynMzEhkNkn63YdP83I5uQQAjnTc28U1VSRU8xO_A/edit)
-
-* [Saujas Vaduguru](https://saujasv.github.io/phd-applications)
-
-* [Hany Hamed](https://hany606.notion.site/Statement-of-Purpose-SoP-research-statement-41f0923aa14c417bafc9ecc779891fa0)
-
-* [Sai Siddartha Maram](https://github.com/siddu1998/Graduate-Admissions)
-
-* [Sarah Cormiea](https://www.dropbox.com/s/qdsnzflsx9fa7nm/CORMIEA_StatementOfPurpose_Hopkins_FINAL.pdf?dl=0)
-
-[More examples in this amazing repo](https://github.com/shaily99/advice#examples)
-
-[Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
+* [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
 
 
 
