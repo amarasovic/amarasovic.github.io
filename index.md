@@ -13,7 +13,7 @@ Previously, I was a Young Investigator at the [Allen Institute for AI](https://a
 
 I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I was always appreciative of mountains living in a place like that, but it took moving to Seattle to realize that free time is best spent outdoors. You can see some of my outings [here](https://www.anamarasovic.com/blog/).
 
-**Please read [Contact/FAQ] before reaching out. I likely won't answer emails that addressed there.**
+<span style="color:#CFF636;">**Please read [Contact/FAQ] before reaching out. I likely won't answer emails that addressed there.**</span>
 
 ---
 
