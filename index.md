@@ -30,6 +30,10 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="14%">
     <col width="100%">
         <tr>
+        <td valign="top"><strong>Apr 2023</strong></td>
+        <td>I gave a talk at the University of Maryland on what does it mean to increase the trust of users in AI with explainability. Thanks Marine Carpuat for the invitation!</td>
+       </tr>
+        <tr>
         <td valign="top"><strong>Dec 2022</strong></td>
         <td>I am teaching <a href="https://utah-data-mining-spring23.github.io/">Data Mining</a> this spring.</td>
        </tr>
