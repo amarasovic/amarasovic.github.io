@@ -6,20 +6,21 @@ title: Publications
 date:   2020-12-05 22:15:29 -0800
 ---
 
-Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
+Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['23](https://www.anamarasovic.com/publications/#2023), ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
 
 ## Preprints
 
-* Jack Hessel, **Ana Marasović**, Jena D Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi                       
-<span style="color:navy">Do Androids Laugh at Electric Sheep? Humor" Understanding" Benchmarks from The New Yorker Caption Contest</span>                         
-[Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small}                          
-
-
-
 ## Peer-Reviewed Publications
 
+### 2023 
 
-### 2022
+* Jack Hessel, **Ana Marasović**, Jena D Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi                       
+<span style="color:navy">Do Androids Laugh at Electric Sheep? Humor" Understanding" Benchmarks from The New Yorker Caption Contest</span>               
+*ACL*                     
+[Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small}               
+
+
+### 2022  
 
 * Abhilasha Ravichander, Matt Gardner, **Ana Marasović**                       
 <span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation</span>                                                                                                                 

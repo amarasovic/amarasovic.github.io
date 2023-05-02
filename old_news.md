@@ -17,6 +17,22 @@ author_profile: true
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+        <tr>
+        <td valign="top"><strong>Dec 2022</strong></td>
+        <td>I am teaching <a href="https://utah-data-mining-spring23.github.io/">Data Mining</a> this spring.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Dec 2022</strong></td>
+        <td>I am a Senior Area Chair for the ACL'23 interpretability track.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Nov 2022</strong></td>
+        <td><a href="https://arxiv.org/abs/2211.00295">CondaQA</a> was presented at the <a href="https://socalnlp.github.io/symp22/index.html">SoCal NLP Symposium</a> where it won a <b>Best Paper Award</b>.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Oct 2022</strong></td>
+        <td>Three papers accepted to EMNLP. Kudos to Abhilasha, Alexis, and Shruti!  🙌 </td>
+       </tr>
        <tr>
         <td valign="top"><strong>Sept 2022</strong></td>
         <td>Excited to serve as a panelist after the movie <a href="https://www.imdb.com/title/tt8633464">After Yang</a> that is screened as a part of the STEM Education Film Series organized by Park City Film.</td>

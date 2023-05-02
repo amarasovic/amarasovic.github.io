@@ -30,24 +30,15 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="14%">
     <col width="100%">
         <tr>
+        <td valign="top"><strong>May 2023</strong></td>
+        <td>Attending EACL.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>May 2023</strong></td>
+        <td>Attending EACL.</td>
+       </tr>
         <td valign="top"><strong>Apr 2023</strong></td>
         <td>I gave a talk at the University of Maryland on what does it mean to increase the trust of users in AI with explainability. Thanks Marine Carpuat for the invitation!</td>
-       </tr>
-        <tr>
-        <td valign="top"><strong>Dec 2022</strong></td>
-        <td>I am teaching <a href="https://utah-data-mining-spring23.github.io/">Data Mining</a> this spring.</td>
-       </tr>
-        <tr>
-        <td valign="top"><strong>Dec 2022</strong></td>
-        <td>I am a Senior Area Chair for the ACL'23 interpretability track.</td>
-       </tr>
-        <tr>
-        <td valign="top"><strong>Nov 2022</strong></td>
-        <td><a href="https://arxiv.org/abs/2211.00295">CondaQA</a> was presented at the <a href="https://socalnlp.github.io/symp22/index.html">SoCal NLP Symposium</a> where it won a <b>Best Paper Award</b>.</td>
-       </tr>
-        <tr>
-        <td valign="top"><strong>Oct 2022</strong></td>
-        <td>Three papers accepted to EMNLP. Kudos to Abhilasha, Alexis, and Shruti!  🙌 </td>
        </tr>
 </table>
 
