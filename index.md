@@ -31,7 +31,7 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="100%">
         <tr>
         <td valign="top"><strong>May 2023</strong></td>
-        <td>Attending EACL.</td>
+        <td>Our work on [humor "understanding" benchmarks](https://arxiv.org/abs/2209.06293) is accepted to ACL'23.</td>
        </tr>
         <tr>
         <td valign="top"><strong>May 2023</strong></td>
