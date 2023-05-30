@@ -17,24 +17,35 @@ From Fall 2022, I'm co-leading [UtahNLP](http://nlp.cs.utah.edu/). Please check 
 **PhD Reasearchers**           
 
 * [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)   
+* [Jacob Johnson](https://nnnnnnnn.info/) (from Fall 2023)        
+* [Nate Stringham](https://n8stringham.github.io/about.html) (from Fall 2023)            
+
 
 **Undergraduate Researchers**         
+* Dana EeJae Ahn
 
-* [Jacob Johnson](https://nnnnnnnn.info/)
 
 **MS Researchers** 
 
 * [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)
-* [Mugdha Abhyankar](https://mugdhaab.github.io/) 
 
 **Student Collaborators**          
 
 * [Ashim Gupta](https://ashim95.github.io/)  
 * [Kaiser Sun](https://kaiserwholearns.github.io/) 
-* [Alexis Ross](https://alexisjihyeross.github.io/)
-* [Akansha Kalra](https://akansha-kalra.github.io/)      
+* [Alexis Ross](https://alexisjihyeross.github.io/)       
 
 ## Alumni
+
+
+**MS Researchers** 
+
+* [Mugdha Abhyankar](https://mugdhaab.github.io/) 
+
+**Student Collaborators**          
+
+* [Akansha Kalra](https://akansha-kalra.github.io/)      
+
 
 I had a pleasure to work with great undergraduate and PhD students during my time in AI2/UW. If you're considering me as a potential advisor, I encourage you to reach out to them to hear about their experience working with me. 
 
