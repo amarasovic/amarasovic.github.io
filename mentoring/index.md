@@ -9,9 +9,7 @@ date:   2022-09-30 22:15:29 -0800
 I am leading a research group 🍍**ANANAS**🍍 within [UtahNLP](http://nlp.cs.utah.edu/). Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page before reaching out about joining us. 
 
 
-<div style="float: right; margin-left: 20px;">
-  <img src="ananas.png" alt="DALL-E generated with a prompt: a pineapple-shaped student working with a laptop, digital art">
-</div>
+<img src="ananas.png" alt="DALL-E generated with a prompt: a pineapple-shaped student working with a laptop, digital art" style="float:right; margin:0 0 10px 10px; max-width:30%;" />
 
 ## 🍍ANANAS🍍 
 
