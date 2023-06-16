@@ -94,6 +94,9 @@ I had a pleasure to work with great undergraduate and PhD students during my tim
 
 [Foundations: How to design experiments in NLU by Sam Bowman](https://drive.google.com/file/d/1kUarnxZNa-ojz0KvZFmHeAEFwTkEH7lg/edit)
 
+[Principles for Productive Group Meetings](https://bounded-regret.ghost.io/principles-for-productive-group-meetings/). You might wonder: what does this have to do with doing the work? I am sharing this blog because I strongly believe in the mindset presented there: "Hold yourself to a high standard of unserstanding" / "Adopt a frame of collaborative truth-seeking". This mindset will affect how you do the work.  
+
+
 </details>                      
 <br/>
 
