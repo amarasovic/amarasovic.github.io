@@ -6,19 +6,12 @@ title: "Mentoring"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-I am leading a research group 🍍**ANANAS**🍍 within [UtahNLP](http://nlp.cs.utah.edu/). 
+I am leading a research group 🍍**ANANAS**🍍 within [UtahNLP](http://nlp.cs.utah.edu/). Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page before reaching out about joining us. 
+
 
 <div style="float: right; margin-left: 20px;">
   <img src="ananas.png" alt="DALL-E generated with a prompt: a pineapple-shaped student working with a laptop, digital art">
 </div>
-
-
-
-Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page before reaching out about joining us. 
-
-* [Current](https://www.anamarasovic.com/mentoring/#current)
-* [Alumni](https://www.anamarasovic.com/mentoring/#alumni)
-* [Resources](https://www.anamarasovic.com/mentoring/#resources)
 
 ## 🍍ANANAS🍍 
 
@@ -43,19 +36,13 @@ Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page 
 * [Kaiser Sun](https://kaiserwholearns.github.io/) 
 * [Alexis Ross](https://alexisjihyeross.github.io/)       
 
-## Alumni
+### Alumni
+
+* [Mugdha Abhyankar](https://mugdhaab.github.io/) (MS independent study)                  
+* [Akansha Kalra](https://akansha-kalra.github.io/) (PhD student collaborator)
 
 
-**MS Researchers** 
-
-* [Mugdha Abhyankar](https://mugdhaab.github.io/) 
-
-**Student Collaborators**          
-
-* [Akansha Kalra](https://akansha-kalra.github.io/)      
-
-
-## Other Mentees
+##  Before joining Utah
 
 I had a pleasure to work with great undergraduate and PhD students during my time in AI2/UW. If you're considering me as a potential advisor, I encourage you to reach out to them to hear about their experience working with me. 
 
