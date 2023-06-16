@@ -6,6 +6,8 @@ title: "Contact/FAQ"
 date:   2022-09-30 22:15:29 -0800
 ---
 
+<span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span>
+
 Please address me as Professor, Professor Marasović, Dr Marasović, or Ana if we are on a first-name basis (please feel free to ask if unsure). My pronouns are she/her. 
 
 My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson".
@@ -59,7 +61,6 @@ The first semester working together would be an unpaid/independent study. If thi
 
 <details>
 <summary markdown="span"><b>You are *not* a student at the University of Utah, but you want to be</b> [Click to expand!]</summary>              
-
 
 If you're interested in doing a PhD in the School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
 
