@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-<span style="color:#f58d42;">***I am not hiring PhD students in the 2023/2034 cycle!***</span>
+<span style="color:#f58d42;">***I am <u>not</u> hiring PhD students in the 2023/2024 application cycle!***</span>
 
 I am an Assistant Professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that (1) **rigorously validate** AI technologies, and (2) make human **interaction** with AI **more intuitive**. 
 
