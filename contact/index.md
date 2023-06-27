@@ -102,6 +102,17 @@ I don't have any internship opportunities to offer.
 </details> 
 <br/>
 
+<details>
+<summary markdown="span"><b>You're a high school students</b> [Click to expand!]</summary>              
+
+
+I don't work with high school students in any capacity.
+
+
+</details> 
+<br/>
+
+
 <details><summary markdown="span"><b>Talk bio</b> [Click to expand!]</summary>
 Ana Marasović is an Assistant Professor in the Kahlert School of Computing at the University of Utah. Her primary research interests are at the confluence of NLP, explainable AI, and multimodality. She aims to rigorously validate AI technologies and make human interaction with AI more intuitive. She was a Young Investigator at the Allen Institute for AI from 2019–2022. During that time, she also had a courtesy appointment in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She obtained her PhD in 2019 from Heidelberg University. She received Best Paper Honorable Mention at ACL 2020 and Best Paper Award at SoCal 2022 NLP Symposium.
 
