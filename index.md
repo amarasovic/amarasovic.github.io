@@ -40,18 +40,6 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
         <td valign="top"><strong>July 2023</strong></td>
         <td>I am a **Best Senior Area Chair** at ACL'23. 😊</td>
        </tr>
-        <tr>
-        <td valign="top"><strong>May 2023</strong></td>
-        <td>Our work on <a href="https://arxiv.org/abs/2209.06293">humor "understanding" benchmark</a> is accepted to ACL'23.</td>
-       </tr>
-        <tr>
-        <td valign="top"><strong>May 2023</strong></td>
-        <td>Attending EACL.</td>
-       </tr>
-       <tr>
-        <td valign="top"><strong>Apr 2023</strong></td>
-        <td>I gave a talk at the University of Maryland on what does it mean to increase the trust of users in AI with explainability. Thanks Marine Carpuat for the invitation!</td>
-       </tr>
 </table>
 
 

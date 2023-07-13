@@ -16,7 +16,8 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 * Jack Hessel, **Ana Marasović**, Jena D Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi                       
 <span style="color:navy">Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest</span>               
-*ACL*                     
+*ACL*   
+<span style="color:red"> (best paper award 🌟)</span>                                    
 [Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small}               
 
 
