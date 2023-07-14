@@ -20,12 +20,15 @@ I am leading a research group 🍍**ANANAS**🍍 within [UtahNLP](http://nlp.cs.
 
 
 **Undergraduate Researchers**         
-* Dana EeJae Ahn
-
+* Byron Liu             
+* Jordan Tan               
+* Dana EeJae Ahn            
 
 **MS Researchers** 
 
-* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)
+* [Michael Clemens](http://mclem.me/)                  
+* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)                              
+* [Mugdha Abhyankar](https://mugdhaab.github.io/)                 
 
 **Student Collaborators**          
 
