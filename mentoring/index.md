@@ -27,8 +27,7 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 **MS Researchers** 
 
 * [Michael Clemens](http://mclem.me/)                  
-* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)                              
-* [Mugdha Abhyankar](https://mugdhaab.github.io/)                 
+* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)                                            
 
 **Student Collaborators**          
 
