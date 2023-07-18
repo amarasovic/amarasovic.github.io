@@ -26,11 +26,11 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 **MS Researchers** 
 
-* [Michael Clemens](http://mclem.me/)                  
 * [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)                                            
 
 **Student Collaborators**          
 
+* [Michael Clemens](http://mclem.me/)                  
 * [Ashim Gupta](https://ashim95.github.io/)  
 * [Kaiser Sun](https://kaiserwholearns.github.io/) 
 * [Alexis Ross](https://alexisjihyeross.github.io/)       
