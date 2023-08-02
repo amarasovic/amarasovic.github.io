@@ -12,14 +12,14 @@ Please address me as Professor, Professor Marasović, Dr Marasović, or Ana if w
 
 My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson".
 
-**If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox.**
+*If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox.*
 
 {::options parse_block_html="true" /}
 
 <details>
 <summary markdown="span"><b>Can I be your TA?</b> [Click to expand!]</summary>              
 
-Please apply here: https://ta.cs.utah.edu/. Sending an email is unnecessary because I get all the information I need in the portal, so I will not answer to such emails.
+Please apply here: https://ta.cs.utah.edu/. Sending an email is not needed because I get all the information I need in the portal, so I don't answer such emails.
 
 </details> 
 <br/>
