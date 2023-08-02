@@ -6,13 +6,23 @@ title: "Contact/FAQ"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-<span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span>
+<span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span> 
 
 Please address me as Professor, Professor Marasović, Dr Marasović, or Ana if we are on a first-name basis (please feel free to ask if unsure). My pronouns are she/her. 
 
 My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson".
 
+**If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox.**
+
 {::options parse_block_html="true" /}
+
+<details>
+<summary markdown="span"><b>Can I be your TA?</b> [Click to expand!]</summary>              
+
+Please apply here: https://ta.cs.utah.edu/. Sending an email is unnecessary because I get all the information I need in the portal, so I will not answer to such emails.
+
+</details> 
+<br/>
 
 <details><summary markdown="span"><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>
 
@@ -28,20 +38,15 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 7. If you worked with a SoC faculty, please mention them, and if you didn't please make a note of that,  
 8. Which courses from the following list have you completed and **with which grade**: 
 
-    * CS 5966/6966 – Local Explanations for Deep Learning Models                       
-    * CS 6350 – Machine Learning                        
+    * CS 6966 – Local Explanations for Deep Learning Models                       
+    * CS 6340 – Natural Language Processing                      
     * CS 6353 – Deep Learning                       
-    * CS 6340 – Natural Language Processing
-    * CS 6140 – Data Mining 
-    * CS 6390 – Information Extraction from Text
-    * CS 6355 – Structured Prediction                       
+    * CS 6350 – Machine Learning                        
     * CS 6540 – Human-Computer Interaction  
     * CS 6958 - Visual Recognition                                  
-    * CS 6320 – Computer Vision     
-    * CS 6960 – Human-AI Alignment           
+    * CS 6960 – Human-AI Alignment  
 
-
-    Please let me know if you are you taking some of them at the moment. Feel free to also note other courses that you find relevant, including courses taught outside the College of Engineering (e.g., in math, linguistics, philosophy, psychology).
+    If you did not complete any of these courses, I will likely not work with you. 
 </details> 
 <br/>
 
@@ -103,7 +108,7 @@ I don't have any internship opportunities to offer.
 <br/>
 
 <details>
-<summary markdown="span"><b>You're a high school students</b> [Click to expand!]</summary>              
+<summary markdown="span"><b>You're a high school student</b> [Click to expand!]</summary>              
 
 
 I don't work with high school students in any capacity.

@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-<span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span>
+<span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span> 
 
 I am an Assistant Professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that (1) **rigorously validate** AI technologies, and (2) make human **interaction** with AI **more intuitive**. 
 
@@ -16,7 +16,7 @@ Previously, I was a Young Investigator at the [Allen Institute for AI](https://a
 
 I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I was always appreciative of mountains living in a place like that, but it took moving to Seattle to realize that free time is best spent outdoors. You can see some of my outings [here](https://www.anamarasovic.com/blog/).
 
-<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span>
+<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox. 
 
 ---
 
