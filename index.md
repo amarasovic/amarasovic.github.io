@@ -7,6 +7,8 @@ author_profile: true
 
 <span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span> 
 
+<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._
+
 I am an Assistant Professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My primary research interests are at the confluence of **natural language processing (NLP)**, **explainable artificial intelligence (XAI)**, and **multimodality**. I am interested in projects that (1) **rigorously validate** AI technologies, and (2) make human **interaction** with AI **more intuitive**. 
 
 For an example of robust validation check out our work on carefully designing benchmarks to validate robustness of QA models in the presence of common linguistic phenomena such as [negation](https://arxiv.org/abs/2211.00295) or [coreference](https://aclanthology.org/D19-1606/). On the other hand, to help people create a mental model about how to interact with AI, I have contributed to building models that self-explain their predictions in a way that is easily understandable to people. For example by saying why did the model give this answer instead of another one ([contrastive explanations](https://arxiv.org/abs/2012.13985)) or by telling in plain language the gist of its reasoning ([free-text explanations](https://arxiv.org/abs/2111.08284)). Moving forward, I am excited to evaluate and improve such models with application-grounded, human-subject evaluations.                     
@@ -16,7 +18,6 @@ Previously, I was a Young Investigator at the [Allen Institute for AI](https://a
 
 I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I was always appreciative of mountains living in a place like that, but it took moving to Seattle to realize that free time is best spent outdoors. You can see some of my outings [here](https://www.anamarasovic.com/blog/).
 
-<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox. 
 
 ---
 
