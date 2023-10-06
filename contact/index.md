@@ -8,9 +8,7 @@ date:   2022-09-30 22:15:29 -0800
 
 <span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span> 
 
-Please address me as Professor, Professor Marasović, Dr Marasović, or Ana if we are on a first-name basis (please feel free to ask if unsure). My pronouns are she/her. 
-
-My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson".
+My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson". My pronouns are she/her. 
 
 *If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox.*
 
@@ -27,26 +25,39 @@ Please apply here: https://ta.cs.utah.edu/. Sending an email is not needed becau
 <details><summary markdown="span"><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>
 
 <details>
+<summary markdown="span" style="color:orange"><b>Prerequisites</b> [Click to expand!]</summary>
+
+**Undergraduate students**
+
+* You must be proficient in python.                
+* You completed or are enrolled at least one of the following courses: CS 5340 (Natural Language Processing), CS 5353 (Deep Learning), or CS 5966 (Local Explanations for Deep Learning Models).  
+
+**MS students**
+
+* I am NOT taking MS students in the first semester of their masters.           
+* You must be proficient in python.                  
+* You completed at least one of the following courses: CS 6340 (Natural Language Processing), CS 6353 (Deep Learning), CS 6957 (NLP with Deep Learning), or CS 6966 (Local Explanations for Deep Learning Models).   
+
+</details> 
+<br/>
+
+<details>
 <summary markdown="span" style="color:orange"><b>Please send me an email with the following information:</b> [Click to expand!]</summary>
 
 1. What's your educational status? [undergrad, masters, PhD, other + which semester/year] **Note that I’m not taking MS students in the first semester of their masters.**
 2. Which research questions or problems interests you,  
 3. What do you hope to get out of this collaboration,  
-4. Mention are you proficient in python,  
-5. Mention are you familiar with pytorch [and if yes, links to your github repos are appreciated], 
-6. If you TA'ed, for which courses/professor, and if you didn't please make a note of that, 
-7. If you worked with a SoC faculty, please mention them, and if you didn't please make a note of that,  
-8. Which courses from the following list have you completed and **with which grade**: 
+4. Mention are you familiar with pytorch [and if yes, links to your github repos are appreciated], 
+5. If you TA'ed, for which courses/professor, and if you didn't please make a note of that, 
+6. If you worked with a SoC faculty, please mention them, and if you didn't please make a note of that,  
+7. Which courses from the following list have you completed and **with which grade**: 
 
     * CS 6966 – Local Explanations for Deep Learning Models                       
     * CS 6340 – Natural Language Processing                      
     * CS 6353 – Deep Learning                       
     * CS 6350 – Machine Learning                        
     * CS 6540 – Human-Computer Interaction  
-    * CS 6958 - Visual Recognition                                  
     * CS 6960 – Human-AI Alignment  
-
-    If you did not complete any of these courses, I will likely not work with you. 
 </details> 
 <br/>
 
