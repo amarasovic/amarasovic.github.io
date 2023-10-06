@@ -30,7 +30,7 @@ Please apply here: https://ta.cs.utah.edu/. Sending an email is not needed becau
 **Undergraduate students**
 
 * You must be proficient in python.                
-* You completed or are enrolled at least one of the following courses: CS 5340 (Natural Language Processing), CS 5353 (Deep Learning), or CS 5966 (Local Explanations for Deep Learning Models).  
+* You completed or are enrolled in at least one of the following courses: CS 5340 (Natural Language Processing), CS 5353 (Deep Learning), or CS 5966 (Local Explanations for Deep Learning Models).  
 
 **MS students**
 
