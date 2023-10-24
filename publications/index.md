@@ -8,11 +8,15 @@ date:   2020-12-05 22:15:29 -0800
 
 Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['23](https://www.anamarasovic.com/publications/#2023), ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
 
-## Preprints
 
 ## Peer-Reviewed Publications
 
 ### 2023 
+
+* Jacob K. Johnson and **Ana Marasović**           
+<span style="color:navy">How Much Consistency Is Your Accuracy Worth?</span>                 
+*BlackboxNLP*                          
+[Paper](https://arxiv.org/abs/2310.13781){: .btn .btn--info .btn--small}       
 
 * Jack Hessel, **Ana Marasović**, Jena D Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi                       
 <span style="color:navy">Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest</span>               
