@@ -6,7 +6,7 @@ title: "Contact/FAQ"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-<span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span> 
+<span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span> <b>I'm thus not responding to any questions about the admissions.</b> 
 
 My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson". My pronouns are she/her. 
 
