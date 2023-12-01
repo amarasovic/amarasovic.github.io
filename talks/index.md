@@ -11,7 +11,7 @@ date:   2020-12-05 22:15:29 -0800
 
 * <a href="https://docs.google.com/presentation/d/1AUBXarUkBpWM2pEWqAQXKSBl5-VQr1721xZ9e3l_4eE/edit?usp=sharing" style="color:navy">"We propose {insert an explainability method} to increase the trust of users in AI": What does this mean and how to go about it?</a>
 
-* <a href="https://docs.google.com/presentation/d/14VjRIrhPd0r3nxPOTcPyXVc-Rziwtd46oUILXUqQ_Mg/edit?usp=sharing">Self-Explaining for Intuitive Interaction with AI</a>
+* <a href="https://docs.google.com/presentation/d/14VjRIrhPd0r3nxPOTcPyXVc-Rziwtd46oUILXUqQ_Mg/edit?usp=sharing style="color:navy">Self-Explaining for Intuitive Interaction with AI</a>
 
 * <a href="/slides/invited_talk_few_shot.pdf" style="color:navy">Self-Explainability for Intuitive and Controllable Interaction: <b>On Reducing Human-Authored Free-Text Explanations for Training<b></a> 
 
