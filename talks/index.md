@@ -5,6 +5,8 @@ author_profile: true
 date:   2020-12-05 22:15:29 -0800
 ---
 
+Please feel welcome to use my slides with proper attribution.
+
 * <a href="https://docs.google.com/presentation/d/1ifE2ocHHEgYuyQoyMtsVeWuTp_3XOUYp3r709ITTiL0/edit?usp=sharing" style="color:navy">Challenges in Fostering (Dis)Trust in AI</a>
 
 * <a href="https://docs.google.com/presentation/d/1Lr7F6c7wc2G5tRIOLwix39JfT5VNo3TAMVWEURhGl4Y/edit?usp=sharing" style="color:navy">Ingredients of Generative AI</a>
