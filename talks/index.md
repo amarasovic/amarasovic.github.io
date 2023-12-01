@@ -13,7 +13,7 @@ date:   2020-12-05 22:15:29 -0800
 
 * <a href="https://docs.google.com/presentation/d/14VjRIrhPd0r3nxPOTcPyXVc-Rziwtd46oUILXUqQ_Mg/edit?usp=sharing">Self-Explaining for Intuitive Interaction with AI</a>
 
-* <a href="/slides/invited_talk_few_shot.pdf" style="color:navy">Self-Explainability for Intuitive and Controllable Interaction: <b>On Reducing Human-Authored Free-Text Explanations for Training</a>   
+* <a href="/slides/invited_talk_few_shot.pdf" style="color:navy">Self-Explainability for Intuitive and Controllable Interaction: <b>On Reducing Human-Authored Free-Text Explanations for Training<b></a> 
 
 * <a href="/slides/invited_talk_contrastive.pdf" style="color:navy">Contrastive Explanations of NLP Models</a> 
 
