@@ -4,10 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-
-<span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span> <b>I'm thus not responding to questions about the admissions.</b>
-
-<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._
+<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._ **Utah MS/BS prospective research students, please read contact/FAQ before coming to my office without an appointment.**
 
 ---
 

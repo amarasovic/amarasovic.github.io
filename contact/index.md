@@ -28,7 +28,7 @@ I work with a **small group** of PhD, MS, and BS students at any given moment, a
 
 I teach: 
 * CS 6340/5340 (Natural Language Processing) 
-* CS 6966 (Local Explanations for Deep Learning Models) 
+* CS 6966/5966 (Local Explanations for Deep Learning Models) 
 
 <details>
 <summary markdown="span" style="color:orange"><b>If you reach out, please send me an email with the following information:</b> [Click to expand!]</summary>
