@@ -6,8 +6,6 @@ title: "Contact/FAQ"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-<span style="color:#f58d42;">_I am **not** hiring PhD students in the 2023/2024 application cycle!_</span> <b>I'm thus not responding to any questions about the admissions.</b> 
-
 My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson". My pronouns are she/her. 
 
 *If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox.*
@@ -17,26 +15,21 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 <details>
 <summary markdown="span"><b>Can I be your TA?</b> [Click to expand!]</summary>              
 
-Please apply here: https://ta.cs.utah.edu/. Sending an email is not needed because I get all the information I need in the portal, so I don't answer such emails.
+Please apply here: https://ta.cs.utah.edu/. I typically do not respond to email updates seeking TA-ship or asking me to review your application because I have all necessary information on our portal. Please do not come to my office asking for TA-ship. Appreciate your understanding.
 
 </details> 
 <br/>
 
-<details><summary markdown="span"><b>You are a student at the University of Utah interested in a collaboration/mentoring</b> [Click to expand!]</summary>
+<details><summary markdown="span"><b>You are a student at the University of Utah interested in a collaboration/mentoring/independent study/etc</b> [Click to expand!]</summary>
 
 <details>
 <summary markdown="span" style="color:orange"><b>Prerequisites</b> [Click to expand!]</summary>
 
-**Undergraduate students**
+I work with a small group of PhD, MS, and BS students at any given moment, and I meet with everyone individually weekly. Thus, each semester I typically welcome at most 1-2 new MS/BS students, and sometimes none at all. Typically, the students I select to join my lab are those with whom I've already established rapport; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters.          
 
-* You must be proficient in python.                
-* You completed or are enrolled in at least one of the following courses: CS 5340 (Natural Language Processing), CS 5353 (Deep Learning), or CS 5966 (Local Explanations for Deep Learning Models).  
-
-**MS students**
-
-* I am NOT taking MS students in the first semester of their masters.           
-* You must be proficient in python.                  
-* You completed at least one of the following courses: CS 6340 (Natural Language Processing), CS 6353 (Deep Learning), CS 6957 (NLP with Deep Learning), or CS 6966 (Local Explanations for Deep Learning Models).   
+I teach: 
+* CS 6340/5340 (Natural Language Processing) 
+* CS 6966 (Local Explanations for Deep Learning Models) 
 
 </details> 
 <br/>

@@ -20,23 +20,22 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 
 **Undergraduate Researchers**         
-* Byron Liu             
-* Jordan Tan               
-* Dana EeJae Ahn            
+* Byron Liu                             
 
 **MS Researchers** 
 
-* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)                                            
+* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)  
+* Purbid Bambroo
+* Alexi Gill                                          
 
-**Student Collaborators**          
+**Current and Past Student Collaborators**          
 
 * [Michael Clemens](http://mclem.me/)                  
-* [Ashim Gupta](https://ashim95.github.io/)  
-* [Kaiser Sun](https://kaiserwholearns.github.io/) 
-* [Alexis Ross](https://alexisjihyeross.github.io/)       
+* [Ashim Gupta](https://ashim95.github.io/)     
 
 ### Alumni
 
+* Dana EeJae Ahn       
 * [Mugdha Abhyankar](https://mugdhaab.github.io/) (MS independent study)                  
 * [Akansha Kalra](https://akansha-kalra.github.io/) (PhD student collaborator)
 
