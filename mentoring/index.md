@@ -5,7 +5,9 @@ author_profile: true
 date:   2022-09-30 22:15:29 -0800
 ---
 
-I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page before reaching out about joining us. On this webpage, you can also find [my other mentees before I joined Utah](https://www.anamarasovic.com/mentoring/#before-joining-utah) and [resources](https://www.anamarasovic.com/mentoring/#resources) I often share while mentoring.
+I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). Please check out [my contact / FAQ](https://www.anamarasovic.com/contact/) page before reaching out about joining us. On this webpage, you can also find [my other mentees before I joined Utah](https://www.anamarasovic.com/mentoring/#before-joining-utah) and [resources](https://www.anamarasovic.com/mentoring/#resources) I often share while mentoring. 
+
+**Utah MS/BS students interested in research opportunities, please ensure to review the contact/FAQ section before visiting my office without an appointment.**
 
 
 <img src="ananas.png" alt="DALL-E generated with a prompt: a pineapple-shaped student working with a laptop, digital art" style="float:right; margin:0 0 10px 10px; max-width:30%;" />
