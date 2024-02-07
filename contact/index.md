@@ -35,14 +35,14 @@ I teach:
 <br/>
 
 <details>
-<summary markdown="span" style="color:orange"><b>Please send me an email with the following information:</b> [Click to expand!]</summary>
+<summary markdown="span" style="color:orange"><b>If you reach out, please send me an email with the following information:</b> [Click to expand!]</summary>
 
 1. What's your educational status? [undergrad, masters, PhD, other + which semester/year] **Note that I’m not taking MS students in the first semester of their masters.**
-2. Which research questions or problems interests you,  
-3. What do you hope to get out of this collaboration,  
-4. Mention are you familiar with pytorch [and if yes, links to your github repos are appreciated], 
-5. If you TA'ed, for which courses/professor, and if you didn't please make a note of that, 
-6. If you worked with a SoC faculty, please mention them, and if you didn't please make a note of that,  
+2. Which research questions or problems interests you? Why is this lab the right place to conduct this research?  
+3. What do you hope to get out of this collaboration?  
+4. Are you familiar with PyTorch? 
+5. Have you TA-ed for any courses in KSoC? If so, for which courses/instructor, and if you didn't please make a note of that. 
+6. Have you worked with other KSoC faculty? If so, summarize what you worked on, and if you didn't please make a note of that.   
 7. Which courses from the following list have you completed and **with which grade**: 
 
     * CS 6966 – Local Explanations for Deep Learning Models                       
@@ -56,6 +56,7 @@ I teach:
 
 <details>
 <summary markdown="span" style="color:orange"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
+
 
 The first semester working together would be an unpaid/independent study. If things are going well and there is continued mutual interest in working together, I’m open to helping you with the [UROP proposal](https://our.utah.edu/research-scholarship-opportunities/urop/) if you’re a BS student or taking you as an RA if you’re a MS student. **This is not guaranteed!** Only after working together we can have a conversation about it, especially for RA-ships that are subject to my current funding abilities.  
 
