@@ -6,6 +6,10 @@ title: ""
 date:   2022-08-19 09:28:29 -0800
 ---
 
+**Spring 2024**
+
+* [CS 6340/5340 – Natural Language Processing](https://utah-intro-nlp.github.io/)
+
 **Fall 2023**             
 
 * [CS 6966/5966 - Local Explanations for Deep Learning Models](https://utah-explainability.github.io/)               
