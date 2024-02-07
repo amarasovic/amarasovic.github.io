@@ -8,10 +8,21 @@ date:   2020-12-05 22:15:29 -0800
 
 Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['23](https://www.anamarasovic.com/publications/#2023), ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
 
+## Preprints 
+
+Ashim Gupta, Rishanth Rajendhran, Nathan Stringham, Vivek Srikumar, and and **Ana Marasović**                       
+<span style="color:navy">Whispers of Doubt Amidst Echoes of Triumph in NLP Robustness</span>              
+[Paper](https://arxiv.org/abs/2311.09694){: .btn .btn--info .btn--small}               
+
 
 ## Peer-Reviewed Publications
 
 ### 2023 
+
+* Fateme Hashemi Chaleshtori, Atreya Ghosal, and **Ana Marasović**                 
+<span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision-Making in NLP</span>             
+The workshop “XAI in Action: Past, Present, and Future Applications” co-colated with NeurIPS 2023                  
+[Paper](https://openreview.net/pdf?id=8BR8EaWNTZ){: .btn .btn--info .btn--small}  
 
 * Jacob K. Johnson and **Ana Marasović**           
 <span style="color:navy">How Much Consistency Is Your Accuracy Worth?</span>                 
