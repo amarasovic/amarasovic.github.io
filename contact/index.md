@@ -8,7 +8,8 @@ date:   2022-09-30 22:15:29 -0800
 
 My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson". My pronouns are she/her. 
 
-*If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox.*
+*If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox.* **Utah 
+MS/BS students interested in research opportunities, please ensure to review the contact/FAQ section before visiting my office without an appointment.**
 
 {::options parse_block_html="true" /}
 

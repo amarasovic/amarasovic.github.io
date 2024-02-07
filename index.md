@@ -4,7 +4,8 @@ classes: wide
 author_profile: true
 ---
 
-<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._ **Utah MS/BS prospective research students, please read contact/FAQ before coming to my office without an appointment.**
+<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._ **Utah 
+MS/BS students interested in research opportunities, please ensure to review the contact/FAQ section before visiting my office without an appointment.**
 
 ---
 
