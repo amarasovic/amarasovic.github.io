@@ -25,7 +25,7 @@ Please apply here: https://ta.cs.utah.edu/. I typically do not respond to email 
 <details>
 <summary markdown="span" style="color:orange"><b>Prerequisites</b> [Click to expand!]</summary>
 
-I work with a small group of PhD, MS, and BS students at any given moment, and I meet with everyone individually weekly. Thus, each semester I typically welcome at most 1-2 new MS/BS students, and sometimes none at all. Typically, the students I select to join my lab are those with whom I've already established rapport; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters.          
+I work with a **small group** of PhD, MS, and BS students at any given moment, and I meet with everyone individually weekly. Thus, each semester I typically welcome at most 1-2 new MS/BS students, and sometimes none at all. Typically, the students I select to join my lab are those with whom I've already established rapport; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters.          
 
 I teach: 
 * CS 6340/5340 (Natural Language Processing) 
