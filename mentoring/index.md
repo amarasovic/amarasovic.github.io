@@ -28,7 +28,7 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 * [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)  
 * Purbid Bambroo
-* Alexi Gill                                          
+* Alex Gill                                          
 
 **Current and Past Student Collaborators**          
 
