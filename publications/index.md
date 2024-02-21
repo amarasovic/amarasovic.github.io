@@ -10,6 +10,10 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints 
 
+* Oliver Bentham, Nathan Stringham, and **Ana Marasović**        
+<span style="color:navy">Chain-of-Thought Unfaithfulness as Disguised Accuracy</span>              
+
+
 * Ashim Gupta, Rishanth Rajendhran, Nathan Stringham, Vivek Srikumar, and **Ana Marasović**                       
 <span style="color:navy">Whispers of Doubt Amidst Echoes of Triumph in NLP Robustness</span>              
 [Paper](https://arxiv.org/abs/2311.09694){: .btn .btn--info .btn--small}               
