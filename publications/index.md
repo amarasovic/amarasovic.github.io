@@ -10,7 +10,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints 
 
-* Oliver Bentham, Nathan Stringham, and **Ana Marasović**        
+* Oliver Bentham<sup>\*</sup>, Nathan Stringham<sup>\*</sup>, and **Ana Marasović**        
 <span style="color:navy">Chain-of-Thought Unfaithfulness as Disguised Accuracy</span>              
 
 
