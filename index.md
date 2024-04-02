@@ -34,18 +34,18 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="14%">
     <col width="100%">
         <tr>
-        <td valign="top"><strong>July 2023</strong></td>
+        <td valign="top"><strong>Apr 2024</strong></td>
         <td>
         I'm leading a session on trust and explainability at [Bellairs Invitational Workshop on Contemporary, Foreseeable and Catastrophic Risks of Large Language Models](https://mcgill-nlp.github.io/barbados-workshop-2024/) 🌴
         </td>
         </tr>
         <tr>
-        <td valign="top"><strong>July 2023</strong></td>
+        <td valign="top"><strong>March 2024</strong></td>
         <td>Our paper where we <a href="https://arxiv.org/abs/2311.09694">reflect the longstanding robustness issues in NLP</a> is accepted to NAACL!
         </td>
         </tr>
         <tr>
-        <td valign="top"><strong>July 2023</strong></td>
+        <td valign="top"><strong>Feb 2024</strong></td>
         <td>I am senior area chairing again for ACL'24.</td>
        </tr>
         <tr>
