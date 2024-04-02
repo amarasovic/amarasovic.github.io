@@ -36,7 +36,7 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
         <tr>
         <td valign="top"><strong>Apr 2024</strong></td>
         <td>
-        I'm leading a session on trust and explainability at [Bellairs Invitational Workshop on Contemporary, Foreseeable and Catastrophic Risks of Large Language Models](https://mcgill-nlp.github.io/barbados-workshop-2024/) 🌴
+        I'm leading a session on trust and explainability at <a href="https://mcgill-nlp.github.io/barbados-workshop-2024/">Bellairs Invitational Workshop on Contemporary, Foreseeable and Catastrophic Risks of Large Language Models</a> 🌴
         </td>
         </tr>
         <tr>
