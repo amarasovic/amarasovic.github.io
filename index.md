@@ -41,7 +41,7 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
         </tr>
         <tr>
         <td valign="top"><strong>March 2024</strong></td>
-        <td>Our paper where we <a href="https://arxiv.org/abs/2311.09694">reflect the longstanding robustness issues in NLP</a> is accepted to NAACL!
+        <td>Our paper where we <a href="https://arxiv.org/abs/2311.09694">reflect on the longstanding robustness issues in NLP</a> is accepted to NAACL!
         </td>
         </tr>
         <tr>
