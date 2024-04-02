@@ -35,6 +35,18 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="100%">
         <tr>
         <td valign="top"><strong>July 2023</strong></td>
+        <td>
+        I'm leading a session on trust and explainability at [Bellairs Invitational Workshop on Contemporary, Foreseeable and Catastrophic Risks of Large Language Models](https://mcgill-nlp.github.io/barbados-workshop-2024/) 🌴
+        </td>
+        </tr>
+        <tr>
+        <td valign="top"><strong>July 2023</strong></td>
+        <td>
+        
+        </td>
+        </tr>
+        <tr>
+        <td valign="top"><strong>July 2023</strong></td>
         <td><a href="https://arxiv.org/abs/2209.06293">Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest</a> was awarded with <b>Best Paper Award</b> at ACL'23. 🎉</td>
        </tr>
         <tr>
