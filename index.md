@@ -4,8 +4,11 @@ classes: wide
 author_profile: true
 ---
 
-<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._ **Utah 
-MS/BS students interested in research opportunities, please ensure to review the contact/FAQ section before visiting my office without an appointment.**
+<span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._ 
+
+**Fall 2025 prospective PhD students:** If you're interested in doing a [PhD in the Kahlert School of Computing](https://www.cs.utah.edu/graduate/admissions/) with me, *please apply* and explicitly mention your interest in working with. We carefully consider every application. **I am not responding to long emails sharing your application profile.** 
+
+**Utah MS/BS students interested in research opportunities, please ensure to review the contact/FAQ section before visiting my office without an appointment.**
 
 ---
 
@@ -47,14 +50,6 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
         <tr>
         <td valign="top"><strong>Feb 2024</strong></td>
         <td>I am senior area chairing again for ACL'24.</td>
-       </tr>
-        <tr>
-        <td valign="top"><strong>Jul 2023</strong></td>
-        <td><a href="https://arxiv.org/abs/2209.06293">Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest</a> was awarded with <b>Best Paper Award</b> at ACL'23. 🎉</td>
-       </tr>       
-        <tr>
-        <td valign="top"><strong>Jul 2023</strong></td>
-        <td>I am a <b>Best Senior Area Chair</b> at ACL'23. 😊</td>
        </tr>
 </table>
 
