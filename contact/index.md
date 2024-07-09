@@ -21,7 +21,7 @@ Please apply here: <a>https://ta.cs.utah.edu</a>. I typically do not respond to 
 </details> 
 <br/>
 
-<details><summary markdown="span"><b>You're a University of Utah student interested in a collaboration/mentoring/independent study/etc</b> [Click to expand!]</summary>
+<details><summary markdown="span"><b>You're a University of Utah student interested in research opportunities</b> [Click to expand!]</summary>
 
 I work with a **small group** of PhD, MS, and BS students at any given moment, and I meet with everyone regularly. Thus, each semester I typically welcome very few new MS/BS students, and sometimes none at all. 
 
