@@ -21,7 +21,7 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 <details>
 <summary markdown="span"><b>Can I be your TA?</b> [Click to expand!]</summary>              
 
-Please apply here: https://ta.cs.utah.edu/. I typically do not respond to email updates seeking TA-ship or asking me to review your application because I have all necessary information on our portal. Please do not come to my office asking for TA-ship. Appreciate your understanding.
+Please apply here: <a>https://ta.cs.utah.edu</a>. I typically do not respond to email updates seeking TA-ship or asking me to review your application because I have all necessary information on our portal. Please do not come to my office asking for TA-ship. Appreciate your understanding.
 
 </details> 
 <br/>
