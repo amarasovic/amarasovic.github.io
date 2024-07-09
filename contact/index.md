@@ -24,7 +24,7 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 
 Please apply here: <a>https://ta.cs.utah.edu</a>. I typically do not respond to email updates seeking TA-ship or asking me to review your application because I have all necessary information in our portal. I actually don't have a final say in who is assigned to me, but so far, my preferences have been taken into account. 
 
-<span style="color:#EA3C17;"><strong>Please do not come to my office asking for TA-ship.</span></strong> Appreciate your understanding.
+<span style="color:#EA3C17;"><strong>Please do not come to my office asking for TA-ship.</strong></span> Appreciate your understanding.
 
 </details> 
 <br/>
