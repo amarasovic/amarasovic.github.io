@@ -22,7 +22,7 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 <summary markdown="span"><b>Can I be your TA?</b> [Click to expand!]</summary>              
 
 
-Please apply here: <a>https://ta.cs.utah.edu</a>. I typically do not respond to email updates seeking TA-ship or asking me to review your application because I have all necessary information on our portal. I submit my preferences for TAs considering many factors beyond what you can control. I actually don’t have a final say in who is assigned to me, but so far, my preferences have been taken into account. 
+Please apply here: <a>https://ta.cs.utah.edu</a>. I typically do not respond to email updates seeking TA-ship or asking me to review your application because I have all necessary information in our portal. I actually don't have a final say in who is assigned to me, but so far, my preferences have been taken into account. 
 
 <span style="color:#EA3C17;"><strong>Please do not come to my office asking for TA-ship.</span></strong> Appreciate your understanding.
 
@@ -31,13 +31,15 @@ Please apply here: <a>https://ta.cs.utah.edu</a>. I typically do not respond to 
 
 <details><summary markdown="span"><b>You are a student at the University of Utah interested in a collaboration/mentoring/independent study/etc</b> [Click to expand!]</summary>
 
-
-
-I work with a **small group** of PhD, MS, and BS students at any given moment, and I meet with everyone individually weekly. Thus, each semester I typically welcome at most 1-2 new MS/BS students, and sometimes none at all. Typically, the students I select to join my lab are those with whom I've already established rapport; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters.          
+I work with a **small group** of PhD, MS, and BS students at any given moment, and I meet with everyone regularly. Thus, each semester I typically welcome very few new MS/BS students, and sometimes none at all. I try to involve NLP graduate students in co-mentoring and I sometimes pair students on the same project. This has been successful in the past since it's easier to get unstuck with someone else and by doing this more students get to do research with me. Typically, the students I select to join my lab are those with whom I've already established rapport; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters.          
 
 I teach: 
 * CS 6340/5340 (Natural Language Processing) 
 * CS 6966/5966 (Local Explanations for Deep Learning Models) 
+
+Please note that if you are already balancing work and study, or if you are engaged in another research project, I believe it may not be realistic for you to take on an additional project. In this case, I would not be able to involve you in my group to ensure that you are not overextended and that everyone's time is respected.
+
+**Expectations:** Meeting regularly, making consistent progress, staying organized, and communicating clearly. Progress doesn't mean that every week you present new successful results and everything works smoothly. Research is rarely like that! Progress involves a weekly cycle where you formulate well-thought-out hypotheses, implement your current solution, gather results, and thoroughly analyze these outcomes. Implementation can take longer than expected due to a sequence of trial and error. In our meetings, you should present a meaningful interpretation of the outcomes, and ideally come up with suggestions for next steps.
 
 <details>
 <summary markdown="span" style="color:orange"><b>If you reach out, please send me an email with the following information:</b> [Click to expand!]</summary>
@@ -56,6 +58,7 @@ I teach:
     * CS 6350 – Machine Learning                        
     * CS 6540 – Human-Computer Interaction  
     * CS 6960 – Human-AI Alignment  
+
 </details> 
 <br/>
 
@@ -63,7 +66,9 @@ I teach:
 <summary markdown="span" style="color:orange"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
 
 
-The first semester working together would be an unpaid/independent study. If things are going well and there is continued mutual interest in working together, I’m open to helping you with the [UROP proposal](https://our.utah.edu/research-scholarship-opportunities/urop/) if you’re a BS student or taking you as an RA if you’re a MS student. **This is not guaranteed!** Only after working together we can have a conversation about it, especially for RA-ships that are subject to my current funding abilities.  
+BS/MS students I've worked so far sign up for an independent study to get class credits. I very, very rarely fund BS/MS students as RAs, and in all cases I initiated the conversation about this.
+
+BS students: If things are going well and there is continued mutual interest in working together, I’m open to helping you with the [UROP proposal](https://our.utah.edu/research-scholarship-opportunities/urop/) or supervising your undergraduate thesis. 
 
 </details> 
 <br/>
