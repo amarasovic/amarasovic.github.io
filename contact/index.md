@@ -31,9 +31,9 @@ Please apply here: <a>https://ta.cs.utah.edu</a>. I typically do not respond to 
 
 <details><summary markdown="span"><b>You're a University of Utah student interested in a collaboration/mentoring/independent study/etc</b> [Click to expand!]</summary>
 
-I work with a **small group** of PhD, MS, and BS students at any given moment, and I meet with everyone regularly. Thus, each semester I typically welcome very few new MS/BS students, and sometimes none at all. I try to involve NLP graduate students in co-mentoring and I sometimes pair students on the same project. This has been successful in the past since it's easier to get unstuck with someone else and by doing this more students get to do research with me. Typically, the students I select to join my lab are those with whom I've already established rapport; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters.          
+I work with a **small group** of PhD, MS, and BS students at any given moment, and I meet with everyone regularly. Thus, each semester I typically welcome very few new MS/BS students, and sometimes none at all. I try to involve NLP graduate students in co-mentoring and I sometimes pair students on the same project. This has been successful in the past since it's easier to get unstuck with someone else and by doing this more students get to do research with me. 
 
-I teach: 
+Typically, the students I select to join my lab are those with whom I've already established rapport; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters.          I teach: 
 * CS 6340/5340 (Natural Language Processing) 
 * CS 6966/5966 (Local Explanations for Deep Learning Models) 
 
