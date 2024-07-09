@@ -11,14 +11,6 @@ date:   2022-09-30 22:15:29 -0800
 {::options parse_block_html="true" /}
 
 <details>
-<summary markdown="span"><b>How to pronounce your name?</b> [Click to expand!]</summary>              
-
-My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson". 
-
-</details> 
-<br/>
-
-<details>
 <summary markdown="span"><b>Can I be your TA?</b> [Click to expand!]</summary>              
 
 
@@ -134,6 +126,13 @@ I don't work with high school students in any capacity.
 </details> 
 <br/>
 
+<details>
+<summary markdown="span"><b>How to pronounce your name?</b> [Click to expand!]</summary>              
+
+My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara Wilson". 
+
+</details> 
+<br/>
 
 <details><summary markdown="span"><b>Talk bio</b> [Click to expand!]</summary>
 Ana Marasović is an Assistant Professor in the Kahlert School of Computing at the University of Utah. Her primary research interests are at the confluence of NLP, explainable AI, and multimodality. She aims to rigorously validate AI technologies and make human interaction with AI more intuitive. She was a Young Investigator at the Allen Institute for AI from 2019–2022. During that time, she also had a courtesy appointment in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She obtained her PhD in 2019 from Heidelberg University. She received Best Paper Award ar ACL 2023, Best Paper Honorable Mention at ACL 2020, and Best Paper Award at SoCal 2022 NLP Symposium.
