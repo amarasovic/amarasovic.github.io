@@ -6,9 +6,9 @@ author_profile: true
 
 <span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._ 
 
-**Fall 2025 prospective PhD students:** If you're interested in doing a [PhD in the Kahlert School of Computing](https://www.cs.utah.edu/graduate/admissions/) with me, *please apply* and explicitly mention your interest in working with me. We carefully consider every application. **I am not responding to long emails sharing your application profile.** 
+**Fall 2025 prospective PhD students:** If you're interested in doing a [PhD in the Kahlert School of Computing](https://www.cs.utah.edu/graduate/admissions/) with me, *please apply* and explicitly mention your interest in working with me. We carefully consider every application. <span style="color:#EA3C17;">**I am not responding to long emails sharing your application profile.**</span> 
 
-**Utah MS/BS students interested in research opportunities, please ensure to review the contact/FAQ section before visiting my office without an appointment.**
+**Utah MS/BS students interested in research opportunities,** please ensure to review the contact/FAQ section before visiting my office without an appointment.
 
 ---
 
@@ -36,6 +36,18 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+        <tr>
+        <td valign="top"><strong>Jun 2024</strong></td>
+        <td>Our work on <a href="https://arxiv.org/abs/2402.14897">measuring chain-of-thought faithfulness</a> is accepted to TMLR.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Jun 2024</strong></td>
+        <td>I prepared a session on data influence for <a href="https://explanation-llm.github.io/">NAACL Tutorial: Explanations in the Era of Large Language Models</a>.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>March 2024</strong></td>
+        <td>The <a href="https://arxiv.org/abs/2311.09694">large-scale analysis of robustness of compact LMs</a> accepted to NAACL.</td>
+       </tr>
         <tr>
         <td valign="top"><strong>Apr 2024</strong></td>
         <td>
