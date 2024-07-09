@@ -9,11 +9,11 @@ author_profile: true
   <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
 </span>
 <br><br>
-<span style="font-size: 14px; line-height: 1.4;">
+<span style="font-size: 14px; line-height: 0.5;">
   <strong>Fall 2025 prospective PhD students:</strong> If you're interested in a <a href="https://www.cs.utah.edu/graduate/admissions/">PhD in the Kahlert School of Computing</a> with me, <em>please apply</em> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to long emails sharing your application profile.</strong></span>
 </span>
 <br><br>
-<span style="font-size: 14px; line-height: 1.4;">
+<span style="font-size: 14px; line-height: 0.5;">
   <strong>Utah MS/BS students interested in research opportunities,</strong> please ensure to review the contact/FAQ section before visiting my office without an appointment.
 </span>
 
