@@ -5,16 +5,12 @@ author_profile: true
 ---
 
 <span style="font-size: 14px; line-height: 0.5;">
-  <span style="color:#a6cc54;"><strong>Please read <a href="https://www.anamarasovic.com/contact/" style="color:#a6cc54;">Contact/FAQ</a> before reaching out.</strong></span>
+  <span style="color:#a6cc54;"><strong>Please read <a href="https://www.anamarasovic.com/contact/" style="color:#a6cc54;">Contact/FAQ</a> before reaching out</strong>; especially if you're <strong>Utah students interested in research opportunities or TA-ing</strong>.</span>
   <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
 </span>
 <br><br>
 <span style="font-size: 14px; line-height: 0.5;">
   <strong>Fall'25 prospective PhD students:</strong> If you're interested in a <a href="https://www.cs.utah.edu/graduate/admissions/">PhD in the Kahlert School of Computing</a> with me, <em>please apply</em> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to long emails sharing your application profile.</strong></span>
-</span>
-<br><br>
-<span style="font-size: 14px; line-height: 0.5;">
-  <strong>Utah MS/BS students interested in research opportunities,</strong> please review the contact/FAQ section.
 </span>
 
 
