@@ -32,6 +32,7 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 * [Michael Clemens](http://mclem.me/)                  
 * [Ashim Gupta](https://ashim95.github.io/)     
+* [Akansha Kalra](https://akansha-kalra.github.io/) 
 
 ### Alumni
 
@@ -39,8 +40,7 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 * [Jacob Johnson](https://nnnnnnnn.info/) (undergraduate and PhD researcher) &rarr; Weber State University MS          
 * Byron Liu  (undergraduate thesis)             
 * Dana EeJae Ahn (undergraduate researcher)       
-* [Mugdha Abhyankar](https://mugdhaab.github.io/) (MS independent study)                  
-* [Akansha Kalra](https://akansha-kalra.github.io/) (PhD student collaborator)
+* [Mugdha Abhyankar](https://mugdhaab.github.io/) (MS researcher)
 
 
 ##  Before joining Utah
