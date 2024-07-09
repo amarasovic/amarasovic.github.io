@@ -4,11 +4,11 @@ classes: wide
 author_profile: true
 ---
 
-<span style="font-size: 12px;"><span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._</span> 
+<span style="font-size: 14px;"><span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._</span> 
 
-<span style="font-size: 12px;">**Fall 2025 prospective PhD students:** If you're interested in doing a [PhD in the Kahlert School of Computing](https://www.cs.utah.edu/graduate/admissions/) with me, *please apply* and explicitly mention your interest in working with me. We carefully consider every application. <span style="color:#EA3C17;">**I am not responding to long emails sharing your application profile.**</span></span> 
+<span style="font-size: 14px;">**Fall 2025 prospective PhD students:** If you're interested in doing a [PhD in the Kahlert School of Computing](https://www.cs.utah.edu/graduate/admissions/) with me, *please apply* and explicitly mention your interest in working with me. We carefully consider every application. <span style="color:#EA3C17;">**I am not responding to long emails sharing your application profile.**</span></span> 
 
-<span style="font-size: 12px;">**Utah MS/BS students interested in research opportunities,** please ensure to review the contact/FAQ section before visiting my office without an appointment.</span>
+<span style="font-size: 14px;">**Utah MS/BS students interested in research opportunities,** please ensure to review the contact/FAQ section before visiting my office without an appointment.</span>
 
 ---
 
