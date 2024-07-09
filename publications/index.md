@@ -10,14 +10,21 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints 
 
-* Oliver Bentham<sup>\*</sup>, Nathan Stringham<sup>\*</sup>, and **Ana Marasović**        
-<span style="color:navy">Chain-of-Thought Unfaithfulness as Disguised Accuracy</span>              
-[Paper](https://arxiv.org/abs/2402.14897){: .btn .btn--info .btn--small}                               
 
+* Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambdroo, and **Ana Marasović**                 
+<span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>                            
+[Paper](https://arxiv.org/abs/2407.03545){: .btn .btn--info .btn--small}  
+
+                             
 
 ## Peer-Reviewed Publications
 
 ### 2024 
+
+* Oliver Bentham<sup>\*</sup>, Nathan Stringham<sup>\*</sup>, and **Ana Marasović**        
+<span style="color:navy">Chain-of-Thought Unfaithfulness as Disguised Accuracy</span>  
+TMLR                           
+[Paper](https://arxiv.org/abs/2402.14897){: .btn .btn--info .btn--small}  
 
 * Ashim Gupta, Rishanth Rajendhran, Nathan Stringham, Vivek Srikumar, and **Ana Marasović**                       
 <span style="color:navy">Whispers of Doubt Amidst Echoes of Triumph in NLP Robustness</span>  
