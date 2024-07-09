@@ -14,7 +14,7 @@ author_profile: true
 </span>
 <br><br>
 <span style="font-size: 14px; line-height: 0.5;">
-  <strong>Utah MS/BS students interested in research opportunities,</strong> please ensure to review the contact/FAQ section before visiting my office without an appointment.
+  <strong>Utah MS/BS students interested in research opportunities,</strong> please review the contact/FAQ section before visiting my office without an appointment.
 </span>
 
 
