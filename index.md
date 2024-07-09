@@ -19,7 +19,7 @@ For an example of robust validation check out our work on carefully designing be
 Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) from 2019--2022 where I worked  with [Noah A. Smith](https://nasmith.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/). During that time I also had a courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I did my PhD in the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/), where I was advised by [Anette Frank](https://www.cl.uni-heidelberg.de/~frank/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in Mathematics at the University of Zagreb. 
 
 
-I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I was always appreciative of mountains living in a place like that, but it took moving to Seattle to realize that free time is best spent outdoors. You can see some of my outings [here](https://www.anamarasovic.com/blog/).
+I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I was always appreciative of mountains living in a place like that, but it took moving to Seattle to realize that free time is best spent outdoors.
 
 
 ---
