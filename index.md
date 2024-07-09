@@ -4,12 +4,14 @@ classes: wide
 author_profile: true
 ---
 
-<div style="font-size: 15px; line-height: 1.3; margin-bottom: 10px;">
-  <span style="color:#a6cc54;"><strong>Please read <a href="https://www.anamarasovic.com/contact/" style="color:#a6cc54;">Contact/FAQ</a> before reaching out</strong></span>, especially if you're a <strong>Utah student interested in research opportunities or TA-ing</strong>. 
-  <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
-</div>
-<div style="font-size: 15px; line-height: 1.3; margin-bottom: 10px;">
-  <strong>Fall'25 prospective PhD students:</strong> If you're interested in a <a href="https://www.cs.utah.edu/graduate/admissions/">PhD in the Kahlert School of Computing</a> in my group, <em>please apply</em> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to long emails sharing your application profile.</strong></span>
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; font-size: 15px; line-height: 1.3;">
+  <div style="margin-bottom: 10px;">
+    <span style="color:#a6cc54;"><strong>Please read <a href="https://www.anamarasovic.com/contact/" style="color:#a6cc54;">Contact/FAQ</a> before reaching out</strong></span>, especially if you're a <strong>Utah student interested in research opportunities or TA-ing</strong>. 
+    <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <strong>Fall'25 prospective PhD students:</strong> If you're interested in a <a href="https://www.cs.utah.edu/graduate/admissions/">PhD in the Kahlert School of Computing</a> in my group, <em>please apply</em> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to long emails sharing your application profile.</strong></span>
+  </div>
 </div>
 
 
