@@ -6,7 +6,7 @@ title: Publications
 date:   2020-12-05 22:15:29 -0800
 ---
 
-Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['23](https://www.anamarasovic.com/publications/#2024), ['23](https://www.anamarasovic.com/publications/#2023), ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
+Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['24](https://www.anamarasovic.com/publications/#2024), ['23](https://www.anamarasovic.com/publications/#2023), ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
 
 ## Preprints 
 
