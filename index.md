@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; font-size: 15px; line-height: 1.3;">
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; font-size: 15px; line-height: 1.3;">
   <div style="margin-bottom: 10px;">
     <span style="color:#a6cc54;"><strong>Please read <a href="https://www.anamarasovic.com/contact/" style="color:#a6cc54;">Contact/FAQ</a> before reaching out</strong></span>, especially if you're a <strong>Utah student interested in research opportunities or TA-ing</strong>. 
     <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
