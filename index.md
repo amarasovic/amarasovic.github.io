@@ -4,9 +4,19 @@ classes: wide
 author_profile: true
 ---
 
-* <span style="font-size: 14px;"><span style="color:#a6cc54;">**Please read [Contact/FAQ](https://www.anamarasovic.com/contact/) before reaching out.**</span> _If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox._</span>           
-* <span style="font-size: 14px;">**Fall 2025 prospective PhD students:** If you're interested in doing a [PhD in the Kahlert School of Computing](https://www.cs.utah.edu/graduate/admissions/) with me, *please apply* and explicitly mention your interest in working with me. We carefully consider every application. <span style="color:#EA3C17;">**I am not responding to long emails sharing your application profile.**</span></span>          
-* <span style="font-size: 14px;">**Utah MS/BS students interested in research opportunities,** please ensure to review the contact/FAQ section before visiting my office without an appointment.</span>
+<span style="font-size: 14px; line-height: 1.4;">
+  <span style="color:#a6cc54;"><strong>Please read <a href="https://www.anamarasovic.com/contact/" style="color:#a6cc54;">Contact/FAQ</a> before reaching out.</strong></span>
+  <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
+</span>
+<br><br>
+<span style="font-size: 14px; line-height: 1.4;">
+  <strong>Fall 2025 prospective PhD students:</strong> If you're interested in doing a <a href="https://www.cs.utah.edu/graduate/admissions/">PhD in the Kahlert School of Computing</a> with me, <em>please apply</em> and explicitly mention your interest in working with me. We carefully consider every application. <span style="color:#EA3C17;"><strong>I am not responding to long emails sharing your application profile.</strong></span>
+</span>
+<br><br>
+<span style="font-size: 14px; line-height: 1.4;">
+  <strong>Utah MS/BS students interested in research opportunities,</strong> please ensure to review the contact/FAQ section before visiting my office without an appointment.
+</span>
+
 
 ---
 
