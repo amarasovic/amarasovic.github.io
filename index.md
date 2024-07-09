@@ -10,7 +10,7 @@ author_profile: true
     <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
   </div>
   <div style="margin-bottom: 10px;">
-    <strong>Fall'25 prospective PhD students:</strong> If you're interested in a <a href="https://www.cs.utah.edu/graduate/admissions/">PhD in the Kahlert School of Computing</a> in my group, <em>please apply</em> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to long emails sharing your application profile.</strong></span>
+    <strong>Fall'25 prospective PhD students:</strong> If you're interested in doing a PhD with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a>  & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to long emails sharing your application profile.</strong></span>
   </div>
 </div>
 
