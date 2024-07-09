@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <div style="font-size: 14px; line-height: 0.5; margin-bottom: 10px;">
-  <span style="color:#a6cc54;"><strong>Please read <a href="https://www.anamarasovic.com/contact/" style="color:#a6cc54;">Contact/FAQ</a> before reaching out</strong>; especially if you're <strong>Utah students interested in research opportunities or TA-ing</strong>.</span>
+  <span style="color:#a6cc54;"><strong>Please read <a href="https://www.anamarasovic.com/contact/" style="color:#a6cc54;">Contact/FAQ</a> before reaching out</strong></span>; especially if you're <strong>Utah students interested in research opportunities or TA-ing</strong>.
   <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
 </div>
 <div style="font-size: 14px; line-height: 0.5; margin-bottom: 10px;">
