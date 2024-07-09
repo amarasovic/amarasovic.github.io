@@ -11,7 +11,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 ## Preprints 
 
 
-* Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambdroo, and **Ana Marasović**                 
+* Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
 <span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>                            
 [Paper](https://arxiv.org/abs/2407.03545){: .btn .btn--info .btn--small}  
 
