@@ -10,7 +10,7 @@ author_profile: true
 </span>
 <br><br>
 <span style="font-size: 14px; line-height: 1.4;">
-  <strong>Fall 2025 prospective PhD students:</strong> If you're interested in a <a href="https://www.cs.utah.edu/graduate/admissions/">PhD in the Kahlert School of Computing</a> with me, <em>please apply</em> and explicitly mention your interest in working with me. We carefully consider every application. <span style="color:#EA3C17;"><strong>I am not responding to long emails sharing your application profile.</strong></span>
+  <strong>Fall 2025 prospective PhD students:</strong> If you're interested in a <a href="https://www.cs.utah.edu/graduate/admissions/">PhD in the Kahlert School of Computing</a> with me, <em>please apply</em> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I am not responding to long emails sharing your application profile.</strong></span>
 </span>
 <br><br>
 <span style="font-size: 14px; line-height: 1.4;">
