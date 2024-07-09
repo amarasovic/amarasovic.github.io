@@ -17,16 +17,14 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 **PhD Reasearchers**           
 
 * [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)   
-* [Jacob Johnson](https://nnnnnnnn.info/) (from Fall 2023)        
-* [Nate Stringham](https://n8stringham.github.io/about.html) (from Fall 2023)            
+* [Nate Stringham](https://n8stringham.github.io/about.html) 
 
 
 **Undergraduate Researchers**         
-* Byron Liu                             
+* ...                           
 
 **MS Researchers** 
 
-* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)  
 * Purbid Bambroo
 * Alex Gill                                          
 
@@ -37,7 +35,10 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 ### Alumni
 
-* Dana EeJae Ahn       
+* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)  (MS researcher) &rarr; UMass Amherst PhD             
+* [Jacob Johnson](https://nnnnnnnn.info/) (undergraduate and PhD researcher) &rarr; Weber State University MS          
+* Byron Liu  (undergraduate thesis)             
+* Dana EeJae Ahn (undergraduate researcher)       
 * [Mugdha Abhyankar](https://mugdhaab.github.io/) (MS independent study)                  
 * [Akansha Kalra](https://akansha-kalra.github.io/) (PhD student collaborator)
 
