@@ -19,7 +19,7 @@ author_profile: true
 
 I'm an assistant professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My research interests  broadly fall into **NLP**, **human-centered AI**, and **intrepretability**. The problems I'm currently most excited about are: 
 
-* Empowering individuals and groups by improving their **AI-assisted** _decision making_, _communication_, and _creativity_.             
+* Empowering individuals and groups by improving **AI-assisted** _decision making_, _communication_, and _creativity_.             
 * Radically changing **evaluation protocols** for **studying human behavior** under AI assistance.                  
 * Creating new **high-quality training** and **evaluation data** and understanding **the role of professional** dataset creators, domain experts, and annotators in this process in the era of generative AI.    
 * Connecting explanations generated in **plain language** with **internal computations**.                    
