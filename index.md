@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-I'm an assistant professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My primary research interest could broadly be categorized into **human-centered natural language processing** and **intrepretability**. The problems I'm currently most excited about are: 
+I'm an assistant professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My research interests  broadly fall into **human-centered natural language processing** and **intrepretability**. The problems I'm currently most excited about are: 
 
 * Improving **AI-assisted decision making**, **communication**, and **creativity** of individuals and groups in real-world applications.           
 * Creating new **high-quality** training and evaluation **data** and understanding **the role of professional dataset creators**, **domain experts**, and **annotator**s in this process in the era of generative AI.                     
