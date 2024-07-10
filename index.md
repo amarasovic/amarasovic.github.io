@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-I'm an assistant professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My research interests  broadly fall into **human-centered NLP** and **intrepretability**. The problems I'm currently most excited about are: 
+I'm an assistant professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My research interests  broadly fall into **NLP**, **human-centered AI**, and **intrepretability**. The problems I'm currently most excited about are: 
 
 * Empowering individuals and groups by improving their **AI-assisted** _decision making_, _communication_, and _creativity_ in real-world applications.             
 * Radically changing **evaluation protocols** for **studying human behavior** under AI assistance.                  
