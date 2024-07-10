@@ -20,7 +20,8 @@ author_profile: true
 I'm an assistant professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My research interests  broadly fall into **human-centered NLP** and **intrepretability**. The problems I'm currently most excited about are: 
 
 * Improving **AI-assisted** _decision making_, _communication_, and _creativity_ of individuals and groups in real-world applications.           
-* Creating new **high-quality data** and **evaluation protocols** and understanding **the role of professional dataset creators**, **domain experts**, and **annotators** in this process in the era of generative AI.                     
+* Radically changing **evaluation protocols** for studying human behavior under AI assistance.                  
+* Creating new **high-quality data** and understanding **the role of professional dataset creators**, **domain experts**, and **annotators** in this process in the era of generative AI.    
 * Connecting explanations generated in **plain language** with **internal computations**.                    
 
 Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) (2019--2022), working with [Noah A. Smith](https://nasmith.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/), and held a courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I earned my PhD from the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/), where I was advised by [Anette Frank](https://www.cl.uni-heidelberg.de/~frank/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in Mathematics at the University of Zagreb. 
