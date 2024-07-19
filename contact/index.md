@@ -92,9 +92,18 @@ I hope you can infer now how even research projects and activities that did not 
 
 </details> 
 <br/>
+
+
+<details>
+<summary markdown="span" style="color:orange"><b>You have general questions about admissions</b> [Click to expand!]</summary>  
+Please refer to the Kahlert School of Computing's [Admissions webpage](https://www.cs.utah.edu/graduate/admissions/), and the [Admissions FAQ](https://docs.google.com/document/d/1pL9OmkkBcl-zx0anxoC1cJqyglzT1zjz9Dech4YSHpk). I’d encourage you to also explore the [Office of International Admissions website](https://admissions.utah.edu/international-graduate/). These pages explain the admissions deadline, requirements, and process.
+ 
+If you have further questions, please reach out to grad-advisors@cs.utah.edu about the program and to grad-admission@cs.utah.edu about admissions.  
+
+</details> 
+<br/>
 </details>                  
 <br/>
-
 
 <details>
 <summary markdown="span"><b>You're looking for postdoc positions</b> [Click to expand!]</summary>              
