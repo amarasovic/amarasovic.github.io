@@ -8,18 +8,16 @@ date:   2020-12-05 22:15:29 -0800
 
 Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['24](https://www.anamarasovic.com/publications/#2024), ['23](https://www.anamarasovic.com/publications/#2023), ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
 
-## Preprints 
-
-
-* Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
-<span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>                            
-[Paper](https://arxiv.org/abs/2407.03545){: .btn .btn--info .btn--small}  
-
-                             
+## Preprints                        
 
 ## Peer-Reviewed Publications
 
 ### 2024 
+
+* Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
+<span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>   
+EMNLP Findings 2024                                   
+[Paper](https://arxiv.org/abs/2407.03545){: .btn .btn--info .btn--small}  
 
 * Oliver Bentham<sup>\*</sup>, Nathan Stringham<sup>\*</sup>, and **Ana Marasović**        
 <span style="color:navy">Chain-of-Thought Unfaithfulness as Disguised Accuracy</span>  
