@@ -7,7 +7,8 @@ author_profile: true
 <div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px; font-size: 15px; line-height: 1.3;">
   <div style="margin-bottom: 10px;">
     <strong>Please check out <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a> before reaching out</strong>, especially if you're a <strong>Utah student looking for research opportunities or TA-ing</strong>. 
-    <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
+    <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em> <span style="color:#EA3C17;"><strong>I'm not available for new collaborations with Utah students at the moment.</strong></span>
+
   </div>
   <div style="margin-bottom: 10px;">
     <strong>Fall'25 prospective PhD students:</strong> If you're interested in doing a PhD with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a>  & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to emails sharing your application profile.</strong></span>
