@@ -50,7 +50,7 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
         <td>Our work on <a href="https://arxiv.org/abs/2407.03545">application-grounded evaluations of explanations in NLP</a> is accepted to EMNLP Findings!</td>
        </tr>
         <tr>
-        <td valign="top"><strong>Jun 2024</strong></td>g
+        <td valign="top"><strong>Jun 2024</strong></td>
         <td>Our work on <a href="https://arxiv.org/abs/2402.14897">measuring chain-of-thought faithfulness</a> is accepted to TMLR.</td>
        </tr>
         <tr>
