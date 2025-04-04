@@ -12,6 +12,13 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Peer-Reviewed Publications
 
+* Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
+<span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
+[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small}  
+
+
+### 2025
+
 ### 2024 
 
 * Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
