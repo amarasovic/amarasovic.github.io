@@ -10,12 +10,12 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints                        
 
-## Peer-Reviewed Publications
-
 * Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
 <span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
 [Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small}  
 
+
+## Peer-Reviewed Publications
 
 ### 2025
 
