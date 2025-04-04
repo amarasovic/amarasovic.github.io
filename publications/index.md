@@ -19,8 +19,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ### 2025
 
-* Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy
-
+* Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
 <span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
 ICLR 2025 Workshop on Bidirectional Human-AI Alignment                       
 [Paper](https://arxiv.org/abs/2503.00069){: .btn .btn--info .btn--small}   
