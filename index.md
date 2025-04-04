@@ -7,7 +7,7 @@ author_profile: true
 <div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px; font-size: 15px; line-height: 1.3;">
   <div style="margin-bottom: 10px;">
     <strong>Please check out <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a> before reaching out</strong>, especially if you're a <strong>Utah student looking for research opportunities or TA-ing</strong>. 
-    <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em> <span style="color:#EA3C17;"><strong>I'm not available for new collaborations with Utah students at the moment.</strong></span>
+    <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em> <span style="color:#EA3C17;"></span>
 
   </div>
   <div style="margin-bottom: 10px;">
