@@ -18,6 +18,15 @@ author_profile: true
     <col width="14%">
     <col width="100%">
         <tr>
+        <td valign="top"><strong>Mar 2024</strong></td>
+        <td>Our paper where we <a href="https://arxiv.org/abs/2311.09694">reflect on the longstanding robustness issues in NLP</a> is accepted to NAACL!
+        </td>
+        </tr>
+        <tr>
+        <td valign="top"><strong>Feb 2024</strong></td>
+        <td>I am senior area chairing again for ACL'24.</td>
+       </tr>
+        <tr>
         <td valign="top"><strong>Jul 2023</strong></td>
         <td><a href="https://arxiv.org/abs/2209.06293">Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest</a> was awarded with <b>Best Paper Award</b> at ACL'23. 🎉</td>
        </tr>       

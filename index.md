@@ -41,6 +41,17 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
     <col width="14%">
     <col width="100%">
         <tr>
+        <td valign="top"><strong>May 2025</strong></td>
+        <td>I gave a keynote at Repl4NLP @ NAACL on measuring faithfulness of verbalized reasoning: 
+         <a href="https://docs.google.com/presentation/d/19RIG34sS37KPLQPn37IitGGrB1t2OcD_CBwPWImPHdo/preview?slide=id.g3532f29446f_0_44">If You Want Reasoning, Look Inside</a>. 
+        </td>
+        </tr>
+        <tr>
+        <td valign="top"><strong>Feb 2025</strong></td>
+        <td>We released a <a href="https://arxiv.org/abs/2502.14829">preprint</a> on measuring faithfulness of verbalized reasoning grounded in model iternals. 
+        </td>
+        </tr>
+        <tr>
         <td valign="top"><strong>Sep 2024</strong></td>
         <td>Our work on <a href="https://arxiv.org/abs/2407.03545">application-grounded evaluations of explanations in NLP</a> is accepted to EMNLP Findings!</td>
        </tr>
@@ -58,15 +69,6 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
         I'm leading a session on trust and explainability at <a href="https://mcgill-nlp.github.io/barbados-workshop-2024/">Bellairs Invitational Workshop on Contemporary, Foreseeable and Catastrophic Risks of Large Language Models</a> 🌴
         </td>
         </tr>
-        <tr>
-        <td valign="top"><strong>Mar 2024</strong></td>
-        <td>Our paper where we <a href="https://arxiv.org/abs/2311.09694">reflect on the longstanding robustness issues in NLP</a> is accepted to NAACL!
-        </td>
-        </tr>
-        <tr>
-        <td valign="top"><strong>Feb 2024</strong></td>
-        <td>I am senior area chairing again for ACL'24.</td>
-       </tr>
 </table>
 
 
