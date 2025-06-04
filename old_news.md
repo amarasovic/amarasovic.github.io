@@ -18,6 +18,12 @@ author_profile: true
     <col width="14%">
     <col width="100%">
         <tr>
+        <td valign="top"><strong>Apr 2024</strong></td>
+        <td>
+        I'm leading a session on trust and explainability at <a href="https://mcgill-nlp.github.io/barbados-workshop-2024/">Bellairs Invitational Workshop on Contemporary, Foreseeable and Catastrophic Risks of Large Language Models</a> 🌴
+        </td>
+        </tr>
+        <tr>
         <td valign="top"><strong>Mar 2024</strong></td>
         <td>Our paper where we <a href="https://arxiv.org/abs/2311.09694">reflect on the longstanding robustness issues in NLP</a> is accepted to NAACL!
         </td>
