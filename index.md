@@ -24,7 +24,9 @@ sidebar:
 </div>
 
 
-Hello! Bok! I study how to build AI technologies that support human decision-making, communication, and creativity. 
+Hello! Bok! I'm an assistant professor at the University of Utah, Kahlert School of Computing, where I co-lead UtahNLP.
+
+I study how to build AI technologies that support human decision-making, communication, and creativity. 
 
 I examine where such assistance is valuable, then create benchmarks that test how reliably AI performs in related tasksthat sometimes span multiple modalities (language, images, audio). I'm increasingly interested in teaming people with agents and applications in higher education through my role as an RAI Initiative Faculty Fellow.
 
