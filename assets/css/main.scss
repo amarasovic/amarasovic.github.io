@@ -131,20 +131,32 @@ a {
   margin-left: 2em !important;
 }
 
-/* Make pages with extra-wide class actually wider */
-.extra-wide .page {
+/* Aggressive override for extra-wide pages - but not sidebar content */
+.extra-wide {
   width: 100% !important;
-  max-width: none !important;
-  padding-right: 0 !important;
 }
 
 .extra-wide #main {
-  max-width: 95% !important;
-  padding-left: 2em !important;
-  padding-right: 2em !important;
+  max-width: 90vw !important;
+  width: 90vw !important;
+}
+
+.extra-wide .page {
+  max-width: none !important;
+  width: 100% !important;
 }
 
 .extra-wide .page__content {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+.extra-wide .masthead__inner-wrap {
+  max-width: 90vw !important;
+}
+
+/* Override max-width for specific content elements, but preserve sidebar styling */
+.extra-wide .page__content * {
   max-width: none !important;
 }
 
