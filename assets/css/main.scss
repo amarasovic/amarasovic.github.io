@@ -22,18 +22,20 @@ a {
 
 @include breakpoint($x-large) {
   .masthead__inner-wrap {
-    padding-left: calc((100vw - #{$max-width}) / 2 + 1em) !important;
+    padding-left: calc((100vw - #{$max-width}) / 2) !important;
   }
   
-  #main {
-    padding-left: calc((100vw - #{$max-width}) / 2 + 1em) !important;
+  .site-title {
+    width: calc(#{$right-sidebar-width} - 1em) !important;
+    text-align: right !important;
+    margin-right: 1em !important;
   }
 }
 
 .site-title {
   justify-content: flex-start !important;
   flex-direction: column !important;
-  align-items: flex-start !important;
+  align-items: flex-end !important;
   color: #000 !important;
 }
 
