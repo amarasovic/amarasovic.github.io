@@ -23,9 +23,6 @@ sidebar:
   </div>
 </div>
 
-
-_Hello! Bok!_ 
-
 I'm an assistant professor at the University of Utah's Kahlert School of Computing, where I co-lead **UtahNLP** and run the **ANANAS** research group.
 
 I study how to build AI technologies that **support** human **decision-making**, **communication**, and **creativity**. I identify where such assistance is valuable and develop **benchmarks** to test how reliably AI performs on related tasks involving language, **images**, and **audio**. I'm increasingly focused on collaboration with **agents** and **applications in higher education** through my role as an RAI Initiative Faculty Fellow.
