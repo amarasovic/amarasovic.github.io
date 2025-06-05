@@ -8,8 +8,6 @@ date:   2022-09-30 22:15:29 -0800
 
 *If your question is answered here, I likely won't respond to you due to a large volume of emails.* 
 
-## Table of Contents
-
 - [Can I be your TA?](#can-i-be-your-ta)
 - [You're a University of Utah student interested in research opportunities](#youre-a-university-of-utah-student-interested-in-research-opportunities)
   - [If you reach out, please send me an email with the following information](#if-you-reach-out-please-send-me-an-email-with-the-following-information)
@@ -37,9 +35,7 @@ I work with a **small group** of PhD, MS, and BS students at any given moment, a
 
 I try to involve NLP graduate students in co-mentoring and I sometimes pair students on the same project. This has been successful in the past since it's easier to get unstuck with someone else and by doing this more students get to do research with me. 
 
-Typically, the students I select to join my lab are **those with whom I've already established rapport**; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters. I teach: 
-* CS 6340/5340 (Natural Language Processing) 
-* CS 6966/5966 (Local Explanations for Deep Learning Models) 
+Typically, the students I select to join my lab are **those with whom I've already established rapport**; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters.  
 
 Please note that **if you are already balancing work and study**, or **if you are engaged in another research project**, I believe it may not be realistic for you to take on an additional project. In this case, I would not be able to involve you in my group to ensure that you are not overextended and that everyone's time is respected.
 
