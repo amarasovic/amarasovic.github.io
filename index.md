@@ -8,7 +8,7 @@ sidebar:
             <a href="mailto:ana.marasovic@utah.edu" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="fas fa-envelope-square"></i></a>
             <a href="https://scholar.google.com/citations?hl=en&user=3W6OnfAAAAAJ" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="ai ai-google-scholar"></i></a>
             <a href="https://www.semanticscholar.org/author/Ana-Marasovi%C4%87/3451494" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="ai ai-semantic-scholar"></i></a>
-            <a href="https://bsky.app/profile/anamarasovic.bsky.social" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="fab fa-square" style="position: relative;"><span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: Arial, sans-serif; font-size: 0.6em; font-weight: bold;">B</span></i></a>
+            <a href="https://bsky.app/profile/anamarasovic.bsky.social" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><span style="display: inline-block; width: 1em; height: 1em; position: relative; top: 0.1em;"><svg viewBox="0 0 24 24" fill="currentColor" style="width: 100%; height: 100%;"><path d="M12 2.5c-2.5 0-4.5 1.5-5.5 3.5-1 2-1 4.5 0 6.5 1 2 3 3.5 5.5 3.5s4.5-1.5 5.5-3.5c1-2 1-4.5 0-6.5-1-2-3-3.5-5.5-3.5zm0 2c1.5 0 2.8.8 3.5 2 .7 1.2.7 2.8 0 4-.7 1.2-2 2-3.5 2s-2.8-.8-3.5-2c-.7-1.2-.7-2.8 0-4 .7-1.2 2-2 3.5-2z"/></svg></span></a>
           </div>'
     image: "/images/profile.jpg"
     image_alt: "Ana Marasović"
