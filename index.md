@@ -16,10 +16,10 @@ sidebar:
 <div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px; font-size: 15px; line-height: 1.3; margin-bottom: 2em;">
   <div style="margin-bottom: 10px;">
     <strong>Please check the <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a> before reaching out</strong>, especially if you're a <strong>Utah student inquring research opportunities</strong> or <strong>TA-ing</strong>. 
-    <em>If your question is addressed there, I may prioritize other emails in my ever-growing inbox.</em>
+    <em>If your question is addressed there, I likely won't answer.</em>
   </div>
   <div>
-    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>I'm not responding to emails sharing application profiles.</strong></span>
+    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>I don’t respond to prospective student emails unless they contain _only_ specific questions not answered on my website.</strong></span>
   </div>
 </div>
 
