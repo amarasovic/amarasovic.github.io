@@ -1,15 +1,16 @@
 ---
-layout: modern
+layout: clean
 title: "Contact/FAQ" 
+description: "Frequently asked questions about research opportunities, TA positions, and PhD applications"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-*If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox.* 
+<p><em>If your inquiry is addressed here, I might prioritize other emails in my ever-growing inbox.</em></p>
 
-{::options parse_block_html="true" /}
-
-<details>
-<summary markdown="span"><b>Can I be your TA?</b> [Click to expand!]</summary>              
+<div class="faq-section">
+  <div class="faq-item">
+    <div class="question">Can I be your TA?</div>
+    <div class="answer">              
 
 
 Please apply here: <a>https://ta.cs.utah.edu</a>. I typically do not respond to email updates seeking TA-ship or asking me to review your application because I have all necessary information in our portal. I actually don't have a final say in who is assigned to me, but so far, my preferences have been taken into account. 

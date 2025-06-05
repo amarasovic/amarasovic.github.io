@@ -1,0 +1,83 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--clean">
+    {% include skip-links.html %}
+    {% include browser-upgrade.html %}
+
+    <div class="page-container">
+      <!-- Sidebar -->
+      <aside class="sidebar">
+        <div class="profile-section">
+          <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="profile-image">
+          <div class="name">{{ site.author.name }}</div>
+          <div class="title">{{ site.author.bio }}</div>
+          <div class="contact-links">
+            {% for link in site.author.links %}
+              {% if link.url %}
+                <a href="{{ link.url }}">{{ link.label }}</a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        
+        <div class="navigation">
+          <nav>
+            <ul>
+              {% for link in site.data.navigation.main %}
+                <li><a href="{{ link.url | relative_url }}" {% if page.url == link.url %}class="active"{% endif %}>{{ link.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </nav>
+        </div>
+      </aside>
+
+      <!-- Main Content -->
+      <main class="main-content">
+        {% if page.title and layout.name != 'home' %}
+          <div class="page-header">
+            <h1>{{ page.title }}</h1>
+            {% if page.description %}
+              <div class="page-description">{{ page.description }}</div>
+            {% endif %}
+          </div>
+        {% endif %}
+        
+        <div class="content">
+          {{ content }}
+        </div>
+      </main>
+    </div>
+
+    <script>
+      // Simple FAQ toggle functionality for contact page
+      document.addEventListener('DOMContentLoaded', function() {
+        const questions = document.querySelectorAll('.faq-item .question');
+        questions.forEach(question => {
+          question.addEventListener('click', function() {
+            const answer = this.nextElementSibling;
+            const isOpen = answer.classList.contains('open');
+            
+            // Close all answers
+            document.querySelectorAll('.faq-item .answer').forEach(a => a.classList.remove('open'));
+            
+            // Toggle current answer
+            if (!isOpen) {
+              answer.classList.add('open');
+            }
+          });
+        });
+      });
+    </script>
+
+    {% include scripts.html %}
+  </body>
+</html>

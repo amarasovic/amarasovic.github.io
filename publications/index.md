@@ -1,14 +1,23 @@
 ---
-layout: publications
+layout: clean
 title: Publications
+description: Research publications across NLP, explainable AI, and human-centered computing
 date:   2020-12-05 22:15:29 -0800
 ---
 
-## Preprints {#preprints}
+<div class="publications">
 
-* Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
-<span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
-[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small}  
+<div class="year-section">
+  <h2>Preprints</h2>
+  
+  <div class="publication">
+    <div class="title">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</div>
+    <div class="authors">Martin Tutek, Fateme Hashemi Chaleshtori, <strong>Ana Marasović</strong>, Yonatan Belinkov</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2502.14829" class="btn">Paper</a>
+    </div>
+  </div>
+</div>  
 
 
 ## Peer-Reviewed Publications
