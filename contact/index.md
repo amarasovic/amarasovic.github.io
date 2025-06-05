@@ -60,13 +60,13 @@ Please note that **if you are already balancing work and study**, or **if you ar
 
 ### You are a BS/MS student. Am I going to pay you?
 
-BS/MS students I've worked so far sign up for an independent study to get class credits. I very, very rarely fund BS/MS students as RAs, and in all cases I initiated the conversation about this.
+BS/MS students I've worked so far sign up for an independent study to get class credits. I very rarely fund BS/MS students as RAs, and in all cases I initiated the conversation about this.
 
 BS students: If things are going well and there is continued mutual interest in working together, I'm open to helping you with the [UROP proposal](https://our.utah.edu/research-scholarship-opportunities/urop/) or supervising your undergraduate thesis. 
 
-## You are *not* a student at the University of Utah, but you want to be
+## You are interested in applying to our PhD program and working with me
 
-If you're interested in doing a PhD in the School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
+If you're interested in doing a PhD in the Kahlert School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
 
 While I'm honored to be considered as anyone's advisor, as most professors I don't have bandwidth to answer every email that inform me about achivements and interest to work with me. In _very rare cases_, when an email is specific and demonstrates that the writer genuinely engaged with my work, I might respond. If I haven't responded to you, not only that sending more emails won't help, it actually overwhelms me, and I'd really appreciate if you don't do that. 
 
