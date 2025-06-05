@@ -8,7 +8,7 @@ sidebar:
             <a href="mailto:ana.marasovic@utah.edu" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="fas fa-envelope-square"></i></a>
             <a href="https://scholar.google.com/citations?hl=en&user=3W6OnfAAAAAJ" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="ai ai-google-scholar"></i></a>
             <a href="https://www.semanticscholar.org/author/Ana-Marasovi%C4%87/3451494" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="ai ai-semantic-scholar"></i></a>
-            <a href="https://bsky.app/profile/anamarasovic.bsky.social" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="fas fa-cloud"></i></a>
+            <a href="https://bsky.app/profile/anamarasovic.bsky.social" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="fas fa-butterfly"></i></a>
           </div>'
     image: "/images/profile.jpg"
     image_alt: "Ana Marasović"
