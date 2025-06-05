@@ -24,6 +24,7 @@ a {
   justify-content: flex-start !important;
   flex-direction: column !important;
   align-items: flex-start !important;
+  color: #000 !important;
 }
 
 .site-subtitle {
@@ -31,6 +32,18 @@ a {
   font-weight: normal !important;
   margin-top: 0.5em !important;
   line-height: 1.4 !important;
+}
+
+.title-line {
+  color: #444 !important;
+}
+
+.affiliation-line {
+  color: #666 !important;
+}
+
+.research-line {
+  color: #888 !important;
 }
 
 /*
