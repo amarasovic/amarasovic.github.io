@@ -19,7 +19,7 @@ sidebar:
     <em>If your question is addressed there, I likely won't answer.</em>
   </div>
   <div>
-    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>Please don’t email me to share your background or CV. I won’t respond unless your message includes only specific questions not already covered on my website.</strong></span>
+    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>Please don’t email me to share your background or CV.</strong></span> I won’t respond unless your message includes only specific questions not already covered on my website.
   </div>
 </div>
 
@@ -28,8 +28,6 @@ I'm an assistant professor at the University of Utah's Kahlert School of Computi
 I study how to build AI technologies that **support** human **decision-making**, **communication**, and **creativity**. I identify where such assistance is valuable and develop **benchmarks** to test how reliably AI performs on related tasks involving language, **images**, and **audio**. I'm increasingly focused on collaboration with **agents** and **applications in higher education** through my role as an RAI Initiative Faculty Fellow.
 
 A central thread of my work also explores how to translate what AI models “know” into reasoning that people can follow and act on. My most notable contributions in this area examine whether a model’s **verbal explanations are faithful** to its internal computations.
-
-Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) (2019--2022) and held a courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I earned my PhD from the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in Mathematics at the University of Zagreb. I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I was always appreciative of mountains living in a place like that, but it took moving to Seattle to realize that free time is best spent outdoors.
 
 
 ---
