@@ -34,7 +34,7 @@ ICLR 2025 Workshop on Bidirectional Human-AI Alignment
 * Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
 <span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>   
 EMNLP Findings 2024                                   
-[Paper](https://arxiv.org/abs/2407.03545){: .btn .btn--info .btn--small}  
+[Paper](https://arxiv.org/abs/2407.03545){: .btn .btn--info .btn--small} [Code](https://github.com/utahnlp/nlp-explanation-utility-guideline/){: .btn .btn--danger .btn--small}  
 
 * Oliver Bentham<sup>\*</sup>, Nathan Stringham<sup>\*</sup>, and **Ana Marasović**        
 <span style="color:navy">Chain-of-Thought Unfaithfulness as Disguised Accuracy</span>  
