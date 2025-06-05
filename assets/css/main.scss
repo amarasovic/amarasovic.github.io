@@ -46,6 +46,24 @@ a {
   color: #888 !important;
 }
 
+.contact-icons {
+  margin-top: 0.5em !important;
+}
+
+.contact-icons a {
+  color: #666 !important;
+  margin-right: 0.8em !important;
+  font-size: 1.2em !important;
+}
+
+.contact-icons a:hover {
+  color: #000 !important;
+}
+
+.sidebar .author__urls {
+  display: none !important;
+}
+
 .page__content {
   margin-left: 2em !important;
 }
