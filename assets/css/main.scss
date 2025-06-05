@@ -22,6 +22,15 @@ a {
 
 .site-title {
   justify-content: flex-start !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+}
+
+.site-subtitle {
+  font-size: $type-size-6 !important;
+  font-weight: normal !important;
+  margin-top: 0.5em !important;
+  line-height: 1.4 !important;
 }
 
 /*
