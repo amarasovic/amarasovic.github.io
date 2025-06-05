@@ -131,32 +131,38 @@ a {
   margin-left: 2em !important;
 }
 
-/* Make pages with author_profile (but no custom sidebar) wider */
-body:not(.layout--splash) .page {
+/* Target specific pages to be wider - exclude home page */
+body:not([data-path=""]):not([data-path="/"]):not([class*="home"]) .page {
   @include breakpoint($large) {
     width: 100% !important;
     padding-right: 0 !important;
+    max-width: none !important;
   }
 }
 
-/* Expand main container for pages without custom sidebar */
-body:not(.layout--splash) #main {
+/* Use page-specific targeting for wider layout */
+.page-publications .page,
+.page-contact .page,
+.page-talks .page,
+.page-teaching .page,
+.page-mentoring .page {
+  @include breakpoint($large) {
+    width: 100% !important;
+    padding-right: 0 !important;
+    max-width: none !important;
+  }
+}
+
+/* Expand main container for these specific pages */
+.page-publications #main,
+.page-contact #main,
+.page-talks #main,
+.page-teaching #main,
+.page-mentoring #main {
   @include breakpoint($large) {
     max-width: 95% !important;
-  }
-}
-
-/* But restore normal layout for About page (which has custom sidebar) */
-body.layout--single.has-sidebar .page,
-.sidebar ~ .page {
-  @include breakpoint($large) {
-    width: calc(100% - 200px) !important;
-    padding-right: 200px !important;
-  }
-  
-  @include breakpoint($x-large) {
-    width: calc(100% - 275px) !important;
-    padding-right: 275px !important;
+    padding-left: 2em !important;
+    padding-right: 2em !important;
   }
 }
 
