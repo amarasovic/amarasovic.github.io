@@ -2,19 +2,20 @@
 layout: single
 classes: wide
 author_profile: false
+sidebar:
+  - title: " "
+    text: '<div style="background-color: #f0f0f0; padding: 12px; border-radius: 5px; font-size: 12px; line-height: 1.3; margin-top: 1em;">
+            <div style="margin-bottom: 8px;">
+              <strong>Please check out <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a> before reaching out</strong>, especially if you are a <strong>Utah student looking for research opportunities or TA-ing</strong>. 
+              <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
+            </div>
+            <div>
+              <strong>Fall''25 prospective PhD students:</strong> If you''re interested in doing a PhD with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I''m not responding to emails sharing your application profile.</strong></span>
+            </div>
+          </div>'
 ---
 
 <img src="/images/profile.jpg" alt="Ana Marasović" style="float: right; max-width: 200px; margin: 0 0 1em 2em; border-radius: 4px; border: 1px solid #ddd;">
-
-<div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px; font-size: 15px; line-height: 1.3; margin-bottom: 2em;">
-  <div style="margin-bottom: 10px;">
-    <strong>Please check out <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a> before reaching out</strong>, especially if you're a <strong>Utah student looking for research opportunities or TA-ing</strong>. 
-    <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
-  </div>
-  <div>
-    <strong>Fall'25 prospective PhD students:</strong> If you're interested in doing a PhD with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to emails sharing your application profile.</strong></span>
-  </div>
-</div>
 
 ---
 
