@@ -17,8 +17,6 @@ sidebar:
 
 <img src="/images/profile.jpg" alt="Ana Marasović" style="float: right; max-width: 200px; margin: 0 0 1em 2em; border-radius: 4px; border: 1px solid #ddd;">
 
----
-
 I'm an assistant professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My research interests  broadly fall into **NLP**, **human-centered AI**, and **intrepretability**. 
 
 Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) (2019--2022), working with [Noah A. Smith](https://nasmith.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/), and held a courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I earned my PhD from the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/), where I was advised by [Anette Frank](https://www.cl.uni-heidelberg.de/~frank/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in Mathematics at the University of Zagreb. 
