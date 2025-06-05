@@ -47,22 +47,22 @@ a {
   color: #888 !important;
 }
 
-.contact-icons {
-  margin-top: 0.5em !important;
+.contact-icons-separate {
+  position: absolute;
+  top: -1.5em;
+  left: 1em;
+  z-index: 100;
 }
 
-.contact-icons a {
+.contact-icons-separate a {
   color: #666 !important;
   margin-right: 0.8em !important;
   font-size: 1.2em !important;
+  text-decoration: none !important;
 }
 
-.contact-icons a:hover {
+.contact-icons-separate a:hover {
   color: #000 !important;
-}
-
-.site-title {
-  max-width: 300px !important;
 }
 
 
