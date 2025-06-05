@@ -1,5 +1,5 @@
 ---
-classes: wide
+classes: wide extra-wide
 layout: single
 author_profile: true
 title: Publications

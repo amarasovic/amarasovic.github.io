@@ -1,5 +1,5 @@
 ---
-classes: wide
+classes: wide extra-wide
 layout: single
 author_profile: true
 date:   2020-12-05 22:15:29 -0800

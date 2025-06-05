@@ -131,39 +131,21 @@ a {
   margin-left: 2em !important;
 }
 
-/* Target specific pages to be wider - exclude home page */
-body:not([data-path=""]):not([data-path="/"]):not([class*="home"]) .page {
-  @include breakpoint($large) {
-    width: 100% !important;
-    padding-right: 0 !important;
-    max-width: none !important;
-  }
+/* Make pages with extra-wide class actually wider */
+.extra-wide .page {
+  width: 100% !important;
+  max-width: none !important;
+  padding-right: 0 !important;
 }
 
-/* Use page-specific targeting for wider layout */
-.page-publications .page,
-.page-contact .page,
-.page-talks .page,
-.page-teaching .page,
-.page-mentoring .page {
-  @include breakpoint($large) {
-    width: 100% !important;
-    padding-right: 0 !important;
-    max-width: none !important;
-  }
+.extra-wide #main {
+  max-width: 95% !important;
+  padding-left: 2em !important;
+  padding-right: 2em !important;
 }
 
-/* Expand main container for these specific pages */
-.page-publications #main,
-.page-contact #main,
-.page-talks #main,
-.page-teaching #main,
-.page-mentoring #main {
-  @include breakpoint($large) {
-    max-width: 95% !important;
-    padding-left: 2em !important;
-    padding-right: 2em !important;
-  }
+.extra-wide .page__content {
+  max-width: none !important;
 }
 
 /*
