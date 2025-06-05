@@ -28,7 +28,7 @@ Hello! Bok!
 
 I study how to build AI technologies that support human decision-making, communication, and creativity. 
 
-I examine where such assistance is most valuable, then benchmarks that test how reliably the technology performs in those settings before deployment in human-AI teams. The tasks I formulate to study such assistance span multiple modalities (language, images, audio), and I’m increasingly interested in teaming people with agents and applications in higher education through my role as an RAI Initiative Faculty Fellow.
+I examine where such assistance is valuable, then create benchmarks that test how reliably AI performs in those settings before teaming people with it. The tasks I've formulated to study such assistance span multiple modalities (language, images, audio). I’m increasingly interested in teaming people with agents and applications in higher education through my role as an RAI Initiative Faculty Fellow.
 
 Another central line of my work related to this overarching goal, studies how to translate what AI models “know” into reasoning that people can follow and act on. My most prominent contributions in this area examine whether a model’s verbal explanations align with its internal computations.
 
