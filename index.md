@@ -19,11 +19,18 @@ sidebar:
     <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
   </div>
   <div>
-    <strong>Fall'25 prospective PhD students:</strong> If you're interested in doing a PhD with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to emails sharing your application profile.</strong></span>
+    <strong>Fall'26 prospective PhD students:</strong> If you're interested in doing a PhD with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to emails sharing your application profile.</strong></span>
   </div>
 </div>
 
-I'm an assistant professor in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). My research interests  broadly fall into **NLP**, **human-centered AI**, and **intrepretability**. 
+
+Hello! Bok!
+
+I study how to build AI technologies that support human decision-making, communication, and creativity. 
+
+I examine where such assistance is most valuable, then benchmarks that test how reliably the technology performs in those settings before deployment in human-AI teams. The tasks I formulate to study such assistance span multiple modalities (language, images, audio), and I’m increasingly interested in teaming people with agents and applications in higher education through my role as an RAI Initiative Faculty Fellow.
+
+Another central line of my work related to this overarching goal, studies how to translate what AI models “know” into reasoning that people can follow and act on. My most prominent contributions in this area examine whether a model’s verbal explanations align with its internal computations.
 
 Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) (2019--2022), working with [Noah A. Smith](https://nasmith.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/), and held a courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I earned my PhD from the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/), where I was advised by [Anette Frank](https://www.cl.uni-heidelberg.de/~frank/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in Mathematics at the University of Zagreb. 
 
