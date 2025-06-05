@@ -131,6 +131,24 @@ a {
   margin-left: 2em !important;
 }
 
+/* Make pages without sidebars actually wider */
+.page:not(.has-sidebar) {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* For pages without custom sidebar, expand the main container */
+body:not(.has-sidebar) #main {
+  max-width: 95% !important;
+  padding-left: 2em !important;
+  padding-right: 2em !important;
+}
+
+/* Specifically target author profile pages to be wider */
+.layout--single .page__content {
+  max-width: none !important;
+}
+
 /*
 GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above!
 See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
