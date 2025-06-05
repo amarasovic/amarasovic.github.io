@@ -32,10 +32,7 @@ I examine where such assistance is most valuable, then benchmarks that test how 
 
 Another central line of my work related to this overarching goal, studies how to translate what AI models “know” into reasoning that people can follow and act on. My most prominent contributions in this area examine whether a model’s verbal explanations align with its internal computations.
 
-Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) (2019--2022), working with [Noah A. Smith](https://nasmith.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/), and held a courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I earned my PhD from the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/), where I was advised by [Anette Frank](https://www.cl.uni-heidelberg.de/~frank/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in Mathematics at the University of Zagreb. 
-
-
-I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I was always appreciative of mountains living in a place like that, but it took moving to Seattle to realize that free time is best spent outdoors.
+Previously, I was a Young Investigator at the [Allen Institute for AI](https://allenai.org/) (2019--2022) and held a courtesy appointment in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I earned my PhD from the [Heidelberg University NLP Group](https://www.cl.uni-heidelberg.de/nlpgroup/). Prior to receiving my PhD in 2019, I completed B.Sc. (2013) and M.Sc. (2015) in Mathematics at the University of Zagreb. I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I was always appreciative of mountains living in a place like that, but it took moving to Seattle to realize that free time is best spent outdoors.
 
 
 ---
