@@ -47,18 +47,28 @@ a {
   color: #888 !important;
 }
 
-.contact-icons {
-  margin-top: 0.5em !important;
+.contact-icons-masthead {
+  position: absolute;
+  left: 1em;
+  top: 100%;
+  margin-top: 0.5em;
+  z-index: 30;
 }
 
-.contact-icons a {
+.contact-icons-masthead a {
   color: #666 !important;
   margin-right: 0.8em !important;
   font-size: 1.2em !important;
+  text-decoration: none !important;
 }
 
-.contact-icons a:hover {
+.contact-icons-masthead a:hover {
   color: #000 !important;
+}
+
+.masthead {
+  position: relative;
+  margin-bottom: 3em !important;
 }
 
 .sidebar .author__urls {
