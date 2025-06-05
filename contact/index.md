@@ -68,7 +68,7 @@ BS students: If things are going well and there is continued mutual interest in 
 
 If you're interested in doing a PhD in the Kahlert School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
 
-While I'm honored to be considered as anyone's advisor, as most professors I don't have bandwidth to answer every email that inform me about achivements and interest to work with me. In _very rare cases_, when an email is specific and demonstrates that the writer genuinely engaged with my work, I might respond. If I haven't responded to you, not only that sending more emails won't help, it actually overwhelms me, and I'd really appreciate if you don't do that. 
+While I'm honored to be considered as anyone's advisor, as most professors I don't have bandwidth to answer every email that inform me about achivements and interest to work with me. In _very rare cases_, when an email is specific and demonstrates that the writer genuinely engaged with my work, I might respond. If I haven't responded to you, not only that sending more emails won't help, and I'd really appreciate if you don't do that. 
 
 ### Note on the Statement of Purpose
 
