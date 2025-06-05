@@ -131,22 +131,33 @@ a {
   margin-left: 2em !important;
 }
 
-/* Make pages without sidebars actually wider */
-.page:not(.has-sidebar) {
-  max-width: none !important;
-  width: 100% !important;
+/* Make pages with author_profile (but no custom sidebar) wider */
+body:not(.layout--splash) .page {
+  @include breakpoint($large) {
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
 }
 
-/* For pages without custom sidebar, expand the main container */
-body:not(.has-sidebar) #main {
-  max-width: 95% !important;
-  padding-left: 2em !important;
-  padding-right: 2em !important;
+/* Expand main container for pages without custom sidebar */
+body:not(.layout--splash) #main {
+  @include breakpoint($large) {
+    max-width: 95% !important;
+  }
 }
 
-/* Specifically target author profile pages to be wider */
-.layout--single .page__content {
-  max-width: none !important;
+/* But restore normal layout for About page (which has custom sidebar) */
+body.layout--single.has-sidebar .page,
+.sidebar ~ .page {
+  @include breakpoint($large) {
+    width: calc(100% - 200px) !important;
+    padding-right: 200px !important;
+  }
+  
+  @include breakpoint($x-large) {
+    width: calc(100% - 275px) !important;
+    padding-right: 275px !important;
+  }
 }
 
 /*
