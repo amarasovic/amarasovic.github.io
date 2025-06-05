@@ -10,7 +10,7 @@
   /* default */
   display: inline-block;
   margin-bottom: 0.25em;
-  padding: 0.5em 1em;
+  padding: 0.25em 0.5em;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
@@ -92,6 +92,7 @@
 
   /* small button */
   &--small {
-    font-size: $type-size-7;
+    font-size: $type-size-8;
+    padding: 0.15em 0.4em;
   }
 }
