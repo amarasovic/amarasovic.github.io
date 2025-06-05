@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "/images/profile.jpg"
+  avatar           :
   #bio              : "Assistant Professor &bull; University of Utah &bull; School of Computing"
   email            :
   links:
