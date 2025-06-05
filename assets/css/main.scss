@@ -47,21 +47,17 @@ a {
   color: #888 !important;
 }
 
-.contact-icons-separate {
-  position: absolute;
-  left: 1em;
-  top: -0.5em;
-  z-index: 100;
+.contact-links {
+  color: #999 !important;
+  font-size: 0.9em !important;
+  margin-top: 0.5em !important;
 }
 
-.contact-icons-separate a {
+.contact-links a {
   color: #666 !important;
-  margin-right: 0.8em !important;
-  font-size: 1.2em !important;
-  text-decoration: none !important;
 }
 
-.contact-icons-separate a:hover {
+.contact-links a:hover {
   color: #000 !important;
 }
 
