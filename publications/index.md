@@ -1,28 +1,23 @@
 ---
-layout: clean
+classes: wide
+layout: single
+author_profile: true
 title: Publications
-description: Research publications across NLP, explainable AI, and human-centered computing
 date:   2020-12-05 22:15:29 -0800
 ---
 
-<div class="publications">
+Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['25](https://www.anamarasovic.com/publications/#2025), ['24](https://www.anamarasovic.com/publications/#2024), ['23](https://www.anamarasovic.com/publications/#2023), ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
 
-<div class="year-section">
-  <h2>Preprints</h2>
-  
-  <div class="publication">
-    <div class="title">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</div>
-    <div class="authors">Martin Tutek, Fateme Hashemi Chaleshtori, <strong>Ana Marasović</strong>, Yonatan Belinkov</div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2502.14829" class="btn">Paper</a>
-    </div>
-  </div>
-</div>  
+## Preprints                        
+
+* Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
+<span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
+[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small}  
 
 
 ## Peer-Reviewed Publications
 
-### 2025 {#2025}
+### 2025
 
 * Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
 <span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
@@ -30,7 +25,7 @@ ICLR 2025 Workshop on Bidirectional Human-AI Alignment
 [Paper](https://arxiv.org/abs/2503.00069){: .btn .btn--info .btn--small}   
 
 
-### 2024 {#2024} 
+### 2024 
 
 * Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
 <span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>   
@@ -48,7 +43,7 @@ NAACL
 [Paper](https://arxiv.org/abs/2311.09694){: .btn .btn--info .btn--small}     
 
 
-### 2023 {#2023} 
+### 2023 
 
 * Fateme Hashemi Chaleshtori, Atreya Ghosal, and **Ana Marasović**                 
 <span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision-Making in NLP</span>             
@@ -66,7 +61,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 [Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small}               
 
 
-### 2022 {#2022}  
+### 2022  
 
 * Abhilasha Ravichander, Matt Gardner, **Ana Marasović**                       
 <span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation</span>                                                                                                                 
@@ -92,7 +87,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 *Findings of NAACL*                                                            
 [Paper](https://arxiv.org/abs/2111.08284){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/feb){: .btn .btn--danger .btn--small}                          
 
-### 2021 {#2021}
+### 2021
 
 * Sarah Wiegreffe<sup>\*</sup> and **Ana Marasović<sup>\*</sup>**       
 <span style="color:navy">Teach Me to Explain: A Review of Datasets for Explainable NLP</span>        
@@ -131,7 +126,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 *ACM FAccT*     
 [Paper](https://arxiv.org/abs/2010.07487){: .btn .btn--info .btn--small} 
 
-### 2020 {#2020}
+### 2020
 
 * **Ana Marasović**, Chandra Bhagavatula, Jae Sung Park, Ronan Le Bras, Noah A. Smith, Yejin Choi  
 <span style="color:navy">Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs</span>   
@@ -148,7 +143,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 *ACL* <span style="color:red">(honorable mention for best paper)</span>    
 [Paper](https://www.aclweb.org/anthology/2020.acl-main.740/){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/dont-stop-pretraining){: .btn .btn--danger .btn--small}
 
-### 2019 {#older} 
+### 2019 
 
 * Pradeep Dasigi, Nelson F. Liu, **Ana Marasović**, Noah A. Smith, Matt Gardner       
 <span style="color:navy">Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning</span>             
@@ -196,7 +191,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 <span style="color:navy">Modal Sense Classification at Large: Paraphrase-Driven Sense Projection, Semantically Enriched Classification Models and Cross-Genre Evaluations</span>  
 [Paper](https://www.aclweb.org/anthology/2016.lilt-14.3/){: .btn .btn--info .btn--small}
 
-## Blogs {#blogs}
+## Blogs
 
 * I wrote for The Gradient about generalization in NLP. You can find the article  [here](https://thegradient.pub/frontiers-of-generalization-in-natural-language-processing/).
 
