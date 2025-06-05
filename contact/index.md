@@ -38,8 +38,8 @@ Please note that **if you are already balancing work and study**, or **if you ar
 </details>                           
 <br/>
 
-<details>
-<summary markdown="span"><b>If you reach out, please send me an email with the following information:</b> [Click to expand!]</summary>
+  <details>
+  <summary markdown="span"><b>If you reach out, please send me an email with the following information:</b> [Click to expand!]</summary>
 
 1. What's your educational status? [undergrad, masters, PhD, other + which semester/year] **Note that I'm not taking MS students in the first semester of their masters.**
 2. Which research questions or problems interests you? Why is this lab the right place to conduct this research?  
@@ -59,8 +59,8 @@ Please note that **if you are already balancing work and study**, or **if you ar
 </details> 
 <br/>
 
-<details>
-<summary markdown="span"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
+  <details>
+  <summary markdown="span"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
 
 BS/MS students I've worked so far sign up for an independent study to get class credits. I very, very rarely fund BS/MS students as RAs, and in all cases I initiated the conversation about this.
 
@@ -79,8 +79,8 @@ While I'm honored to be considered as anyone's advisor, as most professors I don
 </details> 
 <br/>
 
-<details>
-<summary markdown="span"><b>Note on the Statement of Purpose</b> [Click to expand!]</summary>              
+  <details>
+  <summary markdown="span"><b>Note on the Statement of Purpose</b> [Click to expand!]</summary>              
 
 Through the years I noticed that many students believe they should focus on maximizing the number of publications to improve their PhD application. While demonstrating _research_ experience is indeed _very_ important, it is not all that matters. I strongly recommend reading "[Inside Ph.D. admissions: What readers look for in a Statement of Purpose](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)" by Nathan Schneider. 
 
@@ -91,8 +91,8 @@ I hope you can infer now how even research projects and activities that did not 
 </details> 
 <br/>
 
-<details>
-<summary markdown="span"><b>You have general questions about admissions</b> [Click to expand!]</summary>  
+  <details>
+  <summary markdown="span"><b>You have general questions about admissions</b> [Click to expand!]</summary>  
 Please refer to the Kahlert School of Computing's [Admissions webpage](https://www.cs.utah.edu/graduate/admissions/), and the [Admissions FAQ](https://docs.google.com/document/d/1pL9OmkkBcl-zx0anxoC1cJqyglzT1zjz9Dech4YSHpk). I'd encourage you to also explore the [Office of International Admissions website](https://admissions.utah.edu/international-graduate/). These pages explain the admissions deadline, requirements, and process.
  
 If you have further questions, please reach out to <a>grad-advisors@cs.utah.edu</a> about the program and to <a>grad-admission@cs.utah.edu</a> about admissions.  
