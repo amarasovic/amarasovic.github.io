@@ -8,23 +8,6 @@ date:   2022-09-30 22:15:29 -0800
 
 *If your question is answered here, I likely won't respond to you due to a large volume of emails.* 
 
-## Table of Contents
-
-- **Can I be your TA?**
-- **You're a University of Utah student interested in research opportunities**
-  - If you reach out, please send me an email with the following information
-  - You are a BS/MS student. Am I going to pay you?
-- **You are *not* a student at the University of Utah, but you want to be**
-  - Note on the Statement of Purpose
-  - You have general questions about admissions
-- **You're looking for postdoc positions**
-- **You're looking for internship positions**
-- **You're a high school student**
-- **How to pronounce your name?**
-- **Talk bio**
-
----
-
 {::options parse_block_html="true" /}
 
 <details>
@@ -52,10 +35,13 @@ Please note that **if you are already balancing work and study**, or **if you ar
 
 **Expectations:** Meeting regularly, making consistent progress, staying organized, and communicating clearly. Progress doesn't mean that every week you present new successful results and everything works smoothly. Research is rarely like that! Progress involves a weekly cycle where you formulate well-thought-out hypotheses, implement your current solution, gather results, and thoroughly analyze these outcomes. Implementation can take longer than expected due to a sequence of trial and error. In our meetings, you should present a meaningful interpretation of the outcomes, and ideally come up with suggestions for next steps.
 
-<details>
-<summary markdown="span" style="color:orange"><b>If you reach out, please send me an email with the following information:</b> [Click to expand!]</summary>
+</details>                           
+<br/>
 
-1. What's your educational status? [undergrad, masters, PhD, other + which semester/year] **Note that I’m not taking MS students in the first semester of their masters.**
+<details>
+<summary markdown="span"><b>If you reach out, please send me an email with the following information:</b> [Click to expand!]</summary>
+
+1. What's your educational status? [undergrad, masters, PhD, other + which semester/year] **Note that I'm not taking MS students in the first semester of their masters.**
 2. Which research questions or problems interests you? Why is this lab the right place to conduct this research?  
 3. What do you hope to get out of this collaboration?  
 4. Are you familiar with PyTorch? 
@@ -74,21 +60,14 @@ Please note that **if you are already balancing work and study**, or **if you ar
 <br/>
 
 <details>
-<summary markdown="span" style="color:orange"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
-
+<summary markdown="span"><b>You are a BS/MS student. Am I going to pay you?</b> [Click to expand!]</summary>              
 
 BS/MS students I've worked so far sign up for an independent study to get class credits. I very, very rarely fund BS/MS students as RAs, and in all cases I initiated the conversation about this.
 
-BS students: If things are going well and there is continued mutual interest in working together, I’m open to helping you with the [UROP proposal](https://our.utah.edu/research-scholarship-opportunities/urop/) or supervising your undergraduate thesis. 
+BS students: If things are going well and there is continued mutual interest in working together, I'm open to helping you with the [UROP proposal](https://our.utah.edu/research-scholarship-opportunities/urop/) or supervising your undergraduate thesis. 
 
 </details> 
 <br/>
-
-
-
-</details>                           
-<br/>
-
 
 <details>
 <summary markdown="span"><b>You are *not* a student at the University of Utah, but you want to be</b> [Click to expand!]</summary>              
@@ -97,9 +76,11 @@ If you're interested in doing a PhD in the School of Computing, *please apply*. 
 
 While I'm honored to be considered as anyone's advisor, as most professors I don't have bandwidth to answer every email that inform me about achivements and interest to work with me. In _very rare cases_, when an email is specific and demonstrates that the writer genuinely engaged with my work, I might respond. If I haven't responded to you, not only that sending more emails won't help, it actually overwhelms me, and I'd really appreciate if you don't do that. 
 
-<details>
-<summary markdown="span" style="color:orange"><b>Note on the Statement of Purpose</b> [Click to expand!]</summary>              
+</details> 
+<br/>
 
+<details>
+<summary markdown="span"><b>Note on the Statement of Purpose</b> [Click to expand!]</summary>              
 
 Through the years I noticed that many students believe they should focus on maximizing the number of publications to improve their PhD application. While demonstrating _research_ experience is indeed _very_ important, it is not all that matters. I strongly recommend reading "[Inside Ph.D. admissions: What readers look for in a Statement of Purpose](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)" by Nathan Schneider. 
 
@@ -110,24 +91,19 @@ I hope you can infer now how even research projects and activities that did not 
 </details> 
 <br/>
 
-
 <details>
-<summary markdown="span" style="color:orange"><b>You have general questions about admissions</b> [Click to expand!]</summary>  
-Please refer to the Kahlert School of Computing's [Admissions webpage](https://www.cs.utah.edu/graduate/admissions/), and the [Admissions FAQ](https://docs.google.com/document/d/1pL9OmkkBcl-zx0anxoC1cJqyglzT1zjz9Dech4YSHpk). I’d encourage you to also explore the [Office of International Admissions website](https://admissions.utah.edu/international-graduate/). These pages explain the admissions deadline, requirements, and process.
+<summary markdown="span"><b>You have general questions about admissions</b> [Click to expand!]</summary>  
+Please refer to the Kahlert School of Computing's [Admissions webpage](https://www.cs.utah.edu/graduate/admissions/), and the [Admissions FAQ](https://docs.google.com/document/d/1pL9OmkkBcl-zx0anxoC1cJqyglzT1zjz9Dech4YSHpk). I'd encourage you to also explore the [Office of International Admissions website](https://admissions.utah.edu/international-graduate/). These pages explain the admissions deadline, requirements, and process.
  
 If you have further questions, please reach out to <a>grad-advisors@cs.utah.edu</a> about the program and to <a>grad-admission@cs.utah.edu</a> about admissions.  
 
 </details> 
 <br/>
-</details>                  
-<br/>
 
 <details>
 <summary markdown="span"><b>You're looking for postdoc positions</b> [Click to expand!]</summary>              
 
-
 I'm not hiring postdocs yet. 
-
 
 </details> 
 <br/>
@@ -135,9 +111,7 @@ I'm not hiring postdocs yet.
 <details>
 <summary markdown="span"><b>You're looking for internship positions</b> [Click to expand!]</summary>              
 
-
 I don't have any internship opportunities to offer.
-
 
 </details> 
 <br/>
@@ -145,9 +119,7 @@ I don't have any internship opportunities to offer.
 <details>
 <summary markdown="span"><b>You're a high school student</b> [Click to expand!]</summary>              
 
-
 I don't work with high school students in any capacity.
-
 
 </details> 
 <br/>
