@@ -8,6 +8,23 @@ date:   2022-09-30 22:15:29 -0800
 
 *If your question is answered here, I likely won't respond to you due to a large volume of emails.* 
 
+## Table of Contents
+
+- **Can I be your TA?**
+- **You're a University of Utah student interested in research opportunities**
+  - If you reach out, please send me an email with the following information
+  - You are a BS/MS student. Am I going to pay you?
+- **You are *not* a student at the University of Utah, but you want to be**
+  - Note on the Statement of Purpose
+  - You have general questions about admissions
+- **You're looking for postdoc positions**
+- **You're looking for internship positions**
+- **You're a high school student**
+- **How to pronounce your name?**
+- **Talk bio**
+
+---
+
 {::options parse_block_html="true" /}
 
 <details>
