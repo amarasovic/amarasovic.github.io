@@ -74,12 +74,13 @@ a {
 
 .sidebar img {
   border-radius: 8px !important;
-  max-width: 100% !important;
-  width: auto !important;
-  height: auto !important;
+  display: none !important;
   
   @include breakpoint($small) {
+    display: block !important;
     max-width: 150px !important;
+    width: auto !important;
+    height: auto !important;
   }
   
   @include breakpoint($medium) {
