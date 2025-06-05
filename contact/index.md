@@ -6,7 +6,7 @@ title: "Contact/FAQ"
 date:   2022-09-30 22:15:29 -0800
 ---
 
-*If your inquiry is addressed there, I might prioritized other emails in my evergrowing inbox.* 
+*If your question is answered here, I likely won't respond to you due to a large volume of emails.* 
 
 {::options parse_block_html="true" /}
 
