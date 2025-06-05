@@ -121,7 +121,13 @@ a {
   }
 }
 
+/* Align content with site name for pages without custom sidebar */
 .page__content {
+  margin-left: 1em !important;
+}
+
+/* About page with custom sidebar keeps different alignment */
+.layout--single.has-sidebar .page__content {
   margin-left: 2em !important;
 }
 
