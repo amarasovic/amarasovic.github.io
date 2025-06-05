@@ -74,6 +74,21 @@ a {
 
 .sidebar img {
   border-radius: 8px !important;
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  
+  @include breakpoint($small) {
+    max-width: 150px !important;
+  }
+  
+  @include breakpoint($medium) {
+    max-width: 200px !important;
+  }
+  
+  @include breakpoint($large) {
+    max-width: 250px !important;
+  }
 }
 
 .sidebar a:hover {
