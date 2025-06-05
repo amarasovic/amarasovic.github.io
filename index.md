@@ -19,7 +19,7 @@ sidebar:
     <em>If your question is addressed there, I likely won't answer.</em>
   </div>
   <div>
-    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>I don’t respond to prospective student emails unless they contain _only_ specific questions not answered on my website.</strong></span>
+    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>I don't respond to emails that summarize your application profile or CV, even if you express interest in my work. Only reach out if you have specific questions not answered on my website.</strong></span>
   </div>
 </div>
 
