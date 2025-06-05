@@ -23,6 +23,7 @@ a {
 @include breakpoint($x-large) {
   .masthead__inner-wrap {
     padding-left: calc((100vw - #{$max-width}) / 2) !important;
+    align-items: flex-end !important;
   }
   
   .site-title {
