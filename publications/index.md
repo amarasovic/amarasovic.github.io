@@ -39,7 +39,7 @@ EMNLP Findings 2024
 * Oliver Bentham<sup>\*</sup>, Nathan Stringham<sup>\*</sup>, and **Ana Marasović**        
 <span style="color:navy">Chain-of-Thought Unfaithfulness as Disguised Accuracy</span>  
 TMLR                           
-[Paper](https://arxiv.org/abs/2402.14897){: .btn .btn--info .btn--small}  
+[Paper](https://arxiv.org/abs/2402.14897){: .btn .btn--info .btn--small} [Code](https://github.com/utahnlp/cot_disguised_accuracy){: .btn .btn--danger .btn--small}  
 
 * Ashim Gupta, Rishanth Rajendhran, Nathan Stringham, Vivek Srikumar, and **Ana Marasović**                       
 <span style="color:navy">Whispers of Doubt Amidst Echoes of Triumph in NLP Robustness</span>  
