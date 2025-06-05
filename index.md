@@ -4,14 +4,13 @@ classes: wide
 author_profile: true
 ---
 
-<div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px; font-size: 15px; line-height: 1.3;">
-  <div style="margin-bottom: 10px;">
+<div class="notice-banner">
+  <div class="notice-item">
     <strong>Please check out <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a> before reaching out</strong>, especially if you're a <strong>Utah student looking for research opportunities or TA-ing</strong>. 
-    <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em> <span style="color:#EA3C17;"></span>
-
+    <em>If your inquiry is addressed there, I might prioritize other emails in my ever-growing inbox.</em>
   </div>
-  <div style="margin-bottom: 10px;">
-    <strong>Fall'25 prospective PhD students:</strong> If you're interested in doing a PhD with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a>  & explicitly mention your interest in working with me. The committee carefully considers every application. <span style="color:#EA3C17;"><strong>I'm not responding to emails sharing your application profile.</strong></span>
+  <div class="notice-item">
+    <strong>Fall'25 prospective PhD students:</strong> If you're interested in doing a PhD with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><em>please apply</em></a> & explicitly mention your interest in working with me. The committee carefully considers every application. <strong class="highlight">I'm not responding to emails sharing your application profile.</strong>
   </div>
 </div>
 
@@ -28,12 +27,6 @@ I grew up in [Omiš, Croatia](https://youtu.be/Cnrjm-Le_vw). One would think I w
 
 ---
 
-<style type="text/css">
-      table, tr, td {
-        border: 0px;
-    }
-
-</style>
 
 <h3 align="center">News</h3>
 

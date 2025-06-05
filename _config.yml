@@ -12,13 +12,13 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Ana Marasović"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "NLP • Human-Centered AI • Interpretability"
 name                     : "Ana Marasović"
 description              : 
 url                      : https://amarasovic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
+  name             : "Ana Marasović"
   avatar           : "/images/profile.jpg"
-  #bio              : "Assistant Professor &bull; University of Utah &bull; School of Computing"
+  bio              : "Assistant Professor at University of Utah studying NLP, human-centered AI, and interpretability"
   location         : "Salt Lake City, USA"
   email            :
   links:

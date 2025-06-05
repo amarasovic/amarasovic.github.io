@@ -4,46 +4,298 @@
 
 @charset "utf-8";
 
-$link-color: #6600ff;
+// Modern color palette
+$link-color: #2563eb;
+$link-color-hover: #1d4ed8;
 $text-decoration: none;
+$accent-color: #3b82f6;
+$text-primary: #1f2937;
+$text-secondary: #6b7280;
+$background-light: #f8fafc;
+$border-light: #e5e7eb;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
-
-/*
-GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above!
-See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
-Anything you place after this point will therefore "cascade and override" the previous CSS styles.
-*/
-
-/*
-GS: Decrease font sizes of the entire website.
-Defaults for small, medium, large, and x-large screens are:
-16, 18, 20, and 22px, in that order. All other font sizes are "em"
-[typography unit](https://en.wikipedia.org/wiki/Em_(typography)) multipliers of these pixel
-(px) values, and are therefore relative to and changed by these singular pixel values.
-See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
-- It looks like the screen pixel sizes to move into each new "size" category are defined in
-  the "Breakpoints" section of "_variables.scss"?
-*/
+// Modern typography - larger, more readable fonts
 html {
-    font-size: 12px; // change to whatever
+    font-size: 16px;
   
     @include breakpoint($small) {
-      font-size: 12px; // change to whatever
+      font-size: 16px;
     }
   
     @include breakpoint($medium) {
-      font-size: 14px; // change to whatever
+      font-size: 17px;
     }
   
     @include breakpoint($large) {
-      font-size: 16px; // change to whatever
+      font-size: 18px;
     }
   
     @include breakpoint($x-large) {
-      font-size: 18px; // change to whatever
+      font-size: 19px;
     }
-  }
+}
+
+// Modern body styling
+body {
+    line-height: 1.7;
+    color: $text-primary;
+}
+
+// Enhanced link styling
+a {
+    color: $link-color;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    
+    &:hover {
+        color: $link-color-hover;
+    }
+}
+
+// Modern heading styles
+h1, h2, h3, h4, h5, h6 {
+    color: $text-primary;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 1rem;
+}
+
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.875rem; }
+h3 { font-size: 1.5rem; }
+
+// Modern news section
+.news-table {
+    border: none;
+    width: 100%;
+    margin: 2rem 0;
+    
+    tr {
+        border: none;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        margin-bottom: 1rem;
+        transition: all 0.2s ease;
+        
+        &:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            transform: translateY(-2px);
+        }
+    }
+    
+    td {
+        border: none;
+        padding: 1.5rem;
+        vertical-align: top;
+        
+        &:first-child {
+            background: $background-light;
+            border-radius: 12px 0 0 12px;
+            font-weight: 600;
+            color: $accent-color;
+            min-width: 120px;
+        }
+        
+        &:last-child {
+            border-radius: 0 12px 12px 0;
+        }
+    }
+}
+
+// Modern notice styling (for the top banner)
+.notice-banner {
+    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+    border: 1px solid #7dd3fc;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 8px rgba(59, 130, 246, 0.1);
+    
+    .notice-item {
+        margin-bottom: 1rem;
+        
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+    
+    .highlight {
+        color: #dc2626;
+    }
+}
+
+// Enhanced sidebar styling
+.sidebar {
+    .author__avatar img {
+        border-radius: 50%;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        transition: transform 0.2s ease;
+        
+        &:hover {
+            transform: scale(1.05);
+        }
+    }
+}
+
+// Modern button styling
+.btn {
+    border-radius: 8px;
+    transition: all 0.2s ease;
+    font-weight: 500;
+    
+    &:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+}
+
+// Enhanced navigation
+.masthead {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid $border-light;
+    
+    .site-title {
+        font-weight: 700;
+    }
+}
+
+.greedy-nav {
+    a {
+        font-weight: 500;
+        transition: color 0.2s ease;
+    }
+}
+
+// Modern spacing
+.page__content {
+    margin-bottom: 3rem;
+    
+    p {
+        margin-bottom: 1.5rem;
+    }
+}
+
+// Enhanced content styling
+.page__content {
+    h3[align="center"] {
+        text-align: center;
+        font-size: 1.75rem;
+        margin: 2.5rem 0 2rem 0;
+        color: $text-primary;
+        font-weight: 700;
+    }
+}
+
+// Modern footer
+.page__footer {
+    background: $background-light;
+    border-top: 1px solid $border-light;
+    
+    .page__footer-copyright {
+        color: $text-secondary;
+    }
+}
+
+// Enhanced author bio in sidebar
+.author__bio {
+    color: $text-secondary;
+    font-size: 0.9em;
+    line-height: 1.6;
+}
+
+// Smooth scrolling
+html {
+    scroll-behavior: smooth;
+}
+
+// Enhanced details/summary styling for FAQ
+details {
+    margin-bottom: 1.5rem;
+    border: 1px solid $border-light;
+    border-radius: 8px;
+    background: #fff;
+    
+    summary {
+        padding: 1rem 1.5rem;
+        cursor: pointer;
+        font-weight: 600;
+        border-radius: 8px;
+        transition: background-color 0.2s ease;
+        
+        &:hover {
+            background: $background-light;
+        }
+        
+        &[style*="color:orange"] {
+            color: #ea580c !important;
+        }
+    }
+    
+    > *:not(summary) {
+        padding: 0 1.5rem 1.5rem 1.5rem;
+    }
+}
+
+// Publications styling
+.page__content {
+    span[style*="color:navy"] {
+        color: $text-primary !important;
+        font-weight: 600;
+    }
+    
+    .btn--info {
+        background-color: $accent-color;
+        border-color: $accent-color;
+        
+        &:hover {
+            background-color: $link-color-hover;
+            border-color: $link-color-hover;
+        }
+    }
+}
+
+// Focus states for accessibility
+a:focus, button:focus, summary:focus {
+    outline: 2px solid $accent-color;
+    outline-offset: 2px;
+}
+
+// Responsive improvements
+@media (max-width: 768px) {
+    .news-table {
+        tr {
+            display: block;
+            margin-bottom: 1.5rem;
+        }
+        
+        td {
+            display: block;
+            border-radius: 0;
+            
+            &:first-child {
+                border-radius: 12px 12px 0 0;
+                padding-bottom: 0.75rem;
+                min-width: auto;
+            }
+            
+            &:last-child {
+                border-radius: 0 0 12px 12px;
+                padding-top: 0.75rem;
+            }
+        }
+    }
+    
+    .notice-banner {
+        padding: 1rem;
+        font-size: 0.9rem;
+    }
+    
+    h1 { font-size: 1.875rem; }
+    h2 { font-size: 1.5rem; }
+    h3 { font-size: 1.25rem; }
+}
