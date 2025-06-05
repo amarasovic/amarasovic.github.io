@@ -62,7 +62,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 * Jack Hessel, **Ana Marasović**, Jena D Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi                       
 <span style="color:navy">Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest</span>               
 *ACL* <span style="color:red"> (best paper award 🌟)</span>                                           
-[Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small}               
+[Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small} [Code](https://github.com/jmhessel/caption_contest_corpus){: .btn .btn--danger .btn--small} [Dataset](https://huggingface.co/datasets/jmhessel/newyorker_caption_contest){: .btn .btn--warning .btn--small}               
 
 
 ### 2022  
