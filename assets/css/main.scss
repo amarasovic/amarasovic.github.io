@@ -7,18 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;700&display=swap');
 @import url('https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css');
 
-// New color palette from Coolors
-$cream: #FFF8F0;
-$deep-red: #9E2B25;
-$dark-purple: #51355A;
-$very-dark-purple: #2A0C4E;
-$light-green: #F5F8DE;
-
-// Override default colors
-$background-color: $cream;
-$text-color: $very-dark-purple;
-$primary-color: $deep-red;
-$link-color: $dark-purple;
+$link-color: #6600ff;
 $text-decoration: none;
 
 $sans-serif: "Roboto Slab", Georgia, Times, serif;
@@ -36,7 +25,7 @@ a {
   justify-content: flex-start !important;
   flex-direction: column !important;
   align-items: flex-start !important;
-  color: $very-dark-purple !important;
+  color: #000 !important;
 }
 
 .site-subtitle {
@@ -47,35 +36,35 @@ a {
 }
 
 .title-line {
-  color: $dark-purple !important;
+  color: #444 !important;
 }
 
 .affiliation-line {
-  color: $deep-red !important;
+  color: #666 !important;
 }
 
 .research-line {
-  color: $dark-purple !important;
+  color: #888 !important;
 }
 
 .email-line {
-  color: $deep-red !important;
+  color: #666 !important;
   font-size: 0.9em !important;
   margin-top: 0.5em !important;
 }
 
 .contact-line {
-  color: $dark-purple !important;
+  color: #999 !important;
   font-size: 0.9em !important;
   margin-top: 0.5em !important;
 }
 
 .contact-line a {
-  color: $deep-red !important;
+  color: #666 !important;
 }
 
 .contact-line a:hover {
-  color: $very-dark-purple !important;
+  color: #000 !important;
 }
 
 
@@ -88,7 +77,7 @@ a {
 }
 
 .sidebar a:hover {
-  color: $very-dark-purple !important;
+  color: #000 !important;
 }
 
 .page__content {
