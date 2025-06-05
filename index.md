@@ -24,11 +24,11 @@ sidebar:
 </div>
 
 
-Hello! Bok! I'm an assistant professor at the University of Utah, Kahlert School of Computing, where I co-lead UtahNLP.
+_Hello! Bok!_ I'm an assistant professor at the University of Utah, Kahlert School of Computing, where I co-lead UtahNLP.
 
 I study how to build AI technologies that support human decision-making, communication, and creativity. 
 
-I examine where such assistance is valuable, then create benchmarks that test how reliably AI performs in related tasksthat sometimes span multiple modalities (language, images, audio). I'm increasingly interested in teaming people with agents and applications in higher education through my role as an RAI Initiative Faculty Fellow.
+I look at where such assistance can be helpful and create benchmarks that test how reliably AI performs on related tasks across language, images, and audio. I'm increasingly interested in teaming people with agents and applications in higher education through my role as an RAI Initiative Faculty Fellow.
 
 Another central line of my work related to this overarching goal, studies how to translate what AI models “know” into reasoning that people can follow and act on. My most prominent contributions in this area examine whether a model’s verbal explanations align with its internal computations.
 
