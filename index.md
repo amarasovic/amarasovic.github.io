@@ -5,10 +5,9 @@ author_profile: false
 sidebar:
   - title: " "
     text: '<div style="text-align: center; margin-bottom: 1em;">
-            <a href="mailto:ana.marasovic@utah.edu" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="fas fa-envelope-square"></i></a>
-            <a href="https://scholar.google.com/citations?hl=en&user=3W6OnfAAAAAJ" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="ai ai-google-scholar"></i></a>
-            <a href="https://www.semanticscholar.org/author/Ana-Marasovi%C4%87/3451494" style="color: #666; margin: 0 0.4em; font-size: 1.3em;"><i class="ai ai-semantic-scholar"></i></a>
-            <a href="https://bsky.app/profile/anamarasovic.bsky.social" style="color: #666; margin: 0 0.4em; font-size: 1.3em; font-weight: bold; font-family: Arial, sans-serif; text-decoration: none;">B</a>
+            <a href="mailto:ana.marasovic@utah.edu" style="color: #666; margin: 0 0.5em; font-size: 1.3em;"><i class="fas fa-envelope-square"></i></a>
+            <a href="https://scholar.google.com/citations?hl=en&user=3W6OnfAAAAAJ" style="color: #666; margin: 0 0.5em; font-size: 1.3em;"><i class="ai ai-google-scholar"></i></a>
+            <a href="https://www.semanticscholar.org/author/Ana-Marasovi%C4%87/3451494" style="color: #666; margin: 0 0.5em; font-size: 1.3em;"><i class="ai ai-semantic-scholar"></i></a>
           </div>'
     image: "/images/profile.jpg"
     image_alt: "Ana Marasović"
