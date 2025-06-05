@@ -61,7 +61,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 
 * Jack Hessel, **Ana Marasović**, Jena D Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi                       
 <span style="color:navy">Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest</span>               
-*ACL* <span style="color:red"> (best paper award 🌟)</span>                                           
+*ACL* <span style="color:red">(best paper award 🌟)</span>                                           
 [Paper](https://arxiv.org/abs/2209.06293){: .btn .btn--info .btn--small} [Code](https://github.com/jmhessel/caption_contest_corpus){: .btn .btn--danger .btn--small} [Dataset](https://huggingface.co/datasets/jmhessel/newyorker_caption_contest){: .btn .btn--warning .btn--small}               
 
 
@@ -70,7 +70,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 * Abhilasha Ravichander, Matt Gardner, **Ana Marasović**                       
 <span style="color:navy">CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation</span>                                                                                                                 
 *EMNLP*                      
-<span style="color:red"> (SoCal NLP Symposium best paper award)</span>                  
+<span style="color:red"> (SoCal NLP Symposium best paper award 🌟)</span>                  
 [Paper](https://arxiv.org/abs/2211.00295){: .btn .btn--info .btn--small}   [Dataset](https://github.com/AbhilashaRavichander/CondaQA){: .btn .btn--warning .btn--small}                        
 
 
@@ -108,7 +108,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 * Jesse Dodge, Maarten Sap, **Ana Marasović**, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Matt Gardner                  
 <span style="color:navy">Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus</span>              
 *EMNLP*                                                
-[Paper](https://arxiv.org/abs/2104.08758){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Repo](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}                           
+[Paper](https://arxiv.org/abs/2104.08758){: .btn .btn--info .btn--small} [Demo](https://c4-search.apps.allenai.org/){: .btn .btn--success .btn--small} [Code](https://github.com/allenai/c4-documentation){: .btn .btn--danger .btn--small}                           
          
 * Kaiser Sun and **Ana Marasović**                                                    
 <span style="color:navy">Effective Attention Sheds Light On Interpretability</span>                                       
@@ -118,7 +118,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 * Alexis Ross, **Ana Marasović**, Matthew E. Peters   
 <span style="color:navy">Explaining NLP Models via Minimal Contrastive Editing (MiCE)</span>        
 *Findings of ACL*                
-[Paper](https://arxiv.org/abs/2012.13985){: .btn .btn--info .btn--small} 
+[Paper](https://arxiv.org/abs/2012.13985){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/mice){: .btn .btn--danger .btn--small} 
 
 * Alexander M. Hoyle, **Ana Marasović**, Noah A. Smith         
 <span style="color:navy">Promoting Graph Awareness in Linearized Graph-to-Text Generation</span>  
@@ -144,7 +144,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
    
 * Suchin Gururangan, **Ana Marasović**, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, Noah A. Smith     
 <span style="color:navy">Don't Stop Pretraining: Adapt Language Models to Domains and Tasks</span>           
-*ACL* <span style="color:red">(honorable mention for best paper)</span>    
+*ACL* <span style="color:red">(honorable mention for best paper 🌟)</span>    
 [Paper](https://www.aclweb.org/anthology/2020.acl-main.740/){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/dont-stop-pretraining){: .btn .btn--danger .btn--small}
 
 ### 2019 
