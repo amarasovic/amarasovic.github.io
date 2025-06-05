@@ -16,7 +16,9 @@ $header-font-family: $sans-serif;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
+a {
+  text-decoration: none !important;
+}
 
 /*
 GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above!
