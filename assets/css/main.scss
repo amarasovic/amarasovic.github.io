@@ -14,6 +14,10 @@ $sans-serif: "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvet
 $global-font-family: $sans-serif;
 $header-font-family: $sans-serif;
 
+body {
+  font-weight: 500;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
