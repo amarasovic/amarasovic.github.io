@@ -16,7 +16,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 * Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
 <span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
-[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small}  
+[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  
 
 
 ## Peer-Reviewed Publications
