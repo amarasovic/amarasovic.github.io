@@ -78,11 +78,13 @@ You can have a great record, but you also must demonstrate good focus and fit. A
 
 I hope you can infer now how even research projects and activities that did not result in a publication can be useful in your statement. I linked some resources for how to improve these skills [here](https://www.anamarasovic.com/mentoring/), and you can find examples of great statements [here](https://cs-sop.org/). 
 
-### You have general questions about admissions
+### You have general questions about admissions (not specifically to work with me)
+
+Admissions are not something I personally handle and do not have time to meet to talk about them.
 
 Please refer to the Kahlert School of Computing's [Admissions webpage](https://www.cs.utah.edu/graduate/admissions/), and the [Admissions FAQ](https://docs.google.com/document/d/1pL9OmkkBcl-zx0anxoC1cJqyglzT1zjz9Dech4YSHpk). I'd encourage you to also explore the [Office of International Admissions website](https://admissions.utah.edu/international-graduate/). These pages explain the admissions deadline, requirements, and process.
  
-If you have further questions, please reach out to <a>grad-advisors@cs.utah.edu</a> about the program and to <a>grad-admission@cs.utah.edu</a> about admissions.  
+If you have further questions, please reach out to <a>grad-advisors@cs.utah.edu</a> about the program and to <a>grad-admission@cs.utah.edu</a> about admissions. Sorry if they don't respond, but I can't do anything about that. 
 
 ## You're looking for postdoc positions
 
