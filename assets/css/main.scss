@@ -20,6 +20,16 @@ a {
   text-decoration: none !important;
 }
 
+@include breakpoint($x-large) {
+  .masthead__inner-wrap {
+    padding-left: calc((100vw - #{$max-width}) / 2 + 1em) !important;
+  }
+  
+  #main {
+    padding-left: calc((100vw - #{$max-width}) / 2 + 1em) !important;
+  }
+}
+
 .site-title {
   justify-content: flex-start !important;
   flex-direction: column !important;
