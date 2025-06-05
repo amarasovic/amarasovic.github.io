@@ -15,7 +15,7 @@ sidebar:
 
 <div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px; font-size: 15px; line-height: 1.3; margin-bottom: 2em;">
   <div style="margin-bottom: 10px;">
-    <strong>Please check the <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a> before reaching out</strong>, especially if you're a <strong>Utah student seeking research opportunities</strong> or <strong>TA-ing</strong>. 
+    <strong>Please check the <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a> before reaching out</strong>, especially if you're a Utah student. 
     <em>If your question is addressed there, I likely won't respond.</em>
   </div>
   <div>
