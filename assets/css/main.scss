@@ -8,17 +8,17 @@
 @import url('https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css');
 
 // New color palette from Coolors
-$dark-blue: #485696;
-$light-gray: #E7E7E7;
-$light-orange: #F9C784;
-$orange: #FC7A1E;
-$red-orange: #F24C00;
+$coral-red: #EE6352;
+$bright-blue: #08B2E3;
+$light-lavender: #EFE9F4;
+$green: #57A773;
+$dark-blue-grey: #484D6D;
 
 // Override default colors
 $background-color: #fff;
-$text-color: $dark-blue;
-$primary-color: $orange;
-$link-color: $red-orange;
+$text-color: #000;
+$primary-color: $coral-red;
+$link-color: $bright-blue;
 $text-decoration: none;
 
 $sans-serif: "Roboto Slab", Georgia, Times, serif;
@@ -36,7 +36,7 @@ a {
   justify-content: flex-start !important;
   flex-direction: column !important;
   align-items: flex-start !important;
-  color: $dark-blue !important;
+  color: #000 !important;
 }
 
 .site-subtitle {
@@ -47,35 +47,35 @@ a {
 }
 
 .title-line {
-  color: $dark-blue !important;
+  color: #444 !important;
 }
 
 .affiliation-line {
-  color: $orange !important;
+  color: $coral-red !important;
 }
 
 .research-line {
-  color: $dark-blue !important;
+  color: #666 !important;
 }
 
 .email-line {
-  color: $red-orange !important;
+  color: $green !important;
   font-size: 0.9em !important;
   margin-top: 0.5em !important;
 }
 
 .contact-line {
-  color: $dark-blue !important;
+  color: #666 !important;
   font-size: 0.9em !important;
   margin-top: 0.5em !important;
 }
 
 .contact-line a {
-  color: $orange !important;
+  color: $bright-blue !important;
 }
 
 .contact-line a:hover {
-  color: $red-orange !important;
+  color: $coral-red !important;
 }
 
 
@@ -88,7 +88,7 @@ a {
 }
 
 .sidebar a:hover {
-  color: $red-orange !important;
+  color: $coral-red !important;
 }
 
 .page__content {
