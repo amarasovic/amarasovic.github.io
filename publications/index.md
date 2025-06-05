@@ -102,7 +102,7 @@ The workshop “XAI in Action: Past, Present, and Future Applications” co-cola
 * Sarah Wiegreffe, **Ana Marasović**, Noah A. Smith    
 <span style="color:navy">Measuring Association Between Labels and Free-Text Rationales</span>                        
 *EMNLP*                                                                          
-[Paper](https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small}  
+[Paper](https://arxiv.org/abs/2010.12762){: .btn .btn--info .btn--small} [Code](https://github.com/allenai/label_rationale_association){: .btn .btn--danger .btn--small}  
 
 
 * Jesse Dodge, Maarten Sap, **Ana Marasović**, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Matt Gardner                  
