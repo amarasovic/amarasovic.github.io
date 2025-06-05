@@ -48,9 +48,9 @@ a {
 }
 
 .contact-icons-separate {
-  position: absolute;
-  top: -1.5em;
+  position: relative;
   left: 1em;
+  margin-top: -2em;
   z-index: 100;
 }
 
