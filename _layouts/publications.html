@@ -1,0 +1,103 @@
+---
+layout: modern
+---
+
+<div class="page">
+  <section style="padding: var(--space-4xl) 0; background: var(--bg-secondary);">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 0 var(--space-lg);">
+      <div style="text-align: center; margin-bottom: var(--space-2xl);">
+        <h1 style="font-size: var(--text-4xl); margin-bottom: var(--space-md);">{{ page.title }}</h1>
+        <p style="font-size: var(--text-lg); color: var(--text-secondary);">
+          Research publications across NLP, explainable AI, and human-centered computing
+        </p>
+      </div>
+      
+      <!-- Quick Navigation -->
+      <div style="background: var(--bg-primary); border-radius: var(--radius-lg); padding: var(--space-lg); box-shadow: var(--shadow-sm); margin-bottom: var(--space-2xl);">
+        <p style="margin-bottom: var(--space-md); font-weight: 600;">Jump to:</p>
+        <div style="display: flex; flex-wrap: wrap; gap: var(--space-sm);">
+          <a href="#preprints" class="btn btn-sm btn-secondary">Preprints</a>
+          <a href="#2025" class="btn btn-sm btn-secondary">2025</a>
+          <a href="#2024" class="btn btn-sm btn-secondary">2024</a>
+          <a href="#2023" class="btn btn-sm btn-secondary">2023</a>
+          <a href="#2022" class="btn btn-sm btn-secondary">2022</a>
+          <a href="#2021" class="btn btn-sm btn-secondary">2021</a>
+          <a href="#2020" class="btn btn-sm btn-secondary">2020</a>
+          <a href="#older" class="btn btn-sm btn-secondary">Earlier</a>
+          <a href="#blogs" class="btn btn-sm btn-secondary">Blogs</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding: var(--space-2xl) 0;">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 0 var(--space-lg);">
+      <div class="publications-content">
+        {{ content }}
+      </div>
+    </div>
+  </section>
+</div>
+
+<style>
+.publications-content {
+  h2 {
+    font-size: var(--text-2xl);
+    color: var(--color-primary);
+    margin: var(--space-3xl) 0 var(--space-xl) 0;
+    padding-bottom: var(--space-sm);
+    border-bottom: 2px solid var(--color-primary-light);
+  }
+  
+  h3 {
+    font-size: var(--text-xl);
+    color: var(--text-primary);
+    margin: var(--space-2xl) 0 var(--space-lg) 0;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    background: var(--bg-primary);
+    border: 1px solid var(--color-neutral-200);
+    border-radius: var(--radius-lg);
+    padding: var(--space-xl);
+    margin-bottom: var(--space-lg);
+    transition: all var(--transition-normal);
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-lg);
+      border-color: var(--color-primary);
+    }
+  }
+  
+  span[style*="color:navy"] {
+    display: block;
+    font-size: var(--text-lg);
+    font-weight: 600;
+    color: var(--text-primary) !important;
+    margin: var(--space-sm) 0 var(--space-md) 0;
+    line-height: 1.4;
+  }
+  
+  .btn {
+    margin-right: var(--space-sm);
+    margin-bottom: var(--space-sm);
+  }
+  
+  span[style*="color:red"] {
+    display: inline-block;
+    background: var(--color-error);
+    color: white !important;
+    padding: var(--space-xs) var(--space-sm);
+    border-radius: var(--radius-sm);
+    font-size: var(--text-xs);
+    font-weight: 600;
+    margin-left: var(--space-sm);
+  }
+}
+</style>

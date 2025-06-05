@@ -1,7 +1,5 @@
 ---
-classes: wide
-layout: single
-author_profile: true
+layout: modern
 title: "Contact/FAQ" 
 date:   2022-09-30 22:15:29 -0800
 ---
