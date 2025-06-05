@@ -96,6 +96,31 @@ a {
   color: #000 !important;
 }
 
+/* Force sidebar and content to stay side-by-side on smaller screens */
+@include breakpoint($small) {
+  .sidebar {
+    float: left !important;
+    width: 30% !important;
+    margin-right: 2% !important;
+  }
+  
+  .page {
+    float: right !important;
+    width: 68% !important;
+  }
+}
+
+@include breakpoint($medium) {
+  .sidebar {
+    width: 25% !important;
+    margin-right: 2% !important;
+  }
+  
+  .page {
+    width: 73% !important;
+  }
+}
+
 .page__content {
   margin-left: 2em !important;
 }
