@@ -64,15 +64,19 @@ a {
 }
 
 .masthead__inner-wrap {
-  justify-content: flex-start !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
 }
 
 .masthead__menu {
-  width: auto !important;
+  width: 100% !important;
+  order: 2 !important;
 }
 
 .site-title {
-  flex: none !important;
+  order: 1 !important;
+  width: 100% !important;
+  margin-bottom: 1em !important;
 }
 
 .sidebar .author__urls {
