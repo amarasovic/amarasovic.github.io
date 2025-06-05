@@ -10,6 +10,10 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints                        
 
+* Alexander Gill, Abhilasha Ravichander, **Ana Marasović**                 
+<span style="color:navy">What Has Been Lost with Synthetic Evaluation?</span>                          
+[Paper](https://arxiv.org/abs/2505.22830){: .btn .btn--info .btn--small}  
+
 * Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
 <span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
 [Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small}  
