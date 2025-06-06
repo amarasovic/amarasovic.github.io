@@ -4,7 +4,7 @@ classes: wide
 author_profile: false
 sidebar:
   - title: " "
-    text: '<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1em; gap: 1em;">
+    text: '<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1em; margin-left: -6px; gap: 1em;">
             <a href="mailto:ana.marasovic@utah.edu" style="color: #666; font-size: 1.3em;"><i class="fas fa-envelope-square"></i></a>
             <a href="https://scholar.google.com/citations?hl=en&user=3W6OnfAAAAAJ" style="color: #666; font-size: 1.3em;"><i class="ai ai-google-scholar"></i></a>
             <a href="https://www.semanticscholar.org/author/Ana-Marasovi%C4%87/3451494" style="color: #666; font-size: 1.3em;"><i class="ai ai-semantic-scholar"></i></a>
