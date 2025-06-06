@@ -4,8 +4,8 @@ classes: wide
 author_profile: false
 sidebar:
   - title: " "
-    text: '<div style="text-align: center;">
-            <img src="/images/profile.jpg" alt="Ana Marasović" style="max-width: 140px; border-radius: 4px; padding: 5px; border: 1px solid #d3d3d3; margin-bottom: 1em;">
+    text: '<div style="display: flex; flex-direction: column; align-items: center;">
+            <img src="/images/profile.jpg" alt="Ana Marasović" style="max-width: 140px; border-radius: 4px; margin-bottom: 1em;">
             <div style="display: flex; justify-content: center; align-items: center; gap: 1em;">
               <a href="mailto:ana.marasovic@utah.edu" style="color: #666; font-size: 1.3em;"><i class="fas fa-envelope-square"></i></a>
               <a href="https://scholar.google.com/citations?hl=en&user=3W6OnfAAAAAJ" style="color: #666; font-size: 1.3em;"><i class="ai ai-google-scholar"></i></a>
