@@ -11,27 +11,28 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 **Utah MS/BS students interested in research opportunities, please ensure to review the contact/FAQ section before visiting my office without an appointment.**
 
-## 🍍ANANAS🍍 
-
-**PhD Reasearchers**           
+**PhD Researchers**           
 
 * [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)   
-* [Nate Stringham](https://n8stringham.github.io/about.html) 
+* [Nate Stringham](https://n8stringham.github.io/about.html)
+* Alex Gill
+* Braden Fiedel 
 
 
 **Undergraduate Researchers**         
-* ...                           
+* Ryhor Pryslopski                           
 
 **MS Researchers** 
 
-* Purbid Bambroo
-* Alex Gill                                          
+* Purbid Bambroo                                          
 
 **Current and Past Student Collaborators**          
 
 * [Michael Clemens](http://mclem.me/)                  
 * [Ashim Gupta](https://ashim95.github.io/)     
-* [Akansha Kalra](https://akansha-kalra.github.io/) 
+* [Akansha Kalra](https://akansha-kalra.github.io/)
+* Atreya Ghosal
+* Zhichao Xu 
 
 ### Alumni
 
