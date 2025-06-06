@@ -41,6 +41,9 @@ Please note that **if you are already balancing work and study**, or **if you ar
 
 **Expectations:** Meeting regularly, making consistent progress, staying organized, and communicating clearly. Progress doesn't mean that every week you present new successful results and everything works smoothly. Research is rarely like that! Progress involves a weekly cycle where you formulate well-thought-out hypotheses, implement your current solution, gather results, and thoroughly analyze these outcomes. Implementation can take longer than expected due to a sequence of trial and error. In our meetings, you should present a meaningful interpretation of the outcomes, and ideally come up with suggestions for next steps.
 
+<span style="color:#EA3C17;"><strong>Please do not come to my office asking for RA-ship.</strong></span> Appreciate your understanding.
+
+
 ### If you reach out, please send me an email with the following information
 
 1. What's your educational status? [undergrad, masters, PhD, other + which semester/year] **Note that I'm not taking MS students in the first semester of their masters.**
