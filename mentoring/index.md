@@ -10,7 +10,7 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 **Utah MS/BS students interested in research opportunities, please ensure to review the contact/FAQ section before visiting my office without an appointment.**
 
 
-<img src="ananas.png" alt="DALL-E generated with a prompt: a pineapple-shaped student working with a laptop, digital art" style="float:right; margin:0 0 10px 10px; max-width:30%;" />
+<img src="ananas.png" alt="DALL-E generated with a prompt: a pineapple-shaped student working with a laptop, digital art" style="float:right; margin:0 0 10px 10px; max-width:200px; width:200px;" />
 
 ## 🍍ANANAS🍍 
 
