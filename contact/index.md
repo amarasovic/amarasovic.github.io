@@ -78,7 +78,7 @@ You can have a great record, but you also must demonstrate good focus and fit. A
 
 I hope you can infer now how even research projects and activities that did not result in a publication can be useful in your statement. I linked some resources for how to improve these skills [here](https://www.anamarasovic.com/mentoring/), and you can find examples of great statements [here](https://cs-sop.org/). 
 
-### You have general questions about admissions (not specifically to work with me)
+## You have general questions about admissions (not specifically to work with me)
 
 Admissions are not something I personally handle and do not have time to meet to talk about them.
 
