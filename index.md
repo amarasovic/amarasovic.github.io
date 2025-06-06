@@ -20,7 +20,7 @@ sidebar:
     <em>If your question is answered, I likely won't respond.</em>
   </div>
   <div>
-    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><strong>please apply</strong></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>Please don't email me to share your background.</strong></span>
+    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><strong>please apply</strong></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>Please don't email me to share your profile.</strong></span>
   </div>
 </div>
 
