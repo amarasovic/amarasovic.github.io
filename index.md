@@ -20,13 +20,13 @@ sidebar:
     <em>If your question is answered, I likely won't respond.</em>
   </div>
   <div>
-    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><strong>please apply</strong></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>Please don’t email me to share your background.</strong></span> <em>I won’t respond unless your message includes only specific questions not already covered on this site, or if we already know each other.</em>
+    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><strong>please apply</strong></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>Please don't email me to share your background.</strong></span>
   </div>
 </div>
 
 I'm an assistant professor at the University of Utah's Kahlert School of Computing, where I co-lead **UtahNLP** and run the **ANANAS** research group.
 
-I study how to build AI technologies that **support** human **decision-making**, **communication**, and **creativity**. I identify where such assistance is valuable and develop **benchmarks** to test how reliably AI performs on related tasks involving language, **images**, and **audio**. I'm increasingly focused on collaboration with **agents** and **applications in higher education** through my role as an RAI faculty fellow.
+I study how to build AI technologies that **support human decision-making**, **communication**, and **creativity**. I identify where such assistance is valuable and develop **benchmarks** to test how reliably AI performs on related tasks involving language, **images**, and **audio**. I'm increasingly focused on collaboration with **agents** and **applications in higher education** through my role as an RAI faculty fellow.
 
 A central thread of my work also explores how to translate what AI models “know” into reasoning that people can follow and act on. My most notable contributions in this area examine whether a model’s **verbal explanations are faithful** to its internal computations.
 
