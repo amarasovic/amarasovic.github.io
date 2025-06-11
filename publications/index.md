@@ -22,6 +22,11 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ### 2025
 
+* Jesse Woo, Fateme Hashemi Chaleshtori, **Ana Marasović**, Kenneth Marino          
+<span style="color:navy">BriefMe: A Legal NLP Benchmark for Assisting with Legal Briefs</span>                                        
+ACL Findings 2025                       
+[Paper](https://arxiv.org/abs/2506.06619){: .btn .btn--info .btn--small}   
+
 * Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
 <span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
 ICLR 2025 Workshop on Bidirectional Human-AI Alignment                       
