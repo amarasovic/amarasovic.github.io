@@ -15,7 +15,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 * Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
 <span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
-[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  
+[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  [Dataset](https://huggingface.co/datasets/jw4202/BriefMe){: .btn .btn--warning .btn--small} 
 
 
 ## Peer-Reviewed Publications
@@ -25,7 +25,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 * Jesse Woo<sup>\*</sup>, Fateme Hashemi Chaleshtori<sup>\*</sup>, **Ana Marasović**<sup>\*\*</sup>, Kenneth Marino<sup>\*\*</sup>         
 <span style="color:navy">BriefMe: A Legal NLP Benchmark for Assisting with Legal Briefs</span>                                        
 ACL Findings                                  
-[Paper](https://arxiv.org/abs/2506.06619){: .btn .btn--info .btn--small}   
+[Paper](https://arxiv.org/abs/2506.06619){: .btn .btn--info .btn--small} [Code](https://github.com/utahnlp/BriefMe){: .btn .btn--danger .btn--small}  
 
 * Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
 <span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
