@@ -22,9 +22,9 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ### 2025
 
-* Jesse Woo, Fateme Hashemi Chaleshtori, **Ana Marasović**, Kenneth Marino          
+* Jesse Woo<sup>\*</sup>, Fateme Hashemi Chaleshtori<sup>\*</sup>, **Ana Marasović**<sup>\*\*</sup>, Kenneth Marino<sup>\*\*</sup>         
 <span style="color:navy">BriefMe: A Legal NLP Benchmark for Assisting with Legal Briefs</span>                                        
-ACL Findings 2025                       
+ACL Findings                                  
 [Paper](https://arxiv.org/abs/2506.06619){: .btn .btn--info .btn--small}   
 
 * Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
@@ -37,7 +37,7 @@ ICLR 2025 Workshop on Bidirectional Human-AI Alignment
 
 * Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
 <span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>   
-EMNLP Findings 2024                                   
+EMNLP Findings                                                 
 [Paper](https://arxiv.org/abs/2407.03545){: .btn .btn--info .btn--small} [Code](https://github.com/utahnlp/nlp-explanation-utility-guideline/){: .btn .btn--danger .btn--small}  
 
 * Oliver Bentham<sup>\*</sup>, Nathan Stringham<sup>\*</sup>, and **Ana Marasović**        
