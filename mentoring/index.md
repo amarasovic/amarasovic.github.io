@@ -73,6 +73,7 @@ I had a pleasure to work with great undergraduate and PhD students during my tim
 
 [Every PhD is different by Maxwell Forbes](https://maxwellforbes.com/posts/every-phd-is-different/)
 
+[My Research Process: Understanding and Cultivating Research Taste by Neel Nanda](https://www.lesswrong.com/posts/Ldrss6o3tiKT6NdMm/my-research-process-understanding-and-cultivating-research)
 
 [Research Taste Exercises by Christopher Olah](http://colah.github.io/notes/taste/) 
 
