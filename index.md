@@ -26,7 +26,7 @@ sidebar:
 
 I'm an assistant professor at the University of Utah's Kahlert School of Computing, where I co-lead **UtahNLP** and run the **ANANAS** research group.
 
-I study how to build AI technologies that **support human decision-making**, **communication**, and **creativity**. I identify where such assistance is valuable and develop **benchmarks** to test how reliably AI performs on related tasks involving language, **images**, and **audio**. A central thread of my work also explores how to translate what AI models “know” into reasoning that people can follow and act on. My most notable contributions in this area examine whether a model’s **verbal explanations are faithful** to its internal computations. I'm increasingly focused on collaboration with **agents** and **applications in higher education** through my role as an RAI faculty fellow.
+I study how to build AI technologies that **support human decision-making**, **communication**, and **creativity**. I study where such assistance is valuable and develop **benchmarks** to test how reliably AI performs on related tasks involving language, **images**, and **audio**. A central thread of my work also explores how to translate what AI models “know” into reasoning that people can follow and act on. My most notable contributions in this area examine whether a model’s **verbal explanations are faithful** to its internal computations. I'm increasingly focused on collaboration with **agents** and **applications in higher education** through my role as an RAI faculty fellow.
 
 
 
