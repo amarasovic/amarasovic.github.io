@@ -27,6 +27,11 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 ACL Findings                                  
 [Paper](https://arxiv.org/abs/2506.06619){: .btn .btn--info .btn--small} [Code](https://github.com/utahnlp/BriefMe){: .btn .btn--danger .btn--small}  [Dataset](https://huggingface.co/datasets/jw4202/BriefMe){: .btn .btn--warning .btn--small} 
 
+* Michael Clemens, **Ana Marasović**
+<span style="color:navy">MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music Mixing</span>
+CoLM
+[Paper](https://arxiv.org/abs/2507.06329){: .btn .btn--info .btn--small} [Code](https://github.com/mclemcrew/MixAssist){: .btn .btn--danger .btn--small} [Dataset](https://huggingface.co/datasets/mclemcrew/MixAssist){: .btn .btn--warning .btn--small}
+
 * Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
 <span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
 ICLR 2025 Workshop on Bidirectional Human-AI Alignment                       
