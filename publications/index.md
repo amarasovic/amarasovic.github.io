@@ -27,6 +27,10 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 ACL Findings                                  
 [Paper](https://arxiv.org/abs/2506.06619){: .btn .btn--info .btn--small} [Code](https://github.com/utahnlp/BriefMe){: .btn .btn--danger .btn--small}  [Dataset](https://huggingface.co/datasets/jw4202/BriefMe){: .btn .btn--warning .btn--small} 
 
+* Purbid Bambroo, Daniel S. Brown, **Ana Marasović**
+<span style="color:navy">CONECUT: Scalable Removal of Preference Redundancy</span>
+Workshop on Socially Responsible Language Modelling Research (SoLaR)
+
 * Michael Clemens, **Ana Marasović**
 <span style="color:navy">MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music Mixing</span>
 CoLM
