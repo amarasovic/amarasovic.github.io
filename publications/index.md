@@ -22,19 +22,19 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ### 2025
 
+* Purbid Bambroo, Daniel S. Brown, **Ana Marasović**                 
+<span style="color:navy">CONECUT: Scalable Removal of Preference Redundancy</span>                              
+Workshop on Socially Responsible Language Modelling Research (SoLaR)
+
+* Michael Clemens and **Ana Marasović**
+<span style="color:navy">MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music Mixing</span>                         
+CoLM                            
+[Paper](https://arxiv.org/abs/2507.06329){: .btn .btn--info .btn--small} [Code](https://github.com/mclemcrew/MixAssist){: .btn .btn--danger .btn--small} [Dataset](https://huggingface.co/datasets/mclemcrew/MixAssist){: .btn .btn--warning .btn--small}
+
 * Jesse Woo<sup>\*</sup>, Fateme Hashemi Chaleshtori<sup>\*</sup>, **Ana Marasović**<sup>\*\*</sup>, Kenneth Marino<sup>\*\*</sup>         
 <span style="color:navy">BriefMe: A Legal NLP Benchmark for Assisting with Legal Briefs</span>                                        
 ACL Findings                                  
 [Paper](https://arxiv.org/abs/2506.06619){: .btn .btn--info .btn--small} [Code](https://github.com/utahnlp/BriefMe){: .btn .btn--danger .btn--small}  [Dataset](https://huggingface.co/datasets/jw4202/BriefMe){: .btn .btn--warning .btn--small} 
-
-* Purbid Bambroo, Daniel S. Brown, **Ana Marasović**
-<span style="color:navy">CONECUT: Scalable Removal of Preference Redundancy</span>
-Workshop on Socially Responsible Language Modelling Research (SoLaR)
-
-* Michael Clemens, **Ana Marasović**
-<span style="color:navy">MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music Mixing</span>
-CoLM
-[Paper](https://arxiv.org/abs/2507.06329){: .btn .btn--info .btn--small} [Code](https://github.com/mclemcrew/MixAssist){: .btn .btn--danger .btn--small} [Dataset](https://huggingface.co/datasets/mclemcrew/MixAssist){: .btn .btn--warning .btn--small}
 
 * Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
 <span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
