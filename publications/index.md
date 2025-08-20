@@ -9,14 +9,6 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints                        
 
-* Alexander Gill, Abhilasha Ravichander, **Ana Marasović**                 
-<span style="color:navy">What Has Been Lost with Synthetic Evaluation?</span>                          
-[Paper](https://arxiv.org/abs/2505.22830){: .btn .btn--info .btn--small}  
-
-* Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
-<span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
-[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  
-
 
 ## Peer-Reviewed Publications
 
@@ -43,6 +35,16 @@ ICLR 2025 Workshop on Bidirectional Human-AI Alignment
 
 
 ### 2024 
+
+* Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
+<span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
+EMNLP
+[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  
+
+* Alexander Gill, Abhilasha Ravichander, **Ana Marasović**                 
+<span style="color:navy">What Has Been Lost with Synthetic Evaluation?</span>                          
+EMNLP Findings
+[Paper](https://arxiv.org/abs/2505.22830){: .btn .btn--info .btn--small}  
 
 * Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
 <span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>   
