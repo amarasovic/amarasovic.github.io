@@ -14,6 +14,16 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ### 2025
 
+* Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
+<span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
+EMNLP                           
+[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  
+
+* Alexander Gill, Abhilasha Ravichander, **Ana Marasović**                 
+<span style="color:navy">What Has Been Lost with Synthetic Evaluation?</span>                          
+EMNLP Findings                          
+[Paper](https://arxiv.org/abs/2505.22830){: .btn .btn--info .btn--small}  
+
 * Purbid Bambroo, Daniel S. Brown, **Ana Marasović**                 
 <span style="color:navy">ConeCut: Scalable Removal of Preference Redundancy</span>                              
 The Workshop on Socially Responsible Language Modelling Research (SoLaR) co-colated with CoLM                
@@ -28,16 +38,6 @@ CoLM
 <span style="color:navy">BriefMe: A Legal NLP Benchmark for Assisting with Legal Briefs</span>                                        
 ACL Findings                                  
 [Paper](https://arxiv.org/abs/2506.06619){: .btn .btn--info .btn--small} [Code](https://github.com/utahnlp/BriefMe){: .btn .btn--danger .btn--small}  [Dataset](https://huggingface.co/datasets/jw4202/BriefMe){: .btn .btn--warning .btn--small} 
-
-* Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
-<span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
-EMNLP                           
-[Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  
-
-* Alexander Gill, Abhilasha Ravichander, **Ana Marasović**                 
-<span style="color:navy">What Has Been Lost with Synthetic Evaluation?</span>                          
-EMNLP Findings                          
-[Paper](https://arxiv.org/abs/2505.22830){: .btn .btn--info .btn--small}  
 
 * Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
 <span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
