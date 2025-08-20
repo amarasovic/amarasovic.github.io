@@ -17,6 +17,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 * Purbid Bambroo, Daniel S. Brown, **Ana Marasović**                 
 <span style="color:navy">ConeCut: Scalable Removal of Preference Redundancy</span>                              
 The Workshop on Socially Responsible Language Modelling Research (SoLaR) co-colated with CoLM
+[Paper](../pubs/conecut.pdf){: .btn .btn--info .btn--small}
 
 * Michael Clemens and **Ana Marasović**                     
 <span style="color:navy">MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music Mixing</span>                         
