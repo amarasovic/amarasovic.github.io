@@ -17,7 +17,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 * Purbid Bambroo, Daniel S. Brown, **Ana Marasović**                 
 <span style="color:navy">ConeCut: Scalable Removal of Preference Redundancy</span>                              
 The Workshop on Socially Responsible Language Modelling Research (SoLaR) co-colated with CoLM                
-[Paper](../pubs/conecut.pdf){: .btn .btn--info .btn--small}
+[Paper](/pubs/conecut.pdf){: .btn .btn--info .btn--small}
 
 * Michael Clemens and **Ana Marasović**                     
 <span style="color:navy">MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music Mixing</span>                         
@@ -34,6 +34,11 @@ ACL Findings
 EMNLP                           
 [Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  
 
+* Alexander Gill, Abhilasha Ravichander, **Ana Marasović**                 
+<span style="color:navy">What Has Been Lost with Synthetic Evaluation?</span>                          
+EMNLP Findings                          
+[Paper](https://arxiv.org/abs/2505.22830){: .btn .btn--info .btn--small}  
+
 * Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
 <span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
 ICLR 2025 Workshop on Bidirectional Human-AI Alignment                       
@@ -41,11 +46,6 @@ ICLR 2025 Workshop on Bidirectional Human-AI Alignment
 
 
 ### 2024 
-
-* Alexander Gill, Abhilasha Ravichander, **Ana Marasović**                 
-<span style="color:navy">What Has Been Lost with Synthetic Evaluation?</span>                          
-EMNLP Findings
-[Paper](https://arxiv.org/abs/2505.22830){: .btn .btn--info .btn--small}  
 
 * Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
 <span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>   
