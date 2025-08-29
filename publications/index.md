@@ -9,6 +9,13 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints                        
 
+## Blogs
+
+* Kenneth Marino and **Ana Marasović**. 2025. [Computer Use Survey: A Visual Survey of Computer Use Agents](https://kennethmarino.com/computeruse/computeruse.html).
+
+* I wrote for The Gradient about generalization in NLP. You can find the article  [here](https://thegradient.pub/frontiers-of-generalization-in-natural-language-processing/).
+
+* [BERT-base forward steps.](2020-02-19-bert-forward.md)
 
 ## Peer-Reviewed Publications
 
@@ -210,9 +217,3 @@ Repl4NLP Workshop
 Linguistic Issues in Language Technology, Volume 14---Modality: Logic, Semantics, Annotation, and Machine Learning               
 <span style="color:navy">Modal Sense Classification at Large: Paraphrase-Driven Sense Projection, Semantically Enriched Classification Models and Cross-Genre Evaluations</span>  
 [Paper](https://www.aclweb.org/anthology/2016.lilt-14.3/){: .btn .btn--info .btn--small}
-
-## Blogs
-
-* I wrote for The Gradient about generalization in NLP. You can find the article  [here](https://thegradient.pub/frontiers-of-generalization-in-natural-language-processing/).
-
-* [BERT-base forward steps.](2020-02-19-bert-forward.md)
