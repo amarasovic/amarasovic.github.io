@@ -38,7 +38,7 @@ The Workshop on Socially Responsible Language Modelling Research (SoLaR) co-cola
 
 * Michael Clemens and **Ana Marasović**                     
 <span style="color:navy">MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music Mixing</span>                         
-CoLM                            
+CoLM <span style="color:red">(oral spotlight)</span>                        
 [Paper](https://arxiv.org/abs/2507.06329){: .btn .btn--info .btn--small} [Code](https://github.com/mclemcrew/MixAssist){: .btn .btn--danger .btn--small} [Dataset](https://huggingface.co/datasets/mclemcrew/MixAssist){: .btn .btn--warning .btn--small}
 
 * Jesse Woo<sup>\*</sup>, Fateme Hashemi Chaleshtori<sup>\*</sup>, **Ana Marasović**<sup>\*\*</sup>, Kenneth Marino<sup>\*\*</sup>         
