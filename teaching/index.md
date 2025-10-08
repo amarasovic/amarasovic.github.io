@@ -6,7 +6,7 @@ title: ""
 date:   2022-08-19 09:28:29 -0800
 ---
 
-**Fall 2026**
+**Fall 2025**
 
 * [CS 6340/5340 – Natural Language Processing](https://utah-cs6340-nlp.notion.site/)
 
