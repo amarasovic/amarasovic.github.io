@@ -52,20 +52,20 @@ I study how to build AI technologies that **support human decision-making**, **c
 
 <tr>
   <td valign="top"><strong>Jul 2025</strong></td>
-  <td>I'm giving a talk at The First Workshop on the Application of LLM Explainability to Reasoning and Planning (at CoLM) titled 
+  <td>I'm giving a talk at the CoLM <a href="https://xllm-reasoning-planning-workshop.github.io/">Workshop on the Application of LLM Explainability to Reasoning and Planning</a> titled
     <em>If You Want Reasoning, Look Inside: CoT vs Internal Reasoning with Unlearning and Feature Circuits</em>.
   </td>
 </tr>
 
 <tr>
   <td valign="top"><strong>Jun 2025</strong></td>
-  <td>Our work <a href="https://arxiv.org/abs/2502.14829">preprint</a> will be presented at the First Workshop on the Interplay of Model Behavior and Model Internals (at CoLM).
+  <td>Our work <a href="https://arxiv.org/abs/2502.14829">on measuring parametric faithfulness with FUR</a> will be presented at the CoLM <a href="https://interplay-workshop.github.io/">Workshop on the Interplay of Model Behavior and Model Internals</a>.
   </td>
 </tr>
 
 <tr>
   <td valign="top"><strong>Jun 2025</strong></td>
-  <td>Excited to share that this work (<a href="https://arxiv.org/abs/2502.14829">preprint</a>) is accepted to EMNLP, and this work (<a href="https://arxiv.org/abs/2505.22830">preprint</a>) is accepted to EMNLP-Findings!
+  <td>Excited to share that our work on <a href="https://arxiv.org/abs/2502.14829">measuring CoT parametric faithfulness</a> is accepted to EMNLP, and our work <a href="https://arxiv.org/abs/2505.22830">analyzing synthetic benchmarks</a> to EMNLP-Findings!
   </td>
 </tr>
 
