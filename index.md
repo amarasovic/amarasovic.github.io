@@ -44,6 +44,13 @@ I study how to build AI technologies that **support human decision-making**, **c
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+<tr>
+  <td valign="top"><strong>Oct 2025</strong></td>
+  <td>I was a guest on the WiAIR podcast! Here's the 
+    <a href="https://youtu.be/xYb6uokKKOo?si=-zwpPPqBiO5621KG">episode</a> 
+    if you'd like to hear me talk about what we've been studying lately.
+  </td>
+</tr>
  <tr>
   <td valign="top"><strong>Oct 2025</strong></td>
   <td>🎵 <a href="https://arxiv.org/abs/2507.06329">MixAssist</a> is selected as a CoLM spotlight! 🎵  
@@ -59,13 +66,13 @@ I study how to build AI technologies that **support human decision-making**, **c
 
 <tr>
   <td valign="top"><strong>Oct 2025</strong></td>
-  <td>Our work <a href="https://arxiv.org/abs/2502.14829">on measuring parametric faithfulness with FUR</a> will be presented at the CoLM <a href="https://interplay-workshop.github.io/">Workshop on the Interplay of Model Behavior and Model Internals</a>.
+  <td>Our paper on <a href="https://arxiv.org/abs/2502.14829">measuring parametric faithfulness with FUR</a> will be presented at the CoLM <a href="https://interplay-workshop.github.io/">Workshop on the Interplay of Model Behavior and Model Internals</a>.
   </td>
 </tr>
 
 <tr>
   <td valign="top"><strong>Aug 2025</strong></td>
-  <td>Excited to share that our work on <a href="https://arxiv.org/abs/2502.14829">measuring CoT parametric faithfulness</a> is accepted to EMNLP, and our work <a href="https://arxiv.org/abs/2505.22830">analyzing synthetic benchmarks</a> to EMNLP-Findings!
+  <td>Our work on <a href="https://arxiv.org/abs/2502.14829">measuring CoT parametric faithfulness</a> is accepted to EMNLP, and our work <a href="https://arxiv.org/abs/2505.22830">analyzing synthetic benchmarks</a> to EMNLP-Findings!
   </td>
 </tr>
 
