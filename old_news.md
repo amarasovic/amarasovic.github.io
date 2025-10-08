@@ -17,6 +17,34 @@ author_profile: true
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+       <tr>
+        <td valign="top"><strong>Jun 2025</strong></td>
+        <td>Having built hard reasoning-over-text benchmarks the "old-fashioned" way (with crowdworkers), we had to ask: what if we used LLMs instead? Answer in <a href="arxiv.org/abs/2505.22830">the new preprint</a>: we'd get an easier benchmark. 
+        </td>
+        </tr>
+        <tr>
+        <td valign="top"><strong>May 2025</strong></td>
+        <td>I gave a keynote at Repl4NLP @ NAACL on measuring faithfulness of verbalized reasoning: 
+         <a href="https://docs.google.com/presentation/d/19RIG34sS37KPLQPn37IitGGrB1t2OcD_CBwPWImPHdo/preview?slide=id.g3532f29446f_0_44">If You Want Reasoning, Look Inside</a>. 
+        </td>
+        </tr>
+        <tr>
+        <td valign="top"><strong>Feb 2025</strong></td>
+        <td>We released a <a href="https://arxiv.org/abs/2502.14829">preprint</a> on measuring faithfulness of verbalized reasoning grounded in model iternals. 
+        </td>
+        </tr>
+        <tr>
+        <td valign="top"><strong>Sep 2024</strong></td>
+        <td>Our work on <a href="https://arxiv.org/abs/2407.03545">application-grounded evaluations of explanations in NLP</a> is accepted to EMNLP Findings!</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Jun 2024</strong></td>
+        <td>Our work on <a href="https://arxiv.org/abs/2402.14897">measuring chain-of-thought faithfulness</a> is accepted to TMLR.</td>
+       </tr>
+        <tr>
+        <td valign="top"><strong>Jun 2024</strong></td>
+        <td>I prepared a session on data influence for <a href="https://explanation-llm.github.io/">NAACL Tutorial: Explanations in the Era of Large Language Models</a>.</td>
+       </tr>
         <tr>
         <td valign="top"><strong>Apr 2024</strong></td>
         <td>
