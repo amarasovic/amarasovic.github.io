@@ -44,7 +44,31 @@ I study how to build AI technologies that **support human decision-making**, **c
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
- 
+ <tr>
+  <td valign="top"><strong>Jul 2025</strong></td>
+  <td>🎵 MixAssist (<a href="https://arxiv.org/abs/2507.06329">preprint</a>) is selected as a CoLM spotlight! 
+  </td>
+</tr>
+
+<tr>
+  <td valign="top"><strong>Jul 2025</strong></td>
+  <td>I'm giving a talk at The First Workshop on the Application of LLM Explainability to Reasoning and Planning (at CoLM) titled 
+    <em>If You Want Reasoning, Look Inside: CoT vs Internal Reasoning with Unlearning and Feature Circuits</em>.
+  </td>
+</tr>
+
+<tr>
+  <td valign="top"><strong>Jun 2025</strong></td>
+  <td>Our work <a href="https://arxiv.org/abs/2502.14829">preprint</a> will be presented at the First Workshop on the Interplay of Model Behavior and Model Internals (at CoLM).
+  </td>
+</tr>
+
+<tr>
+  <td valign="top"><strong>Jun 2025</strong></td>
+  <td>Excited to share that this work (<a href="https://arxiv.org/abs/2502.14829">preprint</a>) is accepted to EMNLP, and this work (<a href="https://arxiv.org/abs/2505.22830">preprint</a>) is accepted to EMNLP-Findings!
+  </td>
+</tr>
+
 </table>
 
 
