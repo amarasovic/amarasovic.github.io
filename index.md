@@ -59,7 +59,7 @@ I study how to build AI technologies that **support human decision-making**, **c
 
 <tr>
   <td valign="top"><strong>Oct 2025</strong></td>
-  <td>I'm giving a talk at the CoLM <a href="https://xllm-reasoning-planning-workshop.github.io/">Workshop on the Application of LLM Explainability to Reasoning and Planning</a> titled
+  <td>Speaking at the CoLM <a href="https://xllm-reasoning-planning-workshop.github.io/">Workshop on the Application of LLM Explainability to Reasoning and Planning</a> where I'll give a talk: 
     <em>If You Want Reasoning, Look Inside: CoT vs Internal Reasoning with Unlearning and Feature Circuits</em>.
   </td>
 </tr>
