@@ -46,7 +46,7 @@ I study how to build AI technologies that **support human decision-making**, **c
     <col width="100%">
  <tr>
   <td valign="top"><strong>Jul 2025</strong></td>
-  <td>🎵 MixAssist (<a href="https://arxiv.org/abs/2507.06329">preprint</a>) is selected as a CoLM spotlight! 
+  <td>🎵 <a href="https://arxiv.org/abs/2507.06329">MixAssist</a> is selected as a CoLM spotlight! 🎵  
   </td>
 </tr>
 
