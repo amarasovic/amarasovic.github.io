@@ -45,6 +45,11 @@ I study how to build AI technologies that **support human decision-making**, **c
     <col width="14%">
     <col width="100%">
 <tr>
+  <td valign="top"><strong>Nov 2025</strong></td>
+  <td>🎉 Our <a href="https://arxiv.org/abs/2502.14829">FUR paper</a> received an Outstanding Paper Award at EMNLP! 🎉
+  </td>
+</tr>
+<tr>
   <td valign="top"><strong>Oct 2025</strong></td>
   <td>I was a guest on the WiAIR podcast! Here's the 
     <a href="https://youtu.be/xYb6uokKKOo?si=-zwpPPqBiO5621KG">episode</a> 
