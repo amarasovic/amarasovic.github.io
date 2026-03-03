@@ -9,23 +9,23 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints
 
-* Nathan Stringham, Fateme Hashemi Chaleshtori, Xinyuan Yan, Zhichao Xu, Bei Wang, **Ana Marasović**
-<span style="color:navy">Teaching People LLM's Errors and Getting it Right</span>
+* Nathan Stringham, Fateme Hashemi Chaleshtori, Xinyuan Yan, Zhichao Xu, Bei Wang, **Ana Marasović**                 
+<span style="color:navy">Teaching People LLM's Errors and Getting it Right</span>                          
 [Paper](https://arxiv.org/abs/2512.21422){: .btn .btn--info .btn--small}
 
 ## Peer-Reviewed Publications
 
 ### 2026
 
-* Kenneth Marino and **Ana Marasović**
-<span style="color:navy">Computer Use Survey: A Visual Survey of Computer Use Agents</span>
-ICLR Blogpost Track
+* Kenneth Marino, Md Farhan Ishmam, and **Ana Marasović**                 
+<span style="color:navy">Computer Use Survey: A Visual Survey of Computer Use Agents</span>                          
+ICLR Blogpost Track                           
 [Paper](https://kennethmarino.com/computeruse/computeruse.html){: .btn .btn--info .btn--small}
 
-* Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy
-<span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>
-FAccT 2026
-ICLR 2025 Workshop on Bidirectional Human-AI Alignment
+* Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
+<span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
+FAccT 2026                       
+ICLR 2025 Workshop on Bidirectional Human-AI Alignment                       
 [Paper](https://arxiv.org/abs/2503.00069){: .btn .btn--info .btn--small}
 
 
@@ -33,7 +33,7 @@ ICLR 2025 Workshop on Bidirectional Human-AI Alignment
 
 * Martin Tutek, Fateme Hashemi Chaleshtori, **Ana Marasović**, Yonatan Belinkov                 
 <span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
-EMNLP                           
+EMNLP <span style="color:red">(outstanding paper award 🌟)</span>                           
 [Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  
 
 * Alexander Gill, Abhilasha Ravichander, **Ana Marasović**                 
