@@ -6,6 +6,10 @@ title: ""
 date:   2022-08-19 09:28:29 -0800
 ---
 
+**Spring 2026**
+
+* [CS 6966/5966 – Interpretability of LLMs](https://utah-llm-interpretability.notion.site/s26)
+
 **Fall 2025**
 
 * [CS 6340/5340 – Natural Language Processing](https://utah-cs6340-nlp.notion.site/)

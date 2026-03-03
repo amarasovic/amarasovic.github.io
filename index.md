@@ -15,12 +15,9 @@ sidebar:
 ---
 
 <div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px; font-size: 15px; line-height: 1.3; margin-bottom: 2em;">
-  <div style="margin-bottom: 10px;">
-    <strong>Please check the <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a></strong>, especially if you're a Utah student. 
-    <em>If your question is answered, I likely won't respond.</em>
-  </div>
   <div>
-    <strong>Fall'26 prospective PhD students:</strong>  I’m currently unsure if I’ll be recruiting. If you're interested in working with me, <a href="https://www.cs.utah.edu/graduate/admissions/"><strong>please apply</strong></a> & explicitly mention me. The admissions committee reviews all applications carefully. <span style="color:#EA3C17;"><strong>Please don't email me to share your profile.</strong></span>
+    <strong>Please check the <a href="https://www.anamarasovic.com/contact/">Contact/FAQ</a></strong>, especially if you’re a Utah student.
+    <em>If your question is answered, I likely won’t respond.</em>
   </div>
 </div>
 

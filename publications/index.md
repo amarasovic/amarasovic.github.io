@@ -5,19 +5,29 @@ author_profile: true
 date:   2020-12-05 22:15:29 -0800
 ---
 
-Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['25](https://www.anamarasovic.com/publications/#2025), ['24](https://www.anamarasovic.com/publications/#2024), ['23](https://www.anamarasovic.com/publications/#2023), ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs). 
+Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer-reviewed publications in ['26](https://www.anamarasovic.com/publications/#2026), ['25](https://www.anamarasovic.com/publications/#2025), ['24](https://www.anamarasovic.com/publications/#2024), ['23](https://www.anamarasovic.com/publications/#2023), ['22](https://www.anamarasovic.com/publications/#2022), ['21](https://www.anamarasovic.com/publications/#2021), ['20](https://www.anamarasovic.com/publications/#2020), ['19](https://www.anamarasovic.com/publications/#2019), ['18](https://www.anamarasovic.com/publications/#2018), ['17](https://www.anamarasovic.com/publications/#2017), ['16](https://www.anamarasovic.com/publications/#2016), [blogs](https://www.anamarasovic.com/publications/#blogs).
 
-## Preprints                        
+## Preprints
 
-## Blogs
-
-* Kenneth Marino and **Ana Marasović**. 2025. [Computer Use Survey: A Visual Survey of Computer Use Agents](https://kennethmarino.com/computeruse/computeruse.html).
-
-* I wrote for The Gradient about generalization in NLP. You can find the article  [here](https://thegradient.pub/frontiers-of-generalization-in-natural-language-processing/).
-
-* [BERT-base forward steps.](2020-02-19-bert-forward.md)
+* Nathan Stringham, Fateme Hashemi Chaleshtori, Xinyuan Yan, Zhichao Xu, Bei Wang, **Ana Marasović**
+<span style="color:navy">Teaching People LLM's Errors and Getting it Right</span>
+[Paper](https://arxiv.org/abs/2512.21422){: .btn .btn--info .btn--small}
 
 ## Peer-Reviewed Publications
+
+### 2026
+
+* Kenneth Marino and **Ana Marasović**
+<span style="color:navy">Computer Use Survey: A Visual Survey of Computer Use Agents</span>
+ICLR Blogpost Track
+[Paper](https://kennethmarino.com/computeruse/computeruse.html){: .btn .btn--info .btn--small}
+
+* Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy
+<span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>
+FAccT 2026
+ICLR 2025 Workshop on Bidirectional Human-AI Alignment
+[Paper](https://arxiv.org/abs/2503.00069){: .btn .btn--info .btn--small}
+
 
 ### 2025
 
@@ -46,13 +56,8 @@ CoLM <span style="color:red">(oral spotlight)</span>
 ACL Findings                                  
 [Paper](https://arxiv.org/abs/2506.06619){: .btn .btn--info .btn--small} [Code](https://github.com/utahnlp/BriefMe){: .btn .btn--danger .btn--small}  [Dataset](https://huggingface.co/datasets/jw4202/BriefMe){: .btn .btn--warning .btn--small} 
 
-* Karolina Stanczak, Nicholas Meade, Mehar Bhatia, Hattie Zhou, Konstantin Böttinger, Jeremy Barnes, Jason Stanley, Nicolas Papernot, Nicolas Chapados, Denis Therien, Timothy P Lillicrap, **Ana Marasović**, Sylvie Delacroix, Gillian K Hadfield, Siva Reddy          
-<span style="color:navy">Societal Alignment Frameworks Can Improve LLM Alignment</span>                                        
-ICLR 2025 Workshop on Bidirectional Human-AI Alignment                       
-[Paper](https://arxiv.org/abs/2503.00069){: .btn .btn--info .btn--small}   
 
-
-### 2024 
+### 2024
 
 * Fateme Hashemi Chaleshtori, Atreya Ghosal, Alexander Gill, Purbid Bambroo, and **Ana Marasović**                 
 <span style="color:navy">On Evaluating Explanation Utility for Human-AI Decision Making in NLP</span>   
@@ -213,7 +218,13 @@ EMNLP
 Repl4NLP Workshop              
 [Paper](https://www.aclweb.org/anthology/W16-1613/){: .btn .btn--info .btn--small} [Code](https://github.com/amarasovic/modal-sense-classifcation){: .btn .btn--danger .btn--small}
 
-* **Ana Marasović**, Mengfei Zhou, Alexis Palmer, Anette Frank         
-Linguistic Issues in Language Technology, Volume 14---Modality: Logic, Semantics, Annotation, and Machine Learning               
-<span style="color:navy">Modal Sense Classification at Large: Paraphrase-Driven Sense Projection, Semantically Enriched Classification Models and Cross-Genre Evaluations</span>  
+* **Ana Marasović**, Mengfei Zhou, Alexis Palmer, Anette Frank
+Linguistic Issues in Language Technology, Volume 14---Modality: Logic, Semantics, Annotation, and Machine Learning
+<span style="color:navy">Modal Sense Classification at Large: Paraphrase-Driven Sense Projection, Semantically Enriched Classification Models and Cross-Genre Evaluations</span>
 [Paper](https://www.aclweb.org/anthology/2016.lilt-14.3/){: .btn .btn--info .btn--small}
+
+## Blogs
+
+* I wrote for The Gradient about generalization in NLP. You can find the article  [here](https://thegradient.pub/frontiers-of-generalization-in-natural-language-processing/).
+
+* [BERT-base forward steps.](2020-02-19-bert-forward.md)
