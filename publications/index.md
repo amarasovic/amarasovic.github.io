@@ -17,7 +17,7 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ### 2026
 
-* Kenneth Marino, Md Farhan Ishmam, and **Ana Marasović**                 
+* Kenneth Marino, Md Farhan Ishmam, **Ana Marasović**                 
 <span style="color:navy">Computer Use Survey: A Visual Survey of Computer Use Agents</span>                          
 ICLR Blogpost Track                           
 [Paper](https://kennethmarino.com/computeruse/computeruse.html){: .btn .btn--info .btn--small}
