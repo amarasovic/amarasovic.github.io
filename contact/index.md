@@ -35,31 +35,24 @@ I work with a **small group** of PhD, MS, and BS students at any given moment, a
 
 I try to involve NLP graduate students in co-mentoring and I sometimes pair students on the same project. This has been successful in the past since it's easier to get unstuck with someone else and by doing this more students get to do research with me. 
 
-Typically, the students I select to join my lab are **those with whom I've already established rapport**; for example, students that have taken a course I thought, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I never work with MS students in the first semester of their masters.  
+Typically, the students I select to join my lab are **those with whom I've already established rapport**; for example, students that have taken a course I taught, attended lectures and asked insightful questions, and completed a solid project that showcased their potential for research. This means I typically don't work with MS students in the first semester of their masters.  
 
-Please note that **if you are already balancing work and study**, or **if you are engaged in another research project**, I believe it may not be realistic for you to take on an additional project. In this case, I would not be able to involve you in my group to ensure that you are not overextended and that everyone's time is respected.
+Please note that **if you are already balancing work and study**, or **if you are engaged in another research project**, I believe it may not be realistic for you to take on an additional project.                 
 
-**Expectations:** Meeting regularly, making consistent progress, staying organized, and communicating clearly. Progress doesn't mean that every week you present new successful results and everything works smoothly. Research is rarely like that! Progress involves a weekly cycle where you formulate well-thought-out hypotheses, implement your current solution, gather results, and thoroughly analyze these outcomes. Implementation can take longer than expected due to a sequence of trial and error. In our meetings, you should present a meaningful interpretation of the outcomes, and ideally come up with suggestions for next steps.
+**Expectations:** Meeting regularly, making consistent progress, staying organized, and communicating clearly. Progress doesn't mean that every week you present new successful results and everything works smoothly. Research is rarely like that! Progress involves a weekly cycle where you formulate well-thought-out hypotheses, implement your current solution, gather results, and thoroughly analyze these outcomes. Implementation can take longer than expected due to a sequence of trial and error. In our meetings, you should present a meaningful interpretation of the outcomes, and ideally come up with suggestions for next steps.         
 
 <span style="color:#EA3C17;"><strong>Please do not come to my office asking for RA-ship.</strong></span> Appreciate your understanding.
 
 
 ### If you reach out, please send me an email with the following information
 
-1. What's your educational status? [undergrad, masters, PhD, other + which semester/year] **Note that I'm not taking MS students in the first semester of their masters.**
+1. What's your educational status? [undergrad, masters, PhD, other + which semester/year]             
 2. Which research questions or problems interests you? Why is this lab the right place to conduct this research?  
 3. What do you hope to get out of this collaboration?  
 4. Are you familiar with PyTorch? 
 5. Have you TA-ed for any courses in KSoC? If so, for which courses/instructor, and if you didn't please make a note of that. 
 6. Have you worked with other KSoC faculty? If so, summarize what you worked on, and if you didn't please make a note of that.   
-7. Which courses from the following list have you completed and **with which grade**: 
-
-    * CS 6966 – Local Explanations for Deep Learning Models                       
-    * CS 6340 – Natural Language Processing                      
-    * CS 6353 – Deep Learning                       
-    * CS 6350 – Machine Learning                        
-    * CS 6540 – Human-Computer Interaction  
-    * CS 6960 – Human-AI Alignment  
+7. If you know me, in which capacity.           
 
 ### You are a BS/MS student. Am I going to pay you?
 
@@ -71,7 +64,7 @@ BS students: If things are going well and there is continued mutual interest in 
 
 If you're interested in doing a PhD in the Kahlert School of Computing, *please apply*. We will carefully consider every application. More information about the application process can be found [here](https://www.cs.utah.edu/graduate/admissions/).
 
-While I'm honored to be considered as anyone's advisor, as most professors I don't have bandwidth to answer every email that inform me about achivements and interest to work with me. In _very rare cases_, when an email is specific and demonstrates that the writer genuinely engaged with my work, I might respond. If I haven't responded to you, not only that sending more emails won't help, and I'd really appreciate if you don't do that. 
+While I'm honored to be considered as anyone's advisor, as most professors I don't have bandwidth to answer every email that inform me about achivements and interest to work with me. In _very rare cases_, when an email is specific and demonstrates that the writer genuinely engaged with my work, I might respond. If I haven't responded to you, sending more emails won't help and I'd really appreciate if you don't do that. 
 
 ### Note on the Statement of Purpose
 
@@ -91,7 +84,7 @@ If you have further questions, please reach out to <a>grad-advisors@cs.utah.edu<
 
 ## You're looking for postdoc positions
 
-I'm not hiring postdocs yet. 
+I'm open to mentoring postdocotoral researchers interested in applying to [One-U RAI Postdoctoral Fellowships](https://rai.utah.edu/opportunities/postdoctoral-fellows/).        
 
 ## You're looking for internship positions
 
@@ -107,4 +100,4 @@ My name is pronounced as Ah-nah Mara-so-veetch, with "Mara" as the actress "Mara
 
 ## Talk bio
 
-Ana Marasović is an Assistant Professor in the Kahlert School of Computing at the University of Utah. Her primary research interests broadly fall into natural language processing (NLP), human-centered AI, and interpretability. Previously, she was a Young Investigator at the Allen Institute for AI from 2019–2022. During that time, she also had a courtesy appointment in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. She received my PhD from Heidelberg University. She is a co-recipient of the Best Paper Award at ACL 2023, Best Paper Honorable Mention at ACL 2020, Best Paper Award at SoCal 2022 NLP Symposium, and she is the University of Utah's One-U Responsible AI Initiative Faculty Fellow.
+Ana Marasović is an Assistant Professor in the Kahlert School of Computing at the University of Utah. Her research interests broadly fall into natural language processing (NLP), human-centered AI, and interpretability. Previously, she was a Young Investigator at the Allen Institute for AI and, by courtesy, the University of Washington. She completed her PhD at Heidelberg University. She is a recipient of the Outstanding Paper Award at EMNLP 2025, the  Best Paper Award at ACL 2023, the Best Paper Honorable Mention at ACL 2020, and the Best Paper Award at SoCal 2022 NLP Symposium. Her work was selected as a CoLM 2025 Spotlight. She is also the University of Utah One-U Responsible AI Initiative Faculty Fellow and UC Berkeley EECS 2020 Rising Star.
