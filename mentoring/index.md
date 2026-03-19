@@ -27,7 +27,6 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 **MS Researchers**
 
-* Purbid Bambroo
 * Neha Bhat
 * Xuyen Nguyen
 
@@ -46,6 +45,7 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 ### Alumni
 
 * Ryhor Pryslopski (undergraduate researcher)
+* Purbid Bambroo (MS researcher) &rarr; Noetica
 * [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)  (MS researcher) &rarr; UMass Amherst PhD             
 * [Jacob Johnson](https://nnnnnnnn.info/) (undergraduate and PhD researcher) &rarr; Weber State University MS          
 * Byron Liu  (undergraduate thesis)             
