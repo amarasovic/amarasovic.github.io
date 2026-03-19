@@ -32,7 +32,7 @@ I'm grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *Go
   table, tr, td { border: 0px; }
   .home-grid { display: flex; gap: 2.5em; flex-wrap: wrap; margin-top: 1.5em; }
   .home-grid > div { flex: 1; min-width: 200px; }
-  .home-grid h3 { margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.3em; }
+  .home-grid h3 { margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.3em; font-size: 1em; }
   .home-grid ul { padding-left: 1.2em; margin-top: 0.5em; }
   .home-grid li { margin-bottom: 0.5em; font-size: 0.92em; }
   @media (min-width: 1024px) {
