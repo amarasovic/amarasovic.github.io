@@ -48,10 +48,10 @@ I'm grateful to Coefficient Giving, Martian, the One-U RAI Initiative, Google, a
   <div>
     <h3>Recent Talks</h3>
     <ul>
-      <li>University of Arizona,<em>Faithfulness of LLM Reasoning &amp; Its Emerging Questions</em></li>
-      <li>UCLA,<em>If You Want Reasoning, Look Inside</em></li>
-      <li>Workshop on the Application of LLM Explainability to Reasoning &amp; Planning @ CoLM 2025,<em>If You Want Reasoning, Look Inside</em></li>
-      <li>RepL4NLP @ NAACL 2025,<em>If You Want Reasoning, Look Inside</em></li>
+      <li>University of Arizona, <em>Faithfulness of LLM Reasoning &amp; Its Emerging Questions</em></li>
+      <li>UCLA, <em>If You Want Reasoning, Look Inside</em></li>
+      <li>Workshop on the Application of LLM Explainability to Reasoning &amp; Planning @ CoLM 2025, <em>If You Want Reasoning, Look Inside</em></li>
+      <li>RepL4NLP @ NAACL 2025, <em>If You Want Reasoning, Look Inside</em></li>
     </ul>
   </div>
 
