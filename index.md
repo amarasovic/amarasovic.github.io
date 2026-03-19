@@ -58,12 +58,12 @@ I'm grateful to Coefficient Giving, Martian, the One-U RAI Initiative, Google, a
   <div>
     <h3>Paper Awards &amp; Honors</h3>
     <ul>
-      <li>EMNLP 2025 Outstanding Paper,<a href="https://arxiv.org/abs/2502.14829">FUR</a></li>
-      <li>CoLM 2025 Spotlight,<a href="https://arxiv.org/abs/2507.06329">MixAssist</a></li>
+      <li>EMNLP 2025 Outstanding Paper, <a href="https://arxiv.org/abs/2502.14829">FUR</a></li>
+      <li>CoLM 2025 Spotlight, <a href="https://arxiv.org/abs/2507.06329">MixAssist</a></li>
       <li>University of Utah One-U RAI Faculty Fellow</li>
-      <li>ACL 2023 Best Paper Award,<a href="https://arxiv.org/abs/2209.06293">Do Androids Laugh at Electric Sheep?</a></li>
-      <li>SoCal NLP 2022 Best Paper Award,<a href="https://arxiv.org/abs/2211.00295">CondaQA</a></li>
-      <li>ACL 2020 Best Paper Honorable Mention,<a href="https://www.aclweb.org/anthology/2020.acl-main.740/">Don't Stop Pretraining</a></li>
+      <li>ACL 2023 Best Paper Award, <a href="https://arxiv.org/abs/2209.06293">Do Androids Laugh at Electric Sheep?</a></li>
+      <li>SoCal NLP 2022 Best Paper Award, <a href="https://arxiv.org/abs/2211.00295">CondaQA</a></li>
+      <li>ACL 2020 Best Paper Honorable Mention, <a href="https://www.aclweb.org/anthology/2020.acl-main.740/">Don't Stop Pretraining</a></li>
     </ul>
   </div>
 
