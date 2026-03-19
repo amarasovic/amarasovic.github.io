@@ -25,7 +25,7 @@ I'm an assistant professor at the University of Utah's Kahlert School of Computi
 
 I study how to build AI technologies that **support human decision-making**, **communication**, and **creativity**. I study where such assistance is valuable and develop **benchmarks** to test how reliably AI performs on related tasks involving **language**, **images**, and **audio**. A central thread of my work also explores how to translate what AI models “know” into reasoning that people can follow and act on. My most notable contributions in this area examine whether a model’s **verbal explanations are faithful** to its internal computations. I'm increasingly focused on collaboration with **agents** and **applications in math research, coding, and higher education** through my role as an RAI faculty fellow.
 
-I was recently a guest on the [WiAIR podcast](https://youtu.be/xYb6uokKKOo?si=-zwpPPqBiO5621KG) — tune in to hear about what we've been studying lately.
+You can hear me talk about my work on the [WiAIR podcast](https://youtu.be/xYb6uokKKOo?si=-zwpPPqBiO5621KG).
 
 I'm grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *Google*, and the *Allen Institute for AI* for supporting my group's work. 💚
 
