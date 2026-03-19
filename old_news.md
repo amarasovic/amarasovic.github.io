@@ -17,6 +17,43 @@ author_profile: true
 <table class='news-table'>
     <col width="14%">
     <col width="100%">
+<tr>
+  <td valign="top"><strong>Nov 2025</strong></td>
+  <td>🎉 Our <a href="https://arxiv.org/abs/2502.14829">FUR paper</a> received an Outstanding Paper Award at EMNLP! 🎉
+  </td>
+</tr>
+<tr>
+  <td valign="top"><strong>Oct 2025</strong></td>
+  <td>I was a guest on the WiAIR podcast! Here's the
+    <a href="https://youtu.be/xYb6uokKKOo?si=-zwpPPqBiO5621KG">episode</a>
+    if you'd like to hear me talk about what we've been studying lately.
+  </td>
+</tr>
+ <tr>
+  <td valign="top"><strong>Oct 2025</strong></td>
+  <td>🎵 <a href="https://arxiv.org/abs/2507.06329">MixAssist</a> is selected as a CoLM spotlight! 🎵
+  </td>
+</tr>
+
+<tr>
+  <td valign="top"><strong>Oct 2025</strong></td>
+  <td>Speaking at the CoLM <a href="https://xllm-reasoning-planning-workshop.github.io/">Workshop on the Application of LLM Explainability to Reasoning and Planning</a> where I'll give a talk:
+    <em>If You Want Reasoning, Look Inside: CoT vs Internal Reasoning with Unlearning and Feature Circuits</em>.
+  </td>
+</tr>
+
+<tr>
+  <td valign="top"><strong>Oct 2025</strong></td>
+  <td>Our paper on <a href="https://arxiv.org/abs/2502.14829">measuring parametric faithfulness with FUR</a> will be presented at the CoLM <a href="https://interplay-workshop.github.io/">Workshop on the Interplay of Model Behavior and Model Internals</a>.
+  </td>
+</tr>
+
+<tr>
+  <td valign="top"><strong>Aug 2025</strong></td>
+  <td>Our work on <a href="https://arxiv.org/abs/2502.14829">measuring CoT parametric faithfulness</a> is accepted to EMNLP, and our work <a href="https://arxiv.org/abs/2505.22830">analyzing synthetic benchmarks</a> to EMNLP-Findings!
+  </td>
+</tr>
+
        <tr>
         <td valign="top"><strong>Jun 2025</strong></td>
         <td>Having built hard reasoning-over-text benchmarks the "old-fashioned" way (with crowdworkers), we had to ask: what if we used LLMs instead? Answer in <a href="arxiv.org/abs/2505.22830">the new preprint</a>: we'd get an easier benchmark. 
