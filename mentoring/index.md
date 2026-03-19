@@ -34,15 +34,15 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 **Current and Past Collaborators**
 
+* [Mor Geva Pipek](https://mega002.github.io/) (Tel Aviv University)
+* [Yoav Gur-Arieh](https://yoav.ml/) (Tel Aviv University)
+* [Martin Tutek](https://mttk.github.io/) (University of Zagreb)
+* [Yonatan Belinkov](https://belinkov.com/) (Technion)
 * [Michael Clemens](http://mclem.me/)
 * [Ashim Gupta](https://ashim95.github.io/)
 * [Akansha Kalra](https://akansha-kalra.github.io/)
 * Atreya Ghosal
 * Zhichao Xu
-* [Mor Geva Pipek](https://mega002.github.io/) (Tel Aviv University)
-* [Yoav Gur-Arieh](https://yoav.ml/) (Tel Aviv University)
-* [Martin Tutek](https://mttk.github.io/) (University of Zagreb)
-* [Yonatan Belinkov](https://belinkov.com/) (Technion)
 
 ### Alumni
 
