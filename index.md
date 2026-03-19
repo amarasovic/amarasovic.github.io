@@ -30,14 +30,45 @@ I study how to build AI technologies that **support human decision-making**, **c
 ---
 
 <style type="text/css">
-      table, tr, td {
-        border: 0px;
-    }
-
+  table, tr, td { border: 0px; }
+  .home-grid { display: flex; gap: 2.5em; flex-wrap: wrap; margin-top: 0.5em; }
+  .home-grid > div { flex: 1; min-width: 200px; }
+  .home-grid h3 { margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.3em; }
+  .home-grid ul { padding-left: 1.2em; margin-top: 0.5em; }
+  .home-grid li { margin-bottom: 0.5em; font-size: 0.92em; }
 </style>
 
-<h3 align="center">News</h3>
+<div class="home-grid">
 
+  <div>
+    <h3>Recent Talks</h3>
+    <ul>
+      <li>University of Arizona — <em>Faithfulness of LLM Reasoning &amp; Its Emerging Questions</em></li>
+      <li>UCLA — <em>If You Want Reasoning, Look Inside</em></li>
+      <li>Workshop on the Application of LLM Explainability to Reasoning &amp; Planning @ CoLM 2025 — <em>If You Want Reasoning, Look Inside</em></li>
+      <li>RepL4NLP @ NAACL 2025 — <em>If You Want Reasoning, Look Inside</em></li>
+    </ul>
+  </div>
 
+  <div>
+    <h3>Paper Awards &amp; Honors</h3>
+    <ul>
+      <li>EMNLP 2025 Outstanding Paper — <a href="https://arxiv.org/abs/2502.14829">FUR</a></li>
+      <li>CoLM 2025 Spotlight — <a href="https://arxiv.org/abs/2507.06329">MixAssist</a></li>
+      <li>University of Utah One-U RAI Faculty Fellow</li>
+      <li>ACL 2023 Best Paper Award — <a href="https://arxiv.org/abs/2209.06293">Do Androids Laugh at Electric Sheep?</a></li>
+      <li>SoCal NLP 2022 Best Paper Award — <a href="https://arxiv.org/abs/2211.00295">CondaQA</a></li>
+      <li>ACL 2020 Best Paper Honorable Mention — <a href="https://www.aclweb.org/anthology/2020.acl-main.740/">Don't Stop Pretraining</a></li>
+    </ul>
+  </div>
+
+  <div>
+    <h3>Recent Teaching</h3>
+    <ul>
+      <li><a href="https://utah-llm-interpretability.notion.site/s26">CS 6966/5966 – Interpretability of LLMs</a></li>
+    </ul>
+  </div>
+
+</div>
 
 [Older news.](old_news.md)
