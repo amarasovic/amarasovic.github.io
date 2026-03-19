@@ -27,7 +27,7 @@ I study how to build AI technologies that **support human decision-making**, **c
 
 You can hear me talk about our work on the [WiAIR podcast](https://youtu.be/xYb6uokKKOo?si=-zwpPPqBiO5621KG).
 
-I'm grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *Google*, and the *Allen Institute for AI* for supporting my group's work. 💚
+We're grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *Google*, and the *Allen Institute for AI* for supporting the group's work. 💚
 
 
 <style type="text/css">
