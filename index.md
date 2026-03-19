@@ -41,6 +41,7 @@ I'm grateful to Coefficient Giving, Martian, the One-U RAI Initiative, Google, a
   @media (min-width: 1280px) {
     .home-grid { margin-left: -275px; width: calc(100% + 275px); }
   }
+  .sidebar { position: relative; z-index: 10; }
 </style>
 
 <div class="home-grid">
