@@ -36,6 +36,12 @@ I study how to build AI technologies that **support human decision-making**, **c
   .home-grid h3 { margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.3em; }
   .home-grid ul { padding-left: 1.2em; margin-top: 0.5em; }
   .home-grid li { margin-bottom: 0.5em; font-size: 0.92em; }
+  @media (min-width: 1024px) {
+    .home-grid { margin-left: -200px; width: calc(100% + 200px); }
+  }
+  @media (min-width: 1280px) {
+    .home-grid { margin-left: -275px; width: calc(100% + 275px); }
+  }
 </style>
 
 <div class="home-grid">
