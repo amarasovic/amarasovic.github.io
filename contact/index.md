@@ -9,15 +9,15 @@ date:   2022-09-30 22:15:29 -0800
 *If your question is answered here, I likely won't respond to you due to a large volume of emails.* 
 
 - [Can I be your TA?](#can-i-be-your-ta)
-- [You're a University of Utah student interested in research opportunities](#youre-a-university-of-utah-student-interested-in-research-opportunities)
-  - [If you reach out, please send me an email with the following information](#if-you-reach-out-please-send-me-an-email-with-the-following-information)
-  - [You are a BS/MS student. Am I going to pay you?](#you-are-a-bsms-student-am-i-going-to-pay-you)
-- [You are *not* a student at the University of Utah, but you want to be](#you-are-not-a-student-at-the-university-of-utah-but-you-want-to-be)
+- [UoU student seeking research opportunities](#youre-a-university-of-utah-student-interested-in-research-opportunities)
+  - [What to include in your email](#if-you-reach-out-please-send-me-an-email-with-the-following-information)
+  - [Funding for BS/MS students](#you-are-a-bsms-student-am-i-going-to-pay-you)
+- [Applying to the PhD program](#you-are-interested-in-applying-to-our-phd-program-and-working-with-me)
   - [Note on the Statement of Purpose](#note-on-the-statement-of-purpose)
-  - [You have general questions about admissions](#you-have-general-questions-about-admissions)
-- [You're looking for postdoc positions](#youre-looking-for-postdoc-positions)
-- [You're looking for internship positions](#youre-looking-for-internship-positions)
-- [You're a high school student](#youre-a-high-school-student)
+  - [General admissions questions](#you-have-general-questions-about-admissions-not-specifically-to-work-with-me)
+- [Postdoc positions](#youre-looking-for-postdoc-positions)
+- [Internship positions](#youre-looking-for-internship-positions)
+- [High school students](#youre-a-high-school-student)
 - [How to pronounce your name?](#how-to-pronounce-your-name)
 - [Talk bio](#talk-bio)
 
