@@ -20,12 +20,17 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 * Braden Fiedel
 
 
-**Undergraduate Researchers**         
-* Ryhor Pryslopski                           
+**Undergraduate Researchers**
+* Ryhor Pryslopski
+* Lucas Pearce
+* Parker DeYoung
+* Matthew Lee
 
-**MS Researchers** 
+**MS Researchers**
 
-* Purbid Bambroo                                          
+* Purbid Bambroo
+* Neha Bhat
+* Xuyen Nguyen
 
 **Current and Past Student Collaborators**          
 
