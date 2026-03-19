@@ -21,7 +21,6 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 
 **Undergraduate Researchers**
-* Ryhor Pryslopski
 * Lucas Pearce
 * Parker DeYoung
 * Matthew Lee
@@ -46,6 +45,7 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 ### Alumni
 
+* Ryhor Pryslopski (undergraduate researcher)
 * [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)  (MS researcher) &rarr; UMass Amherst PhD             
 * [Jacob Johnson](https://nnnnnnnn.info/) (undergraduate and PhD researcher) &rarr; Weber State University MS          
 * Byron Liu  (undergraduate thesis)             
