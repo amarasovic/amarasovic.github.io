@@ -26,9 +26,6 @@ I'm an assistant professor at the University of Utah's Kahlert School of Computi
 I study how to build AI technologies that **support human decision-making**, **communication**, and **creativity**. I study where such assistance is valuable and develop **benchmarks** to test how reliably AI performs on related tasks involving language, **images**, and **audio**. A central thread of my work also explores how to translate what AI models “know” into reasoning that people can follow and act on. My most notable contributions in this area examine whether a model’s **verbal explanations are faithful** to its internal computations. I'm increasingly focused on collaboration with **agents** and **applications in higher education** through my role as an RAI faculty fellow.
 
 
-
----
-
 <style type="text/css">
   table, tr, td { border: 0px; }
   .home-grid { display: flex; gap: 2.5em; flex-wrap: wrap; margin-top: 0.5em; }
@@ -49,27 +46,27 @@ I study how to build AI technologies that **support human decision-making**, **c
   <div>
     <h3>Recent Talks</h3>
     <ul>
-      <li>University of Arizona — <em>Faithfulness of LLM Reasoning &amp; Its Emerging Questions</em></li>
-      <li>UCLA — <em>If You Want Reasoning, Look Inside</em></li>
-      <li>Workshop on the Application of LLM Explainability to Reasoning &amp; Planning @ CoLM 2025 — <em>If You Want Reasoning, Look Inside</em></li>
-      <li>RepL4NLP @ NAACL 2025 — <em>If You Want Reasoning, Look Inside</em></li>
+      <li>University of Arizona,<em>Faithfulness of LLM Reasoning &amp; Its Emerging Questions</em></li>
+      <li>UCLA,<em>If You Want Reasoning, Look Inside</em></li>
+      <li>Workshop on the Application of LLM Explainability to Reasoning &amp; Planning @ CoLM 2025,<em>If You Want Reasoning, Look Inside</em></li>
+      <li>RepL4NLP @ NAACL 2025,<em>If You Want Reasoning, Look Inside</em></li>
     </ul>
   </div>
 
   <div>
     <h3>Paper Awards &amp; Honors</h3>
     <ul>
-      <li>EMNLP 2025 Outstanding Paper — <a href="https://arxiv.org/abs/2502.14829">FUR</a></li>
-      <li>CoLM 2025 Spotlight — <a href="https://arxiv.org/abs/2507.06329">MixAssist</a></li>
+      <li>EMNLP 2025 Outstanding Paper,<a href="https://arxiv.org/abs/2502.14829">FUR</a></li>
+      <li>CoLM 2025 Spotlight,<a href="https://arxiv.org/abs/2507.06329">MixAssist</a></li>
       <li>University of Utah One-U RAI Faculty Fellow</li>
-      <li>ACL 2023 Best Paper Award — <a href="https://arxiv.org/abs/2209.06293">Do Androids Laugh at Electric Sheep?</a></li>
-      <li>SoCal NLP 2022 Best Paper Award — <a href="https://arxiv.org/abs/2211.00295">CondaQA</a></li>
-      <li>ACL 2020 Best Paper Honorable Mention — <a href="https://www.aclweb.org/anthology/2020.acl-main.740/">Don't Stop Pretraining</a></li>
+      <li>ACL 2023 Best Paper Award,<a href="https://arxiv.org/abs/2209.06293">Do Androids Laugh at Electric Sheep?</a></li>
+      <li>SoCal NLP 2022 Best Paper Award,<a href="https://arxiv.org/abs/2211.00295">CondaQA</a></li>
+      <li>ACL 2020 Best Paper Honorable Mention,<a href="https://www.aclweb.org/anthology/2020.acl-main.740/">Don't Stop Pretraining</a></li>
     </ul>
   </div>
 
   <div>
-    <h3>Recent Teaching</h3>
+    <h3>Currently Teaching</h3>
     <ul>
       <li><a href="https://utah-llm-interpretability.notion.site/s26">CS 6966/5966 – Interpretability of LLMs</a></li>
     </ul>
