@@ -15,8 +15,9 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 * [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)   
 * [Nate Stringham](https://n8stringham.github.io/about.html)
-* Alex Gill
-* Braden Fiedel 
+* [Alex Gill](https://alexgill321.github.io/)
+* [Jayanta Sadhu](https://jayanta47.github.io/)
+* Braden Fiedel
 
 
 **Undergraduate Researchers**         
