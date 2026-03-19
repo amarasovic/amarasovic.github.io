@@ -75,5 +75,3 @@ I'm grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *Go
   </div>
 
 </div>
-
-[Older news.](old_news.md)
