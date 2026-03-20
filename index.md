@@ -50,7 +50,7 @@ We're grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *
   .sidebar { position: relative; z-index: 10; }
 </style>
 
-<svg class="mountain-sketch" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" aria-label="Wasatch Range sketch">
+<svg class="mountain-sketch" viewBox="0 0 1000 65" xmlns="http://www.w3.org/2000/svg" aria-label="Wasatch Range sketch">
   <g fill="none" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round">
     <!-- Main ridgeline -->
     <path stroke-width="1.6"
