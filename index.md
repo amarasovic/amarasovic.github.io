@@ -37,7 +37,7 @@ We're grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *
   .home-grid > div { flex: 1; min-width: 200px; }
   .home-grid h3 { margin-top: 0; font-size: 1em; }
   .home-grid ul { padding-left: 1.2em; margin-top: 0.5em; }
-  .home-grid li { margin-bottom: 0.5em; font-size: 0.92em; }
+  .home-grid li { margin-bottom: 0.5em; font-size: 0.82em; }
   .mountain-sketch { display: block; margin-top: 2em; margin-bottom: 0; height: 40px; }
   @media (min-width: 1024px) {
     .home-grid { margin-left: -200px; width: calc(100% + 200px); }
