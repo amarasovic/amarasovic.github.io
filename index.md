@@ -38,7 +38,7 @@ We're grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *
   .home-grid h3 { margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 0.3em; font-size: 1em; }
   .home-grid ul { padding-left: 1.2em; margin-top: 0.5em; }
   .home-grid li { margin-bottom: 0.5em; font-size: 0.92em; }
-  .mountain-sketch { display: block; margin-top: 2em; margin-bottom: 0; }
+  .mountain-sketch { display: block; margin-top: 2em; margin-bottom: 0; height: 55px; }
   @media (min-width: 1024px) {
     .home-grid { margin-left: -200px; width: calc(100% + 200px); }
     .mountain-sketch { margin-left: -200px; width: calc(100% + 200px); }
@@ -50,7 +50,7 @@ We're grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *
   .sidebar { position: relative; z-index: 10; }
 </style>
 
-<svg class="mountain-sketch" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" aria-label="Wasatch Range sketch">
+<svg class="mountain-sketch" viewBox="0 0 1000 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-label="Wasatch Range sketch">
   <g fill="none" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round">
     <!-- Main ridgeline -->
     <path stroke-width="1.6"
