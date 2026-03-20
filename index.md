@@ -36,8 +36,11 @@ We're grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *
   .home-grid { display: flex; gap: 2.5em; flex-wrap: wrap; margin-top: 1em; }
   .home-grid > div { flex: 1; min-width: 200px; }
   .home-grid h3 { margin-top: 0; font-size: 1em; }
-  .home-grid ul { padding-left: 1.2em; margin-top: 0.5em; }
+  .home-grid ul { padding-left: 0.2em; margin-top: 0.5em; list-style: none; }
   .home-grid li { margin-bottom: 0.5em; font-size: 0.82em; }
+  .home-grid > div:nth-child(1) li::before { content: "› "; }
+  .home-grid > div:nth-child(2) li::before { content: "◦ "; }
+  .home-grid > div:nth-child(3) li::before { content: "⁂ "; }
   .mountain-sketch { display: block; margin-top: 2em; margin-bottom: 0; height: 40px; }
   @media (min-width: 1024px) {
     .home-grid { margin-left: -200px; width: calc(100% + 200px); }
