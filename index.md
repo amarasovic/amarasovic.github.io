@@ -82,10 +82,10 @@ We're grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *
   <div>
     <h3>Recent Talks</h3>
     <ul>
-      <li>University of Arizona, <em>Faithfulness of LLM Reasoning &amp; Its Emerging Questions</em></li>
-      <li>UCLA, <em>If You Want Reasoning, Look Inside</em></li>
-      <li>Workshop on the Application of LLM Explainability to Reasoning &amp; Planning @ CoLM 2025, <em>If You Want Reasoning, Look Inside</em></li>
-      <li>RepL4NLP @ NAACL 2025, <em>If You Want Reasoning, Look Inside</em></li>
+      <li>Invited talk, CogSci colloquium, University of Arizona</li>
+      <li>Guest lecture, UCLA</li>
+      <li>Keynote, Workshop on the Application of LLM Explainability to Reasoning &amp; Planning @ CoLM 2025</li>
+      <li>Keynote, RepL4NLP @ NAACL 2025</li>
     </ul>
   </div>
 
