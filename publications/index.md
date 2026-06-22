@@ -9,13 +9,18 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints
 
-* Nathan Stringham, Fateme Hashemi Chaleshtori, Xinyuan Yan, Zhichao Xu, Bei Wang, **Ana Marasović**                 
-<span style="color:navy">Teaching People LLM's Errors and Getting it Right</span>                          
-[Paper](https://arxiv.org/abs/2512.21422){: .btn .btn--info .btn--small}
+* Yoav Gur-Arieh, **Ana Marasović**, Mor Geva                 
+<span style="color:navy">Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth</span>                          
+[Paper](https://arxiv.org/abs/2605.25052){: .btn .btn--info .btn--small} [Data](https://huggingface.co/collections/yoavgurarieh/bonafide){: .btn .btn--warning .btn--small}
 
 ## Peer-Reviewed Publications
 
 ### 2026
+
+* Nathan Stringham, Fateme Hashemi Chaleshtori, Xinyuan Yan, Zhichao Xu, Bei Wang, **Ana Marasović**                 
+<span style="color:navy">Teaching People LLM's Errors and Getting it Right</span>                          
+TrustNLP @ ACL                           
+[Paper](https://arxiv.org/abs/2512.21422){: .btn .btn--info .btn--small}
 
 * Kenneth Marino, Md Farhan Ishmam, **Ana Marasović**                 
 <span style="color:navy">Computer Use Survey: A Visual Survey of Computer Use Agents</span>                          

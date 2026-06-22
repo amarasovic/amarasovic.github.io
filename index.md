@@ -84,7 +84,7 @@ We're grateful to *Coefficient Giving*, *Martian*, the *One-U RAI Initiative*, *
     <ul>
       <li>Invited talk, CogSci colloquium, University of Arizona</li>
       <li>Guest lecture, UCLA</li>
-      <li>Keynote, Workshop on the Application of LLM Explainability to Reasoning &amp; Planning @ CoLM 2025</li>
+      <li>Keynote, Application of LLM Explainability to Reasoning &amp; Planning @ CoLM 2025</li>
       <li>Keynote, RepL4NLP @ NAACL 2025</li>
     </ul>
   </div>
