@@ -15,7 +15,7 @@ sidebar:
 ---
 
 <div style="background-color: #f0f0f0; padding: 12px 15px; border-radius: 5px; font-size: 13px; line-height: 1.4; margin-bottom: 1em;">
-  Prospective students: I am not accepting new students for the current admissions cycle.
+  I am not accepting new PhD students applying to the 2026/27 admissions cycle.
 </div>
 
 <div style="background-color: #f0f0f0; padding: 12px 15px; border-radius: 5px; font-size: 13px; line-height: 1.4; margin-bottom: 2em;">
