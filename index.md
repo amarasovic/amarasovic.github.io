@@ -15,7 +15,7 @@ sidebar:
 ---
 
 <div style="background-color: #f0f0f0; padding: 12px 15px; border-radius: 5px; font-size: 13px; line-height: 1.4; margin-bottom: 1em;">
-  <span style="color: #8b0000;"><strong>PhD admissions are closed at this time.</strong></span> The next cycle opens in fall'26 (to start in the 2027–28 school year), but it is unlikely I'll recruit new students.
+  Prospective students: I am not accepting new students for the current admissions cycle.
 </div>
 
 <div style="background-color: #f0f0f0; padding: 12px 15px; border-radius: 5px; font-size: 13px; line-height: 1.4; margin-bottom: 2em;">
