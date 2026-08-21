@@ -17,6 +17,10 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ### 2026
 
+* Alexander Gill, Md Farhan Ishmam, Xuyen Nguyen, Neha Bhat, Parker Henry DeYoung, Fateme Hashemi Chaleshtori, Nathan Stringham, Kenneth Marino, **Ana Marasović**                 
+<span style="color:navy">The Hard Part Comes After Search: Benchmarking Web Agents on Synthesizing, Organizing, and Displaying Knowledge</span>                          
+EMNLP Findings
+
 * Nathan Stringham, Fateme Hashemi Chaleshtori, Xinyuan Yan, Zhichao Xu, Bei Wang, **Ana Marasović**                 
 <span style="color:navy">Teaching People LLM's Errors and Getting it Right</span>                          
 TrustNLP @ ACL                           
@@ -40,10 +44,6 @@ ICLR 2025 Workshop on Bidirectional Human-AI Alignment
 <span style="color:navy">Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps</span>                          
 EMNLP <span style="color:red">(outstanding paper award 🌟)</span>                           
 [Paper](https://arxiv.org/abs/2502.14829){: .btn .btn--info .btn--small} [Code](https://github.com/technion-cs-nlp/parametric-faithfulness){: .btn .btn--danger .btn--small}  
-
-* Alexander Gill, Md Farhan Ishmam, Xuyen Nguyen, Neha Bhat, Parker Henry DeYoung, Fateme Hashemi Chaleshtori, Nathan Stringham, Kenneth Marino, **Ana Marasović**                 
-<span style="color:navy">The Hard Part Comes After Search: Benchmarking Web Agents on Synthesizing, Organizing, and Displaying Knowledge</span>                          
-EMNLP Findings
 
 * Alexander Gill, Abhilasha Ravichander, **Ana Marasović**                 
 <span style="color:navy">What Has Been Lost with Synthetic Evaluation?</span>                          
