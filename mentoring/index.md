@@ -31,7 +31,7 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 **Collaborators**
 
-Our group also works closely with external researchers, including Anubrata Das, [Yoav Gur-Arieh](https://yoav.ml/) and [Mor Geva](https://mega002.github.io/) (Tel Aviv University), [Martin Tutek](https://mttk.github.io/) (University of Zagreb), and [Yonatan Belinkov](https://belinkov.com/) (Technion). We also collaborate with faculty in other departments at Utah, such as Zac Imel (Counseling Psychology Program, Department of Educational Psychology).
+Our group also works closely with external researchers, including [Anubrata Das](https://anubrata.github.io/) (Autodesk Research), [Yoav Gur-Arieh](https://yoav.ml/) and [Mor Geva](https://mega002.github.io/) (Tel Aviv University), [Martin Tutek](https://mttk.github.io/) (University of Zagreb), and [Yonatan Belinkov](https://belinkov.com/) (Technion). We also collaborate with faculty in other departments at Utah, such as [Zac Imel](https://profiles.faculty.utah.edu/u0377435) (Counseling Psychology Program, Department of Educational Psychology).
 
 ### Alumni
 
