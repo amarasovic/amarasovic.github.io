@@ -29,6 +29,10 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 * Lucas Pearce
 
+**Collaborators**
+
+Our group also works closely with external researchers, including Anubrata Das, [Yoav Gur-Arieh](https://yoav.ml/) and [Mor Geva](https://mega002.github.io/) (Tel Aviv University), [Martin Tutek](https://mttk.github.io/) (University of Zagreb), and [Yonatan Belinkov](https://belinkov.com/) (Technion). We also collaborate with faculty in other departments at Utah, such as Zac Imel (Counseling Psychology Program, Department of Educational Psychology).
+
 ### Alumni
 
 * Braden Fiedel (undergraduate and MS researcher)
@@ -49,7 +53,7 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 * Jordan Tan (undergraduate researcher)
 * Dana EeJae Ahn (undergraduate researcher)
 * [Mugdha Abhyankar](https://mugdhaab.github.io/) (MS researcher)
-* Ryhor Pryslopski (undergraduate researcher)
+* Ryhor Pryslopski (MS researcher)
 
 
 ##  Before joining Utah
