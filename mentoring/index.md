@@ -16,28 +16,28 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 * [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)
 * [Alex Gill](https://alexgill321.github.io/)
 * [Jayanta Sadhu](https://jayanta47.github.io/)
-* Shrusti Ghela
-* Andrei Kopanev
+* [Shrusti Ghela](https://shrustighela.com/)
+* [Andrei Kopanev](https://personal.andrei-homelab.com/)
 
 **MS Researchers**
 
 * Neeraja Vasa
 * Thomas Kauffman
-* Xuyen Nguyen
 * Neha Bhat
 
 **Undergraduate Researchers**
 
-* Lucas Pearch
-* Casey Miller
-* Kishan Thambu
+* Lucas Pearce
 
 ### Alumni
 
-* [Nate Stringham](https://n8stringham.github.io/about.html) (MS researcher)
 * Braden Fiedel (undergraduate and MS researcher)
+* Xuyen Nguyen (MS researcher)
 * Parker DeYoung (undergraduate researcher)
 * Matthew Lee (undergraduate researcher)
+* [Nate Stringham](https://n8stringham.github.io/about.html) (MS researcher)
+* Casey Miller (undergraduate researcher)
+* Kishan Thambu (undergraduate researcher)
 * [Michael Clemens](http://mclem.me/) (MS researcher) &rarr; New Jersey Institute of Technology PhD
 * Purbid Bambroo (MS researcher) &rarr; Noetica
 * [Alex Gill](https://alexgill321.github.io/) (MS researcher) &rarr; University of Utah PhD
