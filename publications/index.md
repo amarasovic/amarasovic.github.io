@@ -9,13 +9,14 @@ Jump to: [preprints](https://www.anamarasovic.com/publications/#preprints), peer
 
 ## Preprints
 
-* Yoav Gur-Arieh, **Ana Marasović**, Mor Geva                 
-<span style="color:navy">Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth</span>                          
-[Paper](https://arxiv.org/abs/2605.25052){: .btn .btn--info .btn--small} [Data](https://huggingface.co/collections/yoavgurarieh/bonafide){: .btn .btn--warning .btn--small}
-
 ## Peer-Reviewed Publications
 
 ### 2026
+
+* Yoav Gur-Arieh, **Ana Marasović**, Mor Geva                 
+<span style="color:navy">Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth</span>                          
+NeurIPS                           
+[Paper](https://arxiv.org/abs/2605.25052){: .btn .btn--info .btn--small} [Data](https://huggingface.co/collections/yoavgurarieh/bonafide){: .btn .btn--warning .btn--small}
 
 * Alexander Gill, Md Farhan Ishmam, Xuyen Nguyen, Neha Bhat, Parker Henry DeYoung, Fateme Hashemi Chaleshtori, Nathan Stringham, Kenneth Marino, **Ana Marasović**                 
 <span style="color:navy">The Hard Part Comes After Search: Benchmarking Web Agents on Synthesizing, Organizing, and Displaying Knowledge</span>                          

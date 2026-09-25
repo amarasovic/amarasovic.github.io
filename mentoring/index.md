@@ -11,46 +11,45 @@ I am leading a research group ANANAS within [UtahNLP](http://nlp.cs.utah.edu/). 
 
 **Utah MS/BS students interested in research opportunities, please ensure to review the contact/FAQ section before visiting my office without an appointment.**
 
-**PhD Researchers**           
+**PhD Students**
 
-* [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)   
-* [Nate Stringham](https://n8stringham.github.io/about.html)
+* [Fateme Hashemi Chaleshtori](https://fateme-hshm96.github.io/)
 * [Alex Gill](https://alexgill321.github.io/)
 * [Jayanta Sadhu](https://jayanta47.github.io/)
-* Braden Fiedel
-
-
-**Undergraduate Researchers**
-* Lucas Pearce
-* Parker DeYoung
-* Matthew Lee
+* Shrusti Ghela
+* Andrei Kopanev
 
 **MS Researchers**
 
-* Neha Bhat
+* Neeraja Vasa
+* Thomas Kauffman
 * Xuyen Nguyen
+* Neha Bhat
 
-**Current and Past Collaborators**
+**Undergraduate Researchers**
 
-* [Mor Geva Pipek](https://mega002.github.io/) (Tel Aviv University)
-* [Yoav Gur-Arieh](https://yoav.ml/) (Tel Aviv University)
-* [Martin Tutek](https://mttk.github.io/) (University of Zagreb)
-* [Yonatan Belinkov](https://belinkov.com/) (Technion)
-* [Michael Clemens](http://mclem.me/)
-* [Ashim Gupta](https://ashim95.github.io/)
-* [Akansha Kalra](https://akansha-kalra.github.io/)
-* Atreya Ghosal
-* Zhichao Xu
+* Lucas Pearch
+* Casey Miller
+* Kishan Thambu
 
 ### Alumni
 
-* Ryhor Pryslopski (undergraduate researcher)
+* [Nate Stringham](https://n8stringham.github.io/about.html) (MS researcher)
+* Braden Fiedel (undergraduate and MS researcher)
+* Parker DeYoung (undergraduate researcher)
+* Matthew Lee (undergraduate researcher)
+* [Michael Clemens](http://mclem.me/) (MS researcher) &rarr; New Jersey Institute of Technology PhD
 * Purbid Bambroo (MS researcher) &rarr; Noetica
-* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/)  (MS researcher) &rarr; UMass Amherst PhD             
-* [Jacob Johnson](https://nnnnnnnn.info/) (undergraduate and PhD researcher) &rarr; Weber State University MS          
-* Byron Liu  (undergraduate thesis)             
-* Dana EeJae Ahn (undergraduate researcher)       
+* [Alex Gill](https://alexgill321.github.io/) (MS researcher) &rarr; University of Utah PhD
+* Adwait Shinganwade (MS researcher)
+* Yash Lele (MS researcher)
+* [Rishanth Rajendhran](https://rishanthrajendhran.github.io/) (MS researcher) &rarr; University of Maryland PhD
+* [Jacob Johnson](https://nnnnnnnn.info/) (undergraduate and PhD researcher) &rarr; Weber State University MS
+* Byron Liu (undergraduate researcher, co-mentored with Maitrey Mehta)
+* Jordan Tan (undergraduate researcher)
+* Dana EeJae Ahn (undergraduate researcher)
 * [Mugdha Abhyankar](https://mugdhaab.github.io/) (MS researcher)
+* Ryhor Pryslopski (undergraduate researcher)
 
 
 ##  Before joining Utah
