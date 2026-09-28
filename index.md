@@ -15,7 +15,7 @@ sidebar:
 ---
 
 <div style="background-color: #f0f0f0; padding: 12px 15px; border-radius: 5px; font-size: 13px; line-height: 1.4; margin-bottom: 1em;">
-  I am not recruiting new PhD students applying to the 2026/27 admissions cycle.
+  I’m not recruiting new PhD students in the 2026/27 or 2027/28 admissions cycles, and I don’t respond to emails about admissions.
 </div>
 
 <div style="background-color: #f0f0f0; padding: 12px 15px; border-radius: 5px; font-size: 13px; line-height: 1.4; margin-bottom: 2em;">
